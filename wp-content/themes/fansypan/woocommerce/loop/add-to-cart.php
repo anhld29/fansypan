@@ -1,0 +1,28 @@
+<?php
+/**
+ * Loop Add to Cart
+ *
+ * @author 		WooThemes
+ * @package 	WooCommerce/Templates
+ * @version     3.3.0
+ */
+
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly
+}
+global $product;
+
+
+echo apply_filters( 'woocommerce_loop_add_to_cart_link',
+	sprintf( '<a href="%s" rel="nofollow" data-product_id="%s" data-product_sku="%s" data-quantity="%s" class="%s product_type_%s %s" title="%s">%s</a>',
+		esc_url( $product->add_to_cart_url() ),
+		esc_attr( $product->get_id()),
+		esc_attr( $product->get_sku() ),
+		esc_attr( isset( $quantity ) ? $quantity : 1 ),
+		$product->is_purchasable() && $product->is_in_stock() ? 'add_to_cart_button' : '',
+		esc_attr( $product->get_type() ),
+		method_exists($product, 'supports') && $product->supports( 'ajax_add_to_cart' ) ? 'ajax_add_to_cart' : '', 
+		esc_attr( $product->add_to_cart_text() ),
+		esc_html( $product->add_to_cart_text() )
+	),
+$product );

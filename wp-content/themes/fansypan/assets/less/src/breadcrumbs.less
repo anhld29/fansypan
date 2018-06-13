@@ -1,0 +1,33 @@
+/*--------------------------------------------------------------
+11.0 - Breadcrumbs
+--------------------------------------------------------------*/
+.breadcrumb {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  > li {
+    display: inline-block;
+    color: @breadcrumb-color;
+
+    + li{
+      .add-fa-icon-before("\f105");
+      &:before{
+        //content: "@{breadcrumb-separator}\00a0";
+        padding: 0 @grid-gutter-width/2;
+        color: @breadcrumb-color;
+      }
+    }
+    a{
+      color: @breadcrumb-color;
+      &:hover{
+        color: @breadcrumb-hover-color;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  > .active {
+    color: @breadcrumb-active-color;
+  }
+}

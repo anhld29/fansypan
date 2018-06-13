@@ -1,0 +1,207 @@
+/*--------------------------------------------------------------
+7.0 - Buttons
+--------------------------------------------------------------*/
+
+// Base styles
+// --------------------------------------------------
+
+.btn {
+  display: inline-block;
+  margin-bottom: 0; // For input.btn
+  font-weight: @btn-font-weight;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
+  border: 2px solid transparent;
+  white-space: nowrap;
+  text-transform: uppercase;
+  .button-size(@padding-base-vertical;@padding-base-horizontal; @font-size-base; @line-height-base; @border-radius-base);
+  .user-select(none);
+  outline: none;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  &:after {
+    content: '';
+    position: absolute;
+    left: -220%;
+    top: -500%;
+    width: 140%;
+    height: 1050%;
+    .rotate(45deg);
+    .transition(all 0.5s ease);
+    background: @brand-primary;
+    z-index: -1;
+  }
+  &:hover,
+  &:focus {
+    text-decoration: none;
+    border-color: @brand-primary;
+    color: #fff;
+    &:after {
+      left: 0%;
+    }
+  }
+  i,
+  span{
+    z-index: 2;
+    position: relative;
+  }
+}
+
+// }
+
+//btn Effect
+
+
+// Alternate buttons
+// --------------------------------------------------
+
+
+.btn-default {
+  .button-variant(@btn-default-color; @btn-default-bg; @btn-default-border);
+  .btn-outline();
+}
+.btn-primary {
+  .button-variant(@btn-primary-color; @btn-primary-bg; @btn-primary-border);
+}
+// Success appears as green
+.btn-success {
+  .button-variant(@btn-success-color; @btn-success-bg; @btn-success-border);
+}
+// Info appears as blue-green
+.btn-info {
+  .button-variant(@btn-info-color; @btn-info-bg; @btn-info-border);
+}
+// Warning appears as orange
+.btn-warning {
+  .button-variant(@btn-warning-color; @btn-warning-bg; @btn-warning-border);
+}
+// Danger and error appear as red
+.btn-danger {
+  .button-variant(@btn-danger-color; @btn-danger-bg; @btn-danger-border);
+}
+.btn-black {
+  .button-variant(@btn-black-color; @btn-black-bg; @btn-black-border);
+}
+.btn-white {
+  .button-variant(@btn-white-color; @btn-white-bg; @btn-white-border);
+}
+
+.btn-outline(){
+  background: transparent;
+  border: 2px solid @gray-dark; 
+  text-transform: uppercase;
+  color: @gray-dark;
+  position: relative;
+}
+.btn-outline {
+  .btn-outline();
+}
+.btn-primary-outline {
+  background: transparent;
+  border-color: @btn-primary-border; 
+  text-transform: uppercase;
+  color:@btn-primary-border;
+  position: relative;
+}
+// Success appears as green
+.btn-success-outline {
+  background: transparent;
+  border: 2px solid @btn-success-border; 
+  text-transform: uppercase;
+  color:@btn-success-border;
+  position: relative;
+}
+// Info appears as blue-green
+.btn-info-outline {
+  background: transparent;
+  border: 2px solid @btn-info-border; 
+  text-transform: uppercase;
+  color:@btn-info-border;
+  position: relative;
+}
+// Warning appears as orange
+.btn-warning-outline {
+  background: transparent;
+  border: 2px solid @btn-warning-border; 
+  text-transform: uppercase;
+  color:@btn-warning-border;
+  position: relative;
+}
+// Danger and error appear as red
+.btn-danger-outline {
+  background: transparent;
+  border: 2px solid @btn-danger-border; 
+  text-transform: uppercase;
+  color:@btn-danger-border;
+  position: relative;
+}
+.btn-white-outline {
+  background: transparent;
+  border: 2px solid @btn-white-border; 
+  text-transform: uppercase;
+  color:@btn-white-border;
+  position: relative;
+}
+.btn-black-outline {
+  background: transparent;
+  border: 2px solid @btn-black-border; 
+  text-transform: uppercase;
+  color:@btn-black-border;
+  position: relative;
+}
+
+
+// Button Sizes
+// --------------------------------------------------
+
+.btn-lg {
+  // line-height: ensure even-numbered height of button next to large input
+  .button-size(@padding-large-vertical; @padding-large-horizontal; @font-size-large; @line-height-large; @border-radius-large);
+}
+.btn-sm {
+  // line-height: ensure proper height of button next to small input
+  .button-size(@padding-small-vertical; @padding-small-horizontal; @font-size-small; @line-height-small; @border-radius-small);
+}
+.btn-xs {
+  .button-size(@padding-xs-vertical; @padding-xs-horizontal; @font-size-small; @line-height-small; @border-radius-small);
+}
+
+.btn-align-left{
+
+}
+.btn-align-center{
+	position: relative;
+  left: 50%;
+  .translate(-50%,0);
+}
+.btn-align-right{
+	float: right;
+}
+.btn-uppercase{
+  text-transform: uppercase;
+}
+
+// Block button
+// --------------------------------------------------
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
+// Vertically space out multiple block buttons
+.btn-block + .btn-block {
+  margin-top: 5px;
+}
+
+
+// Specificity overrides
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+  &.btn-block {
+    width: 100%;
+  }
+}

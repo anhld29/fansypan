@@ -1,0 +1,36 @@
+#menu_order{
+	width:10%;
+}
+.wp-list-table.tags td:hover{ cursor: move; }
+.ui-sortable tr:hover {
+	cursor: move;
+}
+.ui-sortable tr.alternate {
+	background-color: #F9F9F9;	
+}
+.ui-sortable tr.ui-sortable-helper {
+	background-color: #F9F9F9;
+	border-top: 1px solid #DFDFDF;
+	border-bottom: 1px solid #DFDFDF;
+}
+.column-thumbnail strong{
+	display: block;
+	text-align: center;
+}
+.slider-thumb{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
+}
+.column-title{
+	vertical-align: middle !important;
+}
+.column-title strong{
+	display: none !important;
+}
+.row-actions{
+	display: block !important;
+	visibility: visible !important;
+}

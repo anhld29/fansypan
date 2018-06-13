@@ -1,0 +1,1543 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WOOW\n"
+"POT-Creation-Date: 2016-09-06 23:07+0700\n"
+"PO-Revision-Date: 2016-09-06 23:07+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;esc_html__;esc_attr_e;_x;"
+"_n_noop:1,2;_e;esc_html_e;esc_attr__;_n:1,2;_nx:1,2;_nx_noop:1,2\n"
+"X-Poedit-Basepath: /Volumes/WORK/webserver/www/woow/wp-content/themes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: woow\n"
+"X-Poedit-SearchPathExcluded-0: woow/assets\n"
+
+#: woow/404.php:8
+msgid "WHOOPS!"
+msgstr ""
+
+#: woow/404.php:9
+msgid "404"
+msgstr ""
+
+#: woow/404.php:11
+msgid "It looks like you are lost! Try searching here"
+msgstr ""
+
+#: woow/author-bio.php:9
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: woow/author-bio.php:24
+#, php-format
+msgid "%s on Facebook"
+msgstr ""
+
+#: woow/author-bio.php:29
+#, php-format
+msgid "%s on Twitter"
+msgstr ""
+
+#: woow/author-bio.php:34
+#, php-format
+msgid "%s on Google +"
+msgstr ""
+
+#: woow/author-bio.php:39
+#, php-format
+msgid "%s on Linked In"
+msgstr ""
+
+#: woow/author-bio.php:44
+#, php-format
+msgid "%s on Pinterest"
+msgstr ""
+
+#: woow/comments.php:10
+msgid "No Comments"
+msgstr ""
+
+#: woow/comments.php:10
+msgid "One Comment"
+msgstr ""
+
+#: woow/comments.php:10 woow/includes/functions.php:1445
+msgid "Comments"
+msgstr ""
+
+#: woow/comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: woow/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: woow/content-none.php:8
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: woow/content-none.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: woow/footer.php:24
+msgid "NEWSLETTER"
+msgstr ""
+
+#: woow/functions.php:52
+msgid "Top Menu"
+msgstr ""
+
+#: woow/functions.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: woow/functions.php:54
+msgid "Mobile Menu"
+msgstr ""
+
+#: woow/functions.php:136
+msgid "on"
+msgstr ""
+
+#: woow/functions.php:193
+msgid "All posts displayed"
+msgstr ""
+
+#: woow/functions.php:194
+msgid "Loading the next set of posts..."
+msgstr ""
+
+#: woow/functions.php:199
+msgid "Sending info, please wait..."
+msgstr ""
+
+#: woow/functions.php:211
+msgid "Main Sidebar"
+msgstr ""
+
+#: woow/functions.php:212
+msgid "This is main sidebar"
+msgstr ""
+
+#: woow/functions.php:221
+msgid "Shop Sidebar"
+msgstr ""
+
+#: woow/functions.php:222 woow/functions.php:231 woow/functions.php:240
+msgid "This sidebar use for Woocommerce page"
+msgstr ""
+
+#: woow/functions.php:230
+msgid "Shop Filter Sidebar"
+msgstr ""
+
+#: woow/functions.php:239
+msgid "Mobile Off-canvas Sidebar"
+msgstr ""
+
+#: woow/functions.php:249
+msgid "Footer Sidebar #"
+msgstr ""
+
+#: woow/header.php:103
+msgid "Skip to main content"
+msgstr ""
+
+#: woow/header.php:119 woow/header/toggle-offcanvas.php:71
+msgid "My Wishlist"
+msgstr ""
+
+#: woow/header.php:121 woow/header/center.php:62 woow/header/classic.php:61
+#: woow/woocommerce/global/form-login.php:43
+#: woow/woocommerce/myaccount/form-login.php:23
+#: woow/woocommerce/myaccount/form-login.php:35
+#: woow/woocommerce/myaccount/form-login.php:64
+msgid "Login"
+msgstr ""
+
+#: woow/header.php:121 woow/header/center.php:62 woow/header/classic.php:61
+msgid "Account"
+msgstr ""
+
+#: woow/header.php:135 woow/header.php:165 woow/header/center.php:261
+#: woow/header/classic.php:195
+msgid "No menu assigned!"
+msgstr ""
+
+#: woow/header.php:142 woow/header/center.php:142 woow/header/classic.php:133
+#: woow/header/toggle-offcanvas.php:103
+msgid "Toggle navigation"
+msgstr ""
+
+#: woow/header/center.php:70 woow/header/classic.php:69
+#: woow/header/toggle-offcanvas.php:78
+msgid "Logout"
+msgstr ""
+
+#: woow/header/center.php:275 woow/header/classic.php:261
+#: woow/header/toggle-offcanvas.php:115
+msgid "Close"
+msgstr ""
+
+#: woow/header/toggle-offcanvas.php:47
+#: woow/woocommerce/checkout/thankyou.php:31
+msgid "My Account"
+msgstr ""
+
+#: woow/includes/functions.php:414
+msgid "Facebook"
+msgstr ""
+
+#: woow/includes/functions.php:418
+msgid "Twitter"
+msgstr ""
+
+#: woow/includes/functions.php:422
+msgid "Google+"
+msgstr ""
+
+#: woow/includes/functions.php:426
+msgid "Pinterest"
+msgstr ""
+
+#: woow/includes/functions.php:430
+msgid "LinkedIn"
+msgstr ""
+
+#: woow/includes/functions.php:434
+msgid "RSS"
+msgstr ""
+
+#: woow/includes/functions.php:438
+msgid "Instagram"
+msgstr ""
+
+#: woow/includes/functions.php:442
+msgid "GitHub"
+msgstr ""
+
+#: woow/includes/functions.php:446
+msgid "Behance"
+msgstr ""
+
+#: woow/includes/functions.php:450
+msgid "StackExchange"
+msgstr ""
+
+#: woow/includes/functions.php:454
+msgid "Tumblr"
+msgstr ""
+
+#: woow/includes/functions.php:458
+msgid "SoundCloud"
+msgstr ""
+
+#: woow/includes/functions.php:462
+msgid "Dribbble"
+msgstr ""
+
+#: woow/includes/functions.php:516
+msgid "Share on Facebook"
+msgstr ""
+
+#: woow/includes/functions.php:521
+msgid "Share on Twitter"
+msgstr ""
+
+#: woow/includes/functions.php:526
+msgid "Share on Google +"
+msgstr ""
+
+#: woow/includes/functions.php:531
+msgid "Share on Pinterest"
+msgstr ""
+
+#: woow/includes/functions.php:536
+msgid "Share on Linked In"
+msgstr ""
+
+#: woow/includes/functions.php:707
+msgid "Related News"
+msgstr ""
+
+#: woow/includes/functions.php:758
+msgid "Author"
+msgstr ""
+
+#: woow/includes/functions.php:763
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: woow/includes/functions.php:766
+msgid "Edit"
+msgstr ""
+
+#: woow/includes/functions.php:771
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woow/includes/functions.php:779
+msgid "Reply"
+msgstr ""
+
+#: woow/includes/functions.php:791
+msgid "Search..."
+msgstr ""
+
+#: woow/includes/functions.php:792 woow/searchform.php:2 woow/searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: woow/includes/functions.php:820
+msgid "Name *"
+msgstr ""
+
+#: woow/includes/functions.php:821
+msgid "Email *"
+msgstr ""
+
+#: woow/includes/functions.php:822
+msgid "Website"
+msgstr ""
+
+#: woow/includes/functions.php:826
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: woow/includes/functions.php:827
+msgid "Leave a reply"
+msgstr ""
+
+#: woow/includes/functions.php:828
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: woow/includes/functions.php:829
+msgid "Click here to cancel the reply"
+msgstr ""
+
+#: woow/includes/functions.php:830
+#: woow/woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: woow/includes/functions.php:832 woow/includes/functions.php:1439
+#: woow/includes/functions.php:1442
+msgid "Comment"
+msgstr ""
+
+#: woow/includes/functions.php:833
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: woow/includes/functions.php:847
+msgid "words"
+msgstr ""
+
+#: woow/includes/functions.php:902 woow/includes/functions.php:913
+msgid "%title"
+msgstr ""
+
+#: woow/includes/functions.php:907
+msgid "Previous article"
+msgstr ""
+
+#: woow/includes/functions.php:918
+msgid "Next article"
+msgstr ""
+
+#: woow/includes/functions.php:956
+msgid "Archive for date:"
+msgstr ""
+
+#: woow/includes/functions.php:960
+msgid "Archive for month:"
+msgstr ""
+
+#: woow/includes/functions.php:964
+msgid "Archive for year:"
+msgstr ""
+
+#: woow/includes/functions.php:973
+msgid "search results for"
+msgstr ""
+
+#: woow/includes/functions.php:977
+msgid "search result for"
+msgstr ""
+
+#: woow/includes/functions.php:984
+msgid "Search results for"
+msgstr ""
+
+#: woow/includes/functions.php:988
+msgid "To search the site please enter a valid term"
+msgstr ""
+
+#: woow/includes/functions.php:1016
+msgid "404 - Page not found"
+msgstr ""
+
+#: woow/includes/functions.php:1024
+msgid "Page"
+msgstr ""
+
+#: woow/includes/functions.php:1036
+msgid "My Portfolio"
+msgstr ""
+
+#: woow/includes/functions.php:1413
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: woow/includes/functions.php:1416
+#, php-format
+msgid "By %1$s"
+msgstr ""
+
+#: woow/includes/functions.php:1426
+#, php-format
+msgid "In %1$s"
+msgstr ""
+
+#: woow/includes/functions.php:1438
+#, php-format
+msgid "Leave a comment on: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woow/includes/functions.php:1441
+#, php-format
+msgid "View a comment on: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woow/includes/functions.php:1444
+#, php-format
+msgid "View all comments on: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woow/includes/functions.php:1508
+#, php-format
+msgid "%d/%d"
+msgstr ""
+
+#: woow/includes/functions.php:1830
+#, php-format
+msgid "%s Comment"
+msgstr ""
+
+#: woow/includes/functions.php:1886
+msgid "Not Subscribe to Mailchimp!"
+msgstr ""
+
+#: woow/includes/functions.php:1888
+msgid "Subscribe to Mailchimp Successful!"
+msgstr ""
+
+#: woow/includes/functions.php:1896
+msgid "Subscribe"
+msgstr ""
+
+#: woow/includes/functions.php:1920
+msgid "None"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:333
+#: woow/includes/plugins/tgmpa_register.php:64
+msgid "Install Required Plugins"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:334
+#: woow/includes/plugins/tgmpa_register.php:65
+msgid "Install Plugins"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:335
+#: woow/includes/plugins/tgmpa_register.php:66
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:336
+#: woow/includes/plugins/tgmpa_register.php:67
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:338
+#: woow/includes/plugins/tgmpa_register.php:68
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:343
+#: woow/includes/plugins/tgmpa_register.php:69
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:353
+#: woow/includes/plugins/tgmpa_register.php:74
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:368
+#: woow/includes/plugins/tgmpa_register.php:71
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:373
+#: woow/includes/plugins/tgmpa_register.php:72
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:383
+#: woow/includes/plugins/tgmpa_register.php:76
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:397
+#: woow/includes/plugins/tgmpa_register.php:78
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:399
+#: woow/includes/plugins/tgm-plugin-activation.php:3029
+#: woow/includes/plugins/tgmpa_register.php:79
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:400
+#: woow/includes/plugins/tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:828
+#: woow/includes/plugins/tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:935
+#: woow/includes/plugins/tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:1881
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2280
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2371
+msgid "unknown"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2491
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2495
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2500
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3370
+#: woow/includes/plugins/tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3370
+#: woow/includes/plugins/tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: woow/includes/plugins/tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: woow/includes/plugins/tgmpa_register.php:70
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgmpa_register.php:73
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgmpa_register.php:75
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgmpa_register.php:77
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/includes/plugins/tgmpa_register.php:80
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: woow/index.php:5 woow/search.php:5 woow/vc_templates/dh_post.php:23
+#: woow/vc_templates/dh_wc_product_mansory.php:14
+msgid "Load More"
+msgstr ""
+
+#: woow/index.php:152 woow/search.php:152 woow/vc_templates/dh_post.php:216
+msgid "Read More"
+msgstr ""
+
+#: woow/searchform.php:4
+msgid "Search something&hellip;"
+msgstr ""
+
+#: woow/single.php:32
+msgid "Continue reading &hellip;"
+msgstr ""
+
+#: woow/single.php:33
+msgid "Pages:"
+msgstr ""
+
+#: woow/vc_templates/dh_box_feature.php:69
+msgid "View More"
+msgstr ""
+
+#: woow/vc_templates/dh_countdown.php:22
+msgid "Days"
+msgstr ""
+
+#: woow/vc_templates/dh_countdown.php:26
+msgid "Hours"
+msgstr ""
+
+#: woow/vc_templates/dh_countdown.php:30
+msgid "Minuts"
+msgstr ""
+
+#: woow/vc_templates/dh_countdown.php:34
+msgid "Seconds"
+msgstr ""
+
+#: woow/vc_templates/dh_instagram.php:47
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: woow/vc_templates/dh_portfolio.php:133
+#: woow/vc_templates/dh_portfolio.php:147
+#: woow/vc_templates/dh_wc_product_mansory.php:96
+msgid "All"
+msgstr ""
+
+#: woow/vc_templates/dh_portfolio.php:138
+msgid "Date"
+msgstr ""
+
+#: woow/vc_templates/dh_portfolio.php:139
+#: woow/woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: woow/vc_templates/dh_portfolio.php:143
+msgid "Filters"
+msgstr ""
+
+#: woow/vc_templates/dh_post_grid.php:170
+#: woow/vc_templates/dh_post_slider.php:170
+msgid "Read more"
+msgstr ""
+
+#: woow/vc_templates/dh_wc_product_lookbooks.php:51
+#: woow/vc_templates/product_categories_grid.php:142
+#: woow/vc_templates/product_categories_grid.php:144
+msgid "Shop Now"
+msgstr ""
+
+#: woow/vc_templates/dh_wc_product_mansory.php:168
+#: woow/woocommerce/content-product.php:65
+msgid "Out of stock"
+msgstr ""
+
+#: woow/woocommerce-swatches/single-product/variable.php:32
+msgid "Reset selection"
+msgstr ""
+
+#: woow/woocommerce.php:26
+msgid "Loading products"
+msgstr ""
+
+#: woow/woocommerce.php:26
+msgid "All products loaded"
+msgstr ""
+
+#: woow/woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: woow/woocommerce/cart/cart-shipping.php:22
+#: woow/woocommerce/cart/cart-shipping.php:102
+msgid "Shipping"
+msgstr ""
+
+#: woow/woocommerce/cart/cart-shipping.php:64
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woow/woocommerce/cart/cart-shipping.php:68
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: woow/woocommerce/cart/cart-shipping.php:72
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woow/woocommerce/cart/cart-shipping.php:81
+#: woow/woocommerce/cart/cart-shipping.php:87
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woow/woocommerce/cart/cart.php:27 woow/woocommerce/cart/cart.php:60
+#: woow/woocommerce/checkout/form-pay.php:20
+msgid "Product"
+msgstr ""
+
+#: woow/woocommerce/cart/cart.php:28 woow/woocommerce/cart/cart.php:76
+msgid "Price"
+msgstr ""
+
+#: woow/woocommerce/cart/cart.php:29 woow/woocommerce/cart/cart.php:82
+msgid "Quantity"
+msgstr ""
+
+#: woow/woocommerce/cart/cart.php:30 woow/woocommerce/cart/cart.php:99
+msgid "Total"
+msgstr ""
+
+#: woow/woocommerce/cart/cart.php:46
+msgid "Remove this item"
+msgstr ""
+
+#: woow/woocommerce/cart/cart.php:72
+msgid "Available on backorder"
+msgstr ""
+
+#: woow/woocommerce/cart/cart.php:117
+msgid "Discount codes"
+msgstr ""
+
+#: woow/woocommerce/cart/cart.php:118
+#: woow/woocommerce/checkout/form-coupon.php:24
+msgid "Coupon code"
+msgstr ""
+
+#: woow/woocommerce/cart/cart.php:120
+#: woow/woocommerce/checkout/form-coupon.php:28
+msgid "Apply Coupon"
+msgstr ""
+
+#: woow/woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr ""
+
+#: woow/woocommerce/cart/cross-sells.php:52
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woow/woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woow/woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woow/woocommerce/cart/shipping-calculator.php:50
+#: woow/woocommerce/cart/shipping-calculator.php:58
+#: woow/woocommerce/cart/shipping-calculator.php:73
+msgid "State / county"
+msgstr ""
+
+#: woow/woocommerce/cart/shipping-calculator.php:59
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woow/woocommerce/cart/shipping-calculator.php:82
+msgid "City"
+msgstr ""
+
+#: woow/woocommerce/cart/shipping-calculator.php:90
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woow/woocommerce/cart/shipping-calculator.php:95
+msgid "Update Totals"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-billing.php:45
+msgid "Create an account?"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-billing.php:57
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woow/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woow/woocommerce/checkout/form-checkout.php:47
+msgid "Your order"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-login.php:25
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woow/woocommerce/checkout/form-pay.php:21
+msgid "Qty"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-pay.php:22
+msgid "Totals"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-pay.php:55
+msgid "Payment"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woow/woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-shipping.php:35
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woow/woocommerce/checkout/form-shipping.php:61
+msgid "Additional Information"
+msgstr ""
+
+#: woow/woocommerce/checkout/payment.php:30
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woow/woocommerce/checkout/payment.php:32
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woow/woocommerce/checkout/payment.php:43
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woow/woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#: woow/woocommerce/checkout/payment.php:53
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: woow/woocommerce/checkout/thankyou.php:19
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woow/woocommerce/checkout/thankyou.php:23
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woow/woocommerce/checkout/thankyou.php:25
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woow/woocommerce/checkout/thankyou.php:29
+msgid "Pay"
+msgstr ""
+
+#: woow/woocommerce/checkout/thankyou.php:37
+#: woow/woocommerce/checkout/thankyou.php:68
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woow/woocommerce/checkout/thankyou.php:41
+msgid "Order Number:"
+msgstr ""
+
+#: woow/woocommerce/checkout/thankyou.php:45
+msgid "Date:"
+msgstr ""
+
+#: woow/woocommerce/checkout/thankyou.php:49
+msgid "Total:"
+msgstr ""
+
+#: woow/woocommerce/checkout/thankyou.php:54
+msgid "Payment Method:"
+msgstr ""
+
+#: woow/woocommerce/global/breadcrumb.php:64
+msgid "Products brands &ldquo;"
+msgstr ""
+
+#: woow/woocommerce/global/breadcrumb.php:70
+msgid "Products in &ldquo;"
+msgstr ""
+
+#: woow/woocommerce/global/breadcrumb.php:76
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woow/woocommerce/global/breadcrumb.php:105
+#: woow/woocommerce/global/breadcrumb.php:203
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woow/woocommerce/global/breadcrumb.php:161
+msgid "Error 404"
+msgstr ""
+
+#: woow/woocommerce/global/breadcrumb.php:207
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woow/woocommerce/global/breadcrumb.php:212
+msgid "Author:"
+msgstr ""
+
+#: woow/woocommerce/global/form-login.php:26
+#: woow/woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: woow/woocommerce/global/form-login.php:30
+#: woow/woocommerce/myaccount/form-login.php:50
+#: woow/woocommerce/myaccount/form-login.php:94
+msgid "Password"
+msgstr ""
+
+#: woow/woocommerce/global/form-login.php:41
+#: woow/woocommerce/myaccount/form-login.php:59
+msgid "Remember me"
+msgstr ""
+
+#: woow/woocommerce/global/form-login.php:47
+#: woow/woocommerce/myaccount/form-login.php:61
+msgid "Lost your password?"
+msgstr ""
+
+#: woow/woocommerce/loop/no-products-found.php:18
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woow/woocommerce/loop/orderby.php:19
+msgid "Sorting:"
+msgstr ""
+
+#: woow/woocommerce/loop/orderby.php:47
+msgid "Show:"
+msgstr ""
+
+#: woow/woocommerce/loop/rating.php:20
+#: woow/woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woow/woocommerce/loop/rating.php:22
+msgid "out of 5"
+msgstr ""
+
+#: woow/woocommerce/myaccount/form-login.php:26
+#: woow/woocommerce/myaccount/form-login.php:109
+msgid "Register"
+msgstr ""
+
+#: woow/woocommerce/myaccount/form-login.php:46
+msgid "Username or email address"
+msgstr ""
+
+#: woow/woocommerce/myaccount/form-login.php:80
+msgid "Username"
+msgstr ""
+
+#: woow/woocommerce/myaccount/form-login.php:87
+msgid "Email address"
+msgstr ""
+
+#: woow/woocommerce/myaccount/form-login.php:101
+msgid "Anti-spam"
+msgstr ""
+
+#: woow/woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woow/woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: woow/woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: woow/woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: woow/woocommerce/myaccount/form-lost-password.php:50
+msgid "Reset Password"
+msgstr ""
+
+#: woow/woocommerce/myaccount/form-lost-password.php:50
+msgid "Save"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:81
+msgid "Your Rating"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:82
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:83
+msgid "Perfect"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:84
+msgid "Good"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:85
+msgid "Average"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:86
+msgid "Not that bad"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:87
+msgid "Very Poor"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:91
+msgid "Your Review"
+msgstr ""
+
+#: woow/woocommerce/single-product-reviews.php:100
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woow/woocommerce/single-product/add-to-cart/variable.php:23
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woow/woocommerce/single-product/add-to-cart/variable.php:39
+msgid "Clear selection"
+msgstr ""
+
+#: woow/woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woow/woocommerce/single-product/rating.php:30
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/woocommerce/single-product/rating.php:33
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woow/woocommerce/single-product/related.php:38
+msgid "We know you will love"
+msgstr ""
+
+#: woow/woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
