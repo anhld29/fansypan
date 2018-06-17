@@ -8,7 +8,8 @@ if(defined('WOOCOMMERCE_VERSION')){
 	$logout_url = wp_logout_url( get_permalink( wc_get_page_id( 'myaccount' ) ) );
 }
 ?>
-<header id="header" class="header-container page-heading-<?php echo esc_attr($page_heading) ?> header-type-classic header-navbar-classic<?php if($menu_transparent):?> header-absolute header-transparent<?php if($menu_transparent == '2'){echo ' header-transparent-white';} ?><?php endif?> header-scroll-resize" itemscope="itemscope" itemtype="<?php echo dh_get_protocol()?>://schema.org/Organization" role="banner">
+<header id="header" class="header-container page-heading-0 header-type-classic header-navbar-classic header-scroll-resize" itemscope="itemscope" itemtype="<?php echo dh_get_protocol()?>://schema.org/Organization" role="banner">
+	
 	<?php if(dh_get_theme_option('show-topbar',1)):?>
 		<div class="topbar">
 			<div class="<?php dh_container_class() ?> topbar-wap">
@@ -172,7 +173,7 @@ if(defined('WOOCOMMERCE_VERSION')){
 										</a>
 									</<?php echo apply_filters('dh_logo_tag', 'div')?>>
 								</div>
-								<div class="navbar-search-box">Search</div>
+								<div class="navbar-search-box"><?php echo dh_get_search_form()?></div>
 								<div class="header-right">
 									<?php 
 											if(dh_get_theme_option('ajaxsearch',1)){

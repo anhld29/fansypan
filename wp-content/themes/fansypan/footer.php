@@ -86,14 +86,14 @@
 								if($area_columns == '2'){
 									$area_class = 'col-md-6 col-sm-6';
 								}elseif ($area_columns == '3'){
-									$area_class = 'col-md-4 col-sm-6';
+									$area_class = 'col-md-3 col-sm-6';
 								}elseif ($area_columns == '4'){
 									$area_class = 'col-md-3 col-sm-6';
 								}
 								?>
 								<?php for ( $i = 1; $i <= $area_columns ; $i ++ ) :?>
 									<?php if(is_active_sidebar('sidebar-footer-'.$i)):?>
-									<div class="footer-widget-col <?php echo esc_attr($area_class) ?>">
+									<div class="footer-widget-col <?php if ($i==1) {echo 'col-md-6 col-sm-12'; } else{ echo esc_attr($area_class); } ?>">
 										<?php dynamic_sidebar('sidebar-footer-'.$i)?>
 									</div>
 									<?php endif;?>

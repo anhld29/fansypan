@@ -65,14 +65,6 @@
 		:-ms-input-placeholder {
 		  color: #fff;
 		}
-		// @media (min-width: @screen-xs)  {
-		// 	input {
-		// 		width: 80%;
-		// 	}
-		// 	button {
-		// 		width: 20%;
-		// 	}
-		// }
 	}
 }
 .footer-featured {
@@ -144,13 +136,8 @@
 			margin: 0 0 5px;
 		}
 		i{
-			width: 45px;
-			height: 45px;
-			border: 2px solid #fff;
 			font-size: @font-size-large;
-			color: #fff;
 			text-align: center;
-			line-height: 41px;
 			float: left;
 			margin-right: 0.7em;
 			margin-bottom: 0.7em;
@@ -194,7 +181,6 @@
 	}
 	.footer-widget-wrap{
 		padding: @footer-widget-padding;
-		border-top: 1px solid @footer-widget-border;
 		@media (max-width: @screen-sm-max) {
 			padding: @grid-gutter-width 0;
 		}
@@ -241,7 +227,7 @@
 	}
 	.widget{
 		margin-bottom: 0;
-		padding-top: @grid-gutter-width;
+		//padding-top: @grid-gutter-width;
 		&:first-child{
 			padding-top: 0;
 		}
@@ -249,11 +235,7 @@
 
 	.widget-title{
 		text-transform: uppercase;
-		color: @footer-widget-title-color;
 		margin-top: 0;
-		&:after{
-			background: @footer-widget-title-color;
-		}
 		@media (max-width: @screen-xs-max) {
 			cursor: pointer;
 			padding: (@grid-gutter-width / 2);
@@ -302,12 +284,9 @@
 	.social-widget-wrap{
 		i{
 			border: none !important;
-    		width: auto;
     		color: #d8d8d8;
 		}
 		a {
-			border: 1px solid #d8d8d8;
-			width: 42px;
 			text-align: center;
 		}
 		a:hover{
@@ -366,10 +345,12 @@
 .footer{
 	background: @footer-bg;
 	color: @footer-color;
+	border-top: 1px solid @footer-border;
 	a {
 		color: @footer-color;
 		&:hover{
 			color: @footer-link-hover-color;
+
 		}
 	}
 	.footer-info{
@@ -384,8 +365,9 @@
 	}
 }
 .footer-copyright{
-	background: #000;
-	text-transform: uppercase;
+	background: @footer-bg;
+	color: @footer-color;
+	border-top: 1px solid @footer-border;
 	padding: 1em 0;
 }
 .footer-social{

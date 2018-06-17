@@ -222,6 +222,36 @@
     .navbar-search-box{
         width: 50%;
         float: left;
+        position: relative;
+        overflow: hidden;
+        &:before{
+            content: "\f002";
+            position: absolute;
+            right: -1.75em;
+            top:50%;
+            transform:translate(-50%,-50%);
+            -webkit-transform:translate(-50%,-50%);
+            -moz-transform:translate(-50%,-50%);
+            font-family: FontAwesome;
+            width: 3.5em;
+            height: 3.5em;
+            background: #8dc63f;
+            line-height: 3.5em;
+            text-align: center;
+            border-radius:50%;
+            -moz-border-radius:50%;
+            -webkit-border-radius:50%;
+            color: @body-bg;
+        }
+        .searchinput{
+            width: 100%;
+            border: 1px solid #cdcdcd;
+            padding: 1em 2em;
+            border-radius:5em;
+            -webkit-border-radius:5em;
+            -moz-border-radius:5em;
+            outline: none;
+        }
     }
     .navbar-default .primary-navbar-collapse {
         width: 100%;
@@ -789,7 +819,7 @@
             text-align: center;
             @media (min-width: @nav-float-breakpoint-max) {
                 height: @heading-height;
-                padding-top: @navbar-height;
+               // padding-top: @navbar-height;
             }
             // .heading-no-button&{
             //     @media (min-width: @screen-xs-min) {
@@ -822,14 +852,13 @@
                 font-size: @heading-font-size;
                 font-weight: @headings-font-weight;
                 @media (max-width: @screen-xs-max) {
-                    font-size: 1.5em;
+                    font-size: 1.2em;
                     text-align: center;
                 }
             }
             .subtitle {
                 color: @headings-color;
-                font-size: 1.2em;
-                text-transform: uppercase;
+                font-size: 1em;
                 margin-top: 10px;
                 display: block;
                 @media (max-width: @screen-xs-max) {

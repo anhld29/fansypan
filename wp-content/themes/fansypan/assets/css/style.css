@@ -6917,6 +6917,36 @@ a[data-toggle="tooltip"]:hover {
 .header-type-classic .navbar-search-box {
   width: 50%;
   float: left;
+  position: relative;
+  overflow: hidden;
+}
+.header-type-classic .navbar-search-box:before {
+  content: "\f002";
+  position: absolute;
+  right: -1.75em;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  font-family: FontAwesome;
+  width: 3.5em;
+  height: 3.5em;
+  background: #8dc63f;
+  line-height: 3.5em;
+  text-align: center;
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  color: #ffffff;
+}
+.header-type-classic .navbar-search-box .searchinput {
+  width: 100%;
+  border: 1px solid #cdcdcd;
+  padding: 1em 2em;
+  border-radius: 5em;
+  -webkit-border-radius: 5em;
+  -moz-border-radius: 5em;
+  outline: none;
 }
 .header-type-classic .navbar-default .primary-navbar-collapse {
   width: 100%;
@@ -7413,8 +7443,7 @@ a[data-toggle="tooltip"]:hover {
 }
 @media (min-width: 991px) {
   .heading-container .heading-background .heading-wrap {
-    height: 550px;
-    padding-top: 50px;
+    height: 280px;
   }
 }
 .heading-container .heading-background .heading-wrap:after {
@@ -7439,19 +7468,18 @@ a[data-toggle="tooltip"]:hover {
   display: block;
   margin: 0;
   text-transform: uppercase;
-  font-size: 3.21428571em;
+  font-size: 2.5em;
   font-weight: 300;
 }
 @media (max-width: 767px) {
   .heading-container .heading-background .page-title h1 {
-    font-size: 1.5em;
+    font-size: 1.2em;
     text-align: center;
   }
 }
 .heading-container .heading-background .page-title .subtitle {
   color: #000000;
-  font-size: 1.2em;
-  text-transform: uppercase;
+  font-size: 1em;
   margin-top: 10px;
   display: block;
 }
@@ -7648,13 +7676,8 @@ a[data-toggle="tooltip"]:hover {
   margin: 0 0 5px;
 }
 .footer-widget .address i {
-  width: 45px;
-  height: 45px;
-  border: 2px solid #fff;
   font-size: 1.28571429em;
-  color: #fff;
   text-align: center;
-  line-height: 41px;
   float: left;
   margin-right: 0.7em;
   margin-bottom: 0.7em;
@@ -7692,8 +7715,7 @@ a[data-toggle="tooltip"]:hover {
   border-bottom: 1px dashed #464646;
 }
 .footer-widget .footer-widget-wrap {
-  padding: 60px 0;
-  border-top: 1px solid #3f3f3f;
+  padding: 30px 0;
 }
 @media (max-width: 991px) {
   .footer-widget .footer-widget-wrap {
@@ -7770,18 +7792,13 @@ a[data-toggle="tooltip"]:hover {
 }
 .footer-widget .widget {
   margin-bottom: 0;
-  padding-top: 30px;
 }
 .footer-widget .widget:first-child {
   padding-top: 0;
 }
 .footer-widget .widget-title {
   text-transform: uppercase;
-  color: #ffffff;
   margin-top: 0;
-}
-.footer-widget .widget-title:after {
-  background: #ffffff;
 }
 @media (max-width: 767px) {
   .footer-widget .widget-title {
@@ -7843,12 +7860,9 @@ a[data-toggle="tooltip"]:hover {
 }
 .footer-widget .social-widget-wrap i {
   border: none !important;
-  width: auto;
   color: #d8d8d8;
 }
 .footer-widget .social-widget-wrap a {
-  border: 1px solid #d8d8d8;
-  width: 42px;
   text-align: center;
 }
 .footer-widget .social-widget-wrap a:hover {
@@ -7858,28 +7872,30 @@ a[data-toggle="tooltip"]:hover {
   color: #fff !important;
 }
 .footer {
-  background: #313131;
-  color: #909090;
+  background: #f6f6f6;
+  color: #262626;
+  border-top: 1px solid #d5d5d5;
 }
 .footer a {
-  color: #909090;
+  color: #262626;
 }
 .footer a:hover {
-  color: #ffffff;
+  color: #262626;
 }
 .footer .footer-info {
-  color: #909090;
+  color: #262626;
   padding: 40px 0;
 }
 .footer .footer-info a {
-  color: #909090;
+  color: #262626;
 }
 .footer .footer-info a:hover {
-  color: #ffffff;
+  color: #262626;
 }
 .footer-copyright {
-  background: #000;
-  text-transform: uppercase;
+  background: #f6f6f6;
+  color: #262626;
+  border-top: 1px solid #d5d5d5;
   padding: 1em 0;
 }
 .footer-social a {
@@ -7892,7 +7908,7 @@ a[data-toggle="tooltip"]:hover {
 }
 .footer-social a i:hover {
   background: none !important;
-  color: #ffffff !important;
+  color: #262626 !important;
 }
 a.go-to-top,
 a.go-to-top:hover a.go-to-top:focus {
