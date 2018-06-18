@@ -924,11 +924,12 @@ ul.products:not(.masonry-products){
 			div.summary{
 				text-align: center;
 				.product-excerpt{
-					padding: 25px 0 15px;
+					padding: 15px 0 15px;
+					display: none;
 					&:after, 
 					&:before{
 						content: '';
-						width: 40px;
+						width: 0px;
 						height: 2px;
 						background: #000;
 						position: absolute;
@@ -1390,17 +1391,17 @@ p.demo_store {
 				margin: 0 0 20px;
 				padding: 0;
 				text-transform: uppercase;
-				font-size: @font-size-h2;
+				font-size: @font-family-h4;
 				@media (max-width: @screen-sm-max) {
-					font-size: 2em;
+					font-size: 1.2em;
 					margin-bottom: 5px;
 				}
 			}
 			.price {
 				font-size: 2em;
-				color: @gray-light;
-				font-style: italic;
-				font-family: 'Crimson Text', serif;
+				color: @brand-primary-secondary;
+				// font-style: italic;
+				// font-family: 'Crimson Text', serif;
 				del {
 					color: @gray-lighter;
 					float: none;
