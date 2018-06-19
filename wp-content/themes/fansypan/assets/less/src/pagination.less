@@ -6,31 +6,37 @@
 	display: block;
 	margin-top: @line-height-computed;
 	padding: 0 0 @padding-large-vertical 0;
+	text-align: center;
 	.container-full &{
 		padding-left: @grid-gutter-width;
 		padding-right: @grid-gutter-width;
 	}
 	.paginate_links{
-		display: table;
+		display: inline-block;
 		margin: 0 auto;
-		float: right;
+		float: none;
 		.pagination-meta,
 		.page-numbers{
 			padding:6px;
 			min-width: 38px;
+			width: 38px;
+			height: 38px;
+			line-height: 38px;
+			border-radius: 50%;
 			text-align: center;
 			border:1px solid @border-color-base;
 			display: inline-block;
 			float: left;
-			margin: 0 ((5px / @font-size-root) + @font-unit) 0 0;
+			padding: 0;
+			margin: 0 ((10px / @font-size-root) + @font-unit) 0 0;
 			color: @text-secondary-color;
-			.border-radius(@border-radius-small);
+			// .border-radius(@border-radius-small);
 			&:last-child{
 				margin: 0;
 			}
 			&.current{
-				background: @gray-dark;
-				border:1px solid @gray-dark;
+				background: @brand-primary;
+				border:1px solid @brand-primary;
 				color: #fff;
 			}
 		}

@@ -1036,6 +1036,7 @@ ul.products:not(.masonry-products).columns-1 li.product {
 }
 .woocommerce .woocommerce-result-count {
   float: left;
+  display: none;
 }
 @media (max-width: 767px) {
   .woocommerce .woocommerce-result-count {
@@ -1381,7 +1382,7 @@ p.demo_store {
   text-align: center;
   color: #ffffff;
   z-index: 1049;
-  background: #000000;
+  background: #262626;
 }
 /* =Utilities
 -------------------------------------------------------------- */
@@ -1620,7 +1621,6 @@ p.demo_store {
 .woocommerce div.product .summary .price ins {
   background: none;
   text-decoration: none;
-  color: #696969;
   float: none;
   margin: 0 5px;
   font-size: 2em;
@@ -2512,6 +2512,9 @@ p.demo_store {
   text-transform: uppercase;
   margin-top: 10px;
   margin-bottom: 10px;
+  text-align: center;
+  color: #262626;
+  font-weight: 500;
 }
 .woocommerce ul.products li.product .product-container {
   padding: 0.71428571em;
@@ -2802,19 +2805,27 @@ p.demo_store {
   color: #7c7c7c;
   font-size: 1.28571429em;
   font-style: italic;
-  font-family: 'Crimson Text', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: flex ;
+  flex-direction: row ;
+  justify-content: space-between;
+  align-items: center ;
+  align-content: center ;
 }
 .woocommerce ul.products li.product .price del {
   color: #696969;
-  float: none;
-  margin: 0 5px;
+  font-size: 1em;
+  font-style: italic;
 }
 .woocommerce ul.products li.product .price ins {
   background: none;
   text-decoration: none;
   float: none;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.4em;
+  color: #f6841a;
 }
 .woocommerce ul.products li.product .price .from {
   font-size: 0.9em;
@@ -3193,6 +3204,7 @@ p.demo_store {
 @media (min-width: 992px) {
   .woocommerce .shop-toolbar .view-mode {
     display: block;
+    display: none;
   }
 }
 .woocommerce .shop-toolbar .view-mode a {
@@ -3976,7 +3988,7 @@ textarea.woocommerce table.cart td.actions .input-text {
 .woocommerce ul.product_list_widget li a {
   display: block;
   margin-bottom: 0.2em;
-  color: #000000;
+  color: #262626;
 }
 .woocommerce ul.cart_list li a:hover,
 .woocommerce ul.product_list_widget li a:hover {
@@ -4549,7 +4561,7 @@ textarea.woocommerce.widget_product_search .search-field {
   text-transform: uppercase;
 }
 .woocommerce .cart-collaterals .cart_totals .discount td {
-  color: #000000;
+  color: #262626;
 }
 .woocommerce .cart-collaterals .cart_totals .wc-proceed-to-checkout {
   text-align: right;

@@ -1043,6 +1043,7 @@ ul.products:not(.masonry-products){
 
 	.woocommerce-result-count {
 		float: left;
+		display: none;
 		@media (max-width: @screen-xs-max) {
 			float: none;
 			text-align: center;
@@ -1426,7 +1427,7 @@ p.demo_store {
 					text-decoration: none;
 					float: none;
 					
-					color: @gray-lighter;
+					// color: @gray-lighter;
 					float: none;
 					margin: 0 5px;
 					font-size: 2em;
@@ -2058,6 +2059,9 @@ p.demo_store {
 				text-transform: uppercase;
 				margin-top: 10px;
 				margin-bottom: 10px;
+				text-align: center;
+				color: @link-color;
+				font-weight: 500;
 			}
 			.product-container {
 				padding: ((10px/@font-size-root) + @font-unit);
@@ -2239,18 +2243,30 @@ p.demo_store {
 				color: @text-secondary-color;
 				font-size: @font-size-large;
 				font-style: italic;
-				font-family: 'Crimson Text', serif;
+				// font-family: 'Crimson Text', serif;
 				-webkit-font-smoothing: antialiased;
   				-moz-osx-font-smoothing: grayscale;
+  				display: flex ;
+				flex-direction: row ;
+				justify-content: space-between ;
+				align-items: center ;
+				align-content: center ;
 				del {
+					// color: 
 					color: @gray-lighter;
-					float: none;
-					margin: 0 5px;
+					font-size: 1em;
+					font-style: italic;
 				}
 				ins {
 					background:none;
 					text-decoration: none;
 					float: none;
+					font-style: normal;
+					font-weight: bold;
+					// float: none;
+					// margin: 0 5px;
+					font-size: 1.4em;
+					color: @brand-primary-secondary;
 				}
 				.from {
 					font-size: 0.9em;
@@ -2495,6 +2511,7 @@ p.demo_store {
 			margin-right: @grid-gutter-width;
 			@media (min-width: @screen-md-min) {
 				display: block;
+				display: none;
 			}
 			a{
 				font-size: @font-size-h5;
