@@ -622,9 +622,9 @@ tbody.collapse.in {
   overflow: hidden;
   z-index: 1;
   background: transparent;
-  border: 2px solid #2b2b2b;
+  border: 2px solid #8dc63f;
   text-transform: uppercase;
-  color: #2b2b2b;
+  color: #8dc63f;
   position: relative;
   display: table;
   margin: 0 auto;
@@ -2373,9 +2373,9 @@ select[multiple].input-lg {
   background-color: #f5f6f8;
   border-color: #f5f6f8;
   background: transparent;
-  border: 2px solid #2b2b2b;
+  border: 2px solid #8dc63f;
   text-transform: uppercase;
-  color: #2b2b2b;
+  color: #8dc63f;
   position: relative;
 }
 .btn-default:hover,
@@ -2551,9 +2551,9 @@ select[multiple].input-lg {
 }
 .btn-outline {
   background: transparent;
-  border: 2px solid #2b2b2b;
+  border: 2px solid #8dc63f;
   text-transform: uppercase;
-  color: #2b2b2b;
+  color: #8dc63f;
   position: relative;
 }
 .btn-primary-outline {
@@ -2868,6 +2868,8 @@ input[type="button"].btn-block {
   right: 0;
   left: 0;
   z-index: 1030;
+  -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   -webkit-transform: translate3d(0, -60px, 0);
   transform: translate3d(0, -60px, 0);
 }
@@ -2896,6 +2898,8 @@ input[type="button"].btn-block {
   transition: all 0.3s ease-in 0s;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
+  -webkit-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.085);
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.085);
 }
 .navbar-fixed-top {
   top: 0;
@@ -3634,6 +3638,7 @@ input[type="button"].btn-block {
 }
 .header-type-classic .navbar-default-col {
   padding: 0;
+  margin-bottom: 1em;
 }
 @media (min-width: 992px) {
   .header-type-classic .navbar-default-col {
@@ -6906,8 +6911,8 @@ a[data-toggle="tooltip"]:hover {
   margin-top: 2em;
 }
 .header-type-classic .navbar-header {
-  padding: 0 50px 0 0;
-  width: 25%;
+  padding: 0 20px 0 0;
+  width: 22%;
 }
 .boxed-wrap .header-type-classic .navbar-header {
   width: auto;
@@ -6919,7 +6924,7 @@ a[data-toggle="tooltip"]:hover {
   }
 }
 .header-type-classic .navbar-search-box {
-  width: 50%;
+  width: 48%;
   float: left;
   position: relative;
   overflow: hidden;
@@ -6968,9 +6973,10 @@ a[data-toggle="tooltip"]:hover {
   float: none;
 }
 .header-type-classic .header-right {
-  width: 25%;
+  width: 30%;
   text-align: right;
   float: right;
+  padding-left: 20px;
 }
 @media (max-width: 1440px) {
   .header-type-classic .header-right {
@@ -7535,6 +7541,69 @@ a[data-toggle="tooltip"]:hover {
 .header-transparent-white ~ .heading-container .heading-background .page-title h1,
 .header-transparent-white ~ .heading-container .heading-background .page-title .subtitle {
   color: #fff;
+}
+nav .menu-item {
+  position: relative;
+}
+nav .menu-item a:before {
+  content: "";
+  display: block;
+  text-align: center;
+  width: 100%;
+  height: 30px;
+}
+nav .menu-item.mm_menu01 a:before {
+  background: url('../../assets/images/ic_menu01.png') no-repeat center center;
+}
+nav .menu-item.mm_menu02 a:before {
+  background: url('../../assets/images/ic_menu02.png') no-repeat center center;
+}
+nav .menu-item.mm_menu03 a:before {
+  background: url('../../assets/images/ic_menu03.png') no-repeat center center;
+}
+nav .menu-item.mm_menu04 a:before {
+  background: url('../../assets/images/ic_menu04.png') no-repeat center center;
+}
+nav .menu-item.mm_menu05 a:before {
+  background: url('../../assets/images/ic_menu05.png') no-repeat center center;
+}
+.navbar-fixed-top a:before {
+  display: none !important;
+}
+.navbar-fixed-top .hotline {
+  display: none !important;
+}
+.hotline {
+  text-align: left;
+  vertical-align: middle;
+  width: 40%;
+}
+.hotline span {
+  color: #8dc63f;
+}
+.hotline i {
+  border: 1px solid #575757;
+  vertical-align: middle;
+  height: 1.9em;
+  width: 1.9em;
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  position: relative;
+  float: left;
+  margin-right: .2em;
+}
+.hotline i:before {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.hotline.map {
+  padding-left: 1em;
+}
+.hotline.map .txt-hotline {
+  padding-top: .5em;
 }
 /*--------------------------------------------------------------
 27.0 - Footer
@@ -8960,9 +9029,9 @@ p.comment-form-rating {
   overflow: hidden;
   z-index: 1;
   background: transparent;
-  border: 2px solid #2b2b2b;
+  border: 2px solid #8dc63f;
   text-transform: uppercase;
-  color: #2b2b2b;
+  color: #8dc63f;
   position: relative;
   padding-left: 4em;
   padding-right: 4em;

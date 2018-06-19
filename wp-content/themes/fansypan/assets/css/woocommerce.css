@@ -3808,9 +3808,6 @@ textarea.woocommerce .quantity input.qty {
     display: none;
   }
 }
-.woocommerce table.cart td.actions .coupon .button {
-  margin-top: 20px;
-}
 .woocommerce table.cart td.actions .input-text {
   display: block;
   width: 100%;
@@ -7047,4 +7044,3 @@ li.unveil-image.image-loaded .shop-loop-thumbnail {
 .quantity .screen-reader-text {
   display: none;
 }
-/*# sourceMappingURL=woocommerce.css.map */
