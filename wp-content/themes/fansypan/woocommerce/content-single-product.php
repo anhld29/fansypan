@@ -64,7 +64,7 @@ $layout = dh_get_theme_option('woo-product-layout','full-width');
 	<div class="<?php dh_container_class()?>">
 	<?php endif;?>
 		<div class="row summary-container">
-			<div class="col-md-7 <?php echo ($layout == 'full-width' ? 'col-sm-6':'col-sm-12') ?> entry-image">
+			<div class="col-md-6 <?php echo ($layout == 'full-width' ? 'col-sm-6':'col-sm-12') ?> entry-image">
 				<div class="single-product-images">
 				<?php
 					/**
@@ -77,7 +77,7 @@ $layout = dh_get_theme_option('woo-product-layout','full-width');
 				?>
 				</div>
 			</div>
-			<div class="col-md-5 <?php echo ($layout == 'full-width' ? 'col-sm-6':'col-sm-12') ?> entry-summary">
+			<div class="col-md-6 <?php echo ($layout == 'full-width' ? 'col-sm-6':'col-sm-12') ?> entry-summary">
 				<div class="summary">
 			
 					<?php
@@ -94,11 +94,15 @@ $layout = dh_get_theme_option('woo-product-layout','full-width');
 						 */
 						if ( !dh_get_theme_option( 'show-woo-meta', 1 )) {
 							remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_meta', 40 );
+							remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_sharing', 50 );
 						}
+						
 						do_action( 'woocommerce_single_product_summary' );
+						// remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_sharing', 50 );
 					?>
 			
 				</div><!-- .summary -->
+				
 			</div>
 		</div>
 	<?php if($layout == 'full-width'):?>
@@ -124,6 +128,9 @@ $layout = dh_get_theme_option('woo-product-layout','full-width');
 	<?php if($layout == 'full-width'):?>
 	</div>
 	<?php endif;?>
+	<?php 
+		// do_action( 'woocommerce_template_single_sharing', 50 );
+	?>
 	<meta itemprop="url" content="<?php the_permalink(); ?>" />
 </div><!-- #product-<?php the_ID(); ?> -->
 <?php do_action( 'woocommerce_after_single_product' ); ?>

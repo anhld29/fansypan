@@ -329,7 +329,7 @@ hr {
   margin-top: 2em;
   margin-bottom: 2em;
   border: 0;
-  border-top: 1px solid #b9b9b9;
+  border-top: 1px solid #696969;
 }
 .sr-only {
   position: absolute;
@@ -2048,7 +2048,7 @@ output {
 .form-control[readonly],
 fieldset[disabled] .form-control {
   cursor: not-allowed;
-  background-color: #b9b9b9;
+  background-color: #696969;
   opacity: 1;
   filter: alpha(opacity=100);
 }
@@ -3807,7 +3807,7 @@ input[type="button"].btn-block {
   background: rgba(255, 255, 255, 0.2);
 }
 .cart-icon-mobile span {
-  background: none repeat scroll 0 0 #8dc63f;
+  background: none repeat scroll 0 0 #f6841a;
   -webkit-border-radius: 100%;
   border-radius: 100%;
   color: #fff;
@@ -4242,7 +4242,7 @@ body.admin-bar .offcanvas-wrap {
   list-style: none;
   margin: 0;
   padding: 0;
-  text-align: center;
+  text-align: left;
 }
 .breadcrumb > li {
   display: inline-block;
@@ -8729,7 +8729,7 @@ li.comment {
   padding: 0.57142857rem 1rem;
   text-align: center;
   color: #000000;
-  background-color: #b9b9b9;
+  background-color: #696969;
   -webkit-border-radius: 0px;
   border-radius: 0px;
 }
@@ -8845,7 +8845,7 @@ fieldset[disabled] .comment-form-email textarea,
 fieldset[disabled] .comment-form-url textarea,
 fieldset[disabled] .comment-form-comment textarea {
   cursor: not-allowed;
-  background-color: #b9b9b9;
+  background-color: #696969;
   opacity: 1;
   filter: alpha(opacity=100);
 }
@@ -9576,7 +9576,7 @@ widget-post-thumbnail
 .wpcf7-form-control:not(.wpcf7-submit)[readonly],
 fieldset[disabled] .wpcf7-form-control:not(.wpcf7-submit) {
   cursor: not-allowed;
-  background-color: #b9b9b9;
+  background-color: #696969;
   opacity: 1;
   filter: alpha(opacity=100);
 }

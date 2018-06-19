@@ -152,7 +152,7 @@ class DH_WOOW_Theme {
 			if(is_singular('product') && dh_get_theme_option('single-product-style','style-1') == 'style-2' ){
 				wp_enqueue_script('vendor-smartsidebar');
 			}
-			wp_enqueue_style($main_css_id.'-woocommerce',get_template_directory_uri().'/assets/css/woocommerce' . $suffix . '.css',array($main_css_id),DH_THEME_VERSION);
+			wp_enqueue_style($main_css_id.'-woocommerce',get_template_directory_uri().'/assets/css/woocommerce.css',array($main_css_id),DH_THEME_VERSION);
 		}
 		
 		if(is_rtl()){

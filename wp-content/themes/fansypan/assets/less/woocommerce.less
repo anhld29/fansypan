@@ -599,38 +599,46 @@ ul.products:not(.masonry-products){
 		margin-top: (@grid-gutter-width * 2);
 		margin-bottom: (@grid-gutter-width * 2);
 		&.woocommerce-tab-full-width{
-			background: @background-color-base;
-			padding-top: (@grid-gutter-width * 2);
-			padding-bottom: (@grid-gutter-width * 2);
+			background: #fff;
+			padding-top: 0;
+			padding-bottom: (@grid-gutter-width );
+			margin-top: (@grid-gutter-width );
+
 		}
 	}
 	.woocommerce-tabs {
 		.nav-tabs{
 			border:none;
 			//text-align: center;
+			background: #f6f6f6;
+			padding-top: 35px;
 			> li {
 				//float: none;
 				margin: 0;
 				//display: inline-block;
-				border-bottom: 1px solid @border-color-base;
+				border-bottom: 0;
 				> a{
-					font-size: 1.2em;
+					font-size: 1.15em;
 					border-bottom: none;
 					text-transform: uppercase;
 					font-weight: @headings-font-weight;
 					//padding: @nav-link-padding;
 					background: rgba(0, 0, 0,0);
-					border-width: 0 0 1px 0;
+					border-width: 0 0 0 0;
 					border-style: solid;
 					margin: 0;
 					border-color: rgba(0, 0, 0, 0);
 					.transition(none);
+					background: @brand-primary;
+					color: #fff;
+					border-radius: 10px 10px 0 0;
+					font-weight: 500;
 				}
 				&.active{
-					border-bottom-color: @headings-color;
+					// border-bottom-color: @headings-color;
 					> a{
-						color: @headings-color;
-						border-bottom-color: @headings-color;	
+						// color: @headings-color;
+						// border-bottom-color: @headings-color;	
 					}
 					
 				}
@@ -922,7 +930,7 @@ ul.products:not(.masonry-products){
 				margin-right: auto;
 			}
 			div.summary{
-				text-align: center;
+				text-align: left;
 				.product-excerpt{
 					padding: 15px 0 15px;
 					display: none;
@@ -954,7 +962,8 @@ ul.products:not(.masonry-products){
 				margin: 0 auto;
 			}
 			.woocommerce-tabs .nav-tabs{
-				display: table;
+				display: block;
+				text-align: left;
 				margin: 0 auto;
 			}
 		}
@@ -1391,26 +1400,37 @@ p.demo_store {
 				margin: 0 0 20px;
 				padding: 0;
 				text-transform: uppercase;
-				font-size: @font-family-h4;
+				font-size: @font-size-h4;
 				@media (max-width: @screen-sm-max) {
 					font-size: 1.2em;
 					margin-bottom: 5px;
 				}
 			}
 			.price {
-				font-size: 2em;
-				color: @brand-primary-secondary;
+				
+				
 				// font-style: italic;
 				// font-family: 'Crimson Text', serif;
+				.title-price {
+					color: @gray-lighter;
+					font-size: 1em;
+					margin-right: 0.25em;
+				}
 				del {
 					color: @gray-lighter;
-					float: none;
-					margin: 0 5px;
+					font-size: 1em;
+					font-style: italic;
 				}
 				ins {
 					background:none;
 					text-decoration: none;
 					float: none;
+					
+					color: @gray-lighter;
+					float: none;
+					margin: 0 5px;
+					font-size: 2em;
+					color: @brand-primary-secondary;
 				}
 			}
 			.product-excerpt {
@@ -1438,13 +1458,13 @@ p.demo_store {
 				padding: 0;
 				margin: (@grid-gutter-width / 2) 0 0 0;
 				.share-icons{
-					text-align: center;
+					text-align: left;
 					a{
 						background: none;
-						color: @headings-color;
+						color: #cccccc;
 					    font-size: @font-size-h5;
-					    .border-radius(50%);
-					    border:1px solid @headings-color;
+					    .border-radius(5px);
+					    border:1px solid #cccccc;
 					    &:hover {
 					    	color: @link-hover-color;
 					    	border-color: @link-hover-color;
@@ -1503,20 +1523,21 @@ p.demo_store {
 				display: inline-block;
 				vertical-align: top;
 				input.qty {
-					height: 60px;
-					width: 80px;
+					height: 40px;
+					width: 50px;
 					font-size: @font-size-h5;
+					text-align: center;
 				}
 			}
 			.button, 
 			input.button {
 				text-transform: uppercase;
-				height: 60px;
+				height: 40px;
 				vertical-align: top;
 				margin-left: -4px;
 				padding-left: 5em;
 				padding-right: 5em;
-				.btn-black();
+				.btn-primary();
 			}
 			.single_add_to_cart_button[disabled] {
 			    .opacity(0.5);
@@ -3005,6 +3026,9 @@ p.demo_store {
 					@media (max-width: @screen-md-max) {
 						display: none;
 					}
+				}
+				.button {
+					margin-top: 20px;
 				}
 			}
 			.input-text {
