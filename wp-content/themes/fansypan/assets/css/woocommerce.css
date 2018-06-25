@@ -4405,16 +4405,6 @@ textarea.woocommerce.widget_product_search .search-field {
   margin-bottom: 20px;
   text-transform: uppercase;
   position: relative;
-  padding-bottom: 20px;
-}
-.woocommerce .cart-collaterals h2:after {
-  content: '';
-  width: 40px;
-  height: 2px;
-  background: #000000;
-  position: absolute;
-  bottom: 0;
-  left: 0;
 }
 .woocommerce .cart-collaterals .shipping_calculator .button {
   display: inline-block;
@@ -4915,16 +4905,6 @@ textarea.woocommerce form .form-row textarea {
   margin-bottom: 20px;
   text-transform: uppercase;
   position: relative;
-  padding-bottom: 20px;
-}
-.woocommerce .checkout h3:after {
-  content: '';
-  width: 40px;
-  height: 2px;
-  background: #000000;
-  position: absolute;
-  bottom: 0;
-  left: 0;
 }
 .woocommerce .checkout .checkout-customer-details h3#ship-to-different-address label {
   display: inline-block;
@@ -5715,7 +5695,7 @@ textarea.woocommerce form .form-row textarea {
   position: relative;
 }
 .minicart-icon span {
-  background: none repeat scroll 0 0 #f6841a;
+  background: none repeat scroll 0 0 #8dc63f;
   -webkit-border-radius: 100%;
   border-radius: 100%;
   color: #fff;
@@ -7055,4 +7035,54 @@ li.unveil-image.image-loaded .shop-loop-thumbnail {
 }
 .home_banner .wpb_single_image .vc_single_image-wrapper {
   display: block;
+}
+.home_banner a {
+  position: relative;
+}
+.home_banner a:before {
+  border-top: 1px solid #8dc63f;
+  border-bottom: 1px solid #8dc63f;
+  content: "";
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  bottom: 1em;
+  right: 1em;
+  z-index: 9;
+  -moz-transform: scale(0, 1);
+  -ms-transform: scale(0, 1);
+  -webkit-transform: scale(0, 1);
+  transform: scale(0, 1);
+}
+.home_banner a:after {
+  border-right: 1px solid #8dc63f;
+  border-left: 1px solid #8dc63f;
+  content: "";
+  position: absolute;
+  top: 1em;
+  left: 1em;
+  bottom: 1em;
+  right: 1em;
+  z-index: 9;
+  -moz-transform: scale(1, 0);
+  -ms-transform: scale(1, 0);
+  -webkit-transform: scale(1, 0);
+  transform: scale(1, 0);
+}
+.home_banner a:hover:after,
+.home_banner a:hover:before {
+  moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.tparrows {
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+.tparrows:hover {
+  background: #8dc63f;
 }

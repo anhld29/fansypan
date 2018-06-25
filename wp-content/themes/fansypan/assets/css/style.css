@@ -5399,7 +5399,6 @@ a[data-toggle="tooltip"]:hover {
 --------------------------------------------------------------*/
 .caroufredsel {
   position: relative;
-  overflow: hidden;
   padding: 0;
   opacity: 0;
   filter: alpha(opacity=0);
@@ -5409,6 +5408,11 @@ a[data-toggle="tooltip"]:hover {
 }
 .caroufredsel.product-slider .caroufredsel-wrap {
   overflow: visible;
+}
+.caroufredsel.product-slider .caroufredsel-wrap .woocommerce {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
 }
 @media (max-width: 991px) {
   .caroufredsel.product-slider.nav-position-right {
@@ -5424,19 +5428,9 @@ a[data-toggle="tooltip"]:hover {
   margin-bottom: 20px;
   text-transform: uppercase;
   position: relative;
-  padding-bottom: 20px;
   padding-right: 30px;
   margin-top: 14px;
   margin-bottom: 7px;
-}
-.caroufredsel.product-slider.nav-position-right .product-slider-title h3:after {
-  content: '';
-  width: 40px;
-  height: 2px;
-  background: #000000;
-  position: absolute;
-  bottom: 0;
-  left: 0;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .caroufredsel.product-slider.nav-position-right .product-slider-title h3 {
@@ -5531,7 +5525,6 @@ a[data-toggle="tooltip"]:hover {
 }
 .caroufredsel .caroufredsel-wrap {
   position: relative;
-  overflow: hidden;
   height: 100%;
   margin: 0 -10px;
 }
@@ -5576,9 +5569,11 @@ a[data-toggle="tooltip"]:hover {
   transition: all 0.3s ease-out 0s;
   width: 40px;
   height: 40px;
-  line-height: 37px;
+  line-height: 40px;
   font-size: 20px;
-  border: 2px solid #000000;
+  background: #f6f6f6;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
   text-align: center;
   z-index: 100;
   color: #000000;
@@ -5624,12 +5619,6 @@ a[data-toggle="tooltip"]:hover {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   speak: none;
-}
-.caroufredsel .caroufredsel-wrap:hover > .caroufredsel-prev {
-  left: 20px;
-}
-.caroufredsel .caroufredsel-wrap:hover > .caroufredsel-next {
-  right: 20px;
 }
 .caroufredsel .caroufredsel-pagination {
   text-align: center;
@@ -7872,6 +7861,7 @@ nav .menu-item.mm_menu05 a:before {
 .footer-widget .widget-title {
   text-transform: uppercase;
   margin-top: 0;
+  font-size: 1.2em;
 }
 @media (max-width: 767px) {
   .footer-widget .widget-title {
@@ -8519,16 +8509,6 @@ a.go-to-top:hover a.go-to-top:focus.on:hover {
   margin-bottom: 20px;
   text-transform: uppercase;
   position: relative;
-  padding-bottom: 20px;
-}
-.related-post .related-post-title h3:after {
-  content: '';
-  width: 40px;
-  height: 2px;
-  background: #000000;
-  position: absolute;
-  bottom: 0;
-  left: 0;
 }
 .related-post .entry-featured {
   margin-bottom: 15px;
@@ -8689,16 +8669,6 @@ Shortcode Post Grid
   margin-bottom: 20px;
   text-transform: uppercase;
   position: relative;
-  padding-bottom: 20px;
-}
-.comments-area .commentst-title h3:after {
-  content: '';
-  width: 40px;
-  height: 2px;
-  background: #000000;
-  position: absolute;
-  bottom: 0;
-  left: 0;
 }
 .comments-area .comment-list {
   margin-top: 30px;
@@ -8833,16 +8803,6 @@ li.comment {
   margin-bottom: 20px;
   text-transform: uppercase;
   position: relative;
-  padding-bottom: 20px;
-}
-.comments-area > #respond-wrap .comment-reply-title:after {
-  content: '';
-  width: 40px;
-  height: 2px;
-  background: #000000;
-  position: absolute;
-  bottom: 0;
-  left: 0;
 }
 #commentform {
   margin-bottom: 0;
@@ -9329,18 +9289,7 @@ p.comment-form-rating {
   margin-bottom: 20px;
   text-transform: uppercase;
   position: relative;
-  padding-bottom: 20px;
   margin-bottom: 30px;
-}
-.widgettitle:after,
-.widget-title:after {
-  content: '';
-  width: 40px;
-  height: 2px;
-  background: #000000;
-  position: absolute;
-  bottom: 0;
-  left: 0;
 }
 .main-sidebar .widgettitle,
 .main-sidebar .widget-title {
@@ -10655,16 +10604,6 @@ img.grayscale:hover {
   margin-bottom: 20px;
   text-transform: uppercase;
   position: relative;
-  padding-bottom: 20px;
-}
-.heading-left-custom:after {
-  content: '';
-  width: 40px;
-  height: 2px;
-  background: #000000;
-  position: absolute;
-  bottom: 0;
-  left: 0;
 }
 @media (min-width: 768px) {
   .font-sm-50 {

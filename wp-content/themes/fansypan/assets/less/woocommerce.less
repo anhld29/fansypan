@@ -4220,7 +4220,7 @@ p.demo_store {
 .minicart-icon{
 	position: relative;
 	span{
-		background: none repeat scroll 0 0 @brand-primary-secondary;
+		background: none repeat scroll 0 0 @brand-primary;
 	    .border-radius(100%);
 	    color: #fff;
 	    font-size: @font-size-small;
@@ -5406,5 +5406,56 @@ li.unveil-image {
 	}
 	.wpb_single_image .vc_single_image-wrapper{
 		display: block;
+	}
+	a{
+		position: relative;
+		&:before{
+			content:"";
+			border-top:1px solid @brand-primary;
+			border-bottom:1px solid @brand-primary;
+		    content: "";
+		    position: absolute;
+		    top: 1em;
+		    left: 1em;
+		    bottom: 1em;
+		    right: 1em;
+		    z-index: 9;
+		    -moz-transform: scale(0, 1);
+		    -ms-transform: scale(0, 1);
+		    -webkit-transform: scale(0, 1);
+		    transform: scale(0, 1);
+		}
+		&:after{
+			border-right:1px solid @brand-primary;
+			border-left:1px solid @brand-primary;
+		    content: "";
+		    position: absolute;
+		    top: 1em;
+		    left: 1em;
+		    bottom: 1em;
+		    right: 1em;
+		    z-index: 9;
+		    -moz-transform: scale(1, 0);
+		    -ms-transform: scale(1, 0);
+		    -webkit-transform: scale(1, 0);
+		    transform: scale(1, 0);
+		}			
+		&:hover{
+			&:after,&:before{
+				moz-transform: scale(1);
+				-ms-transform: scale(1);
+				-webkit-transform: scale(1);
+				transform: scale(1);
+				.transition(all .5s ease);
+			}
+
+		}	
+	}
+}
+
+.tparrows{
+	.border-radius(50%);
+	&:hover{
+		background:#8dc63f;
 	}
 }
