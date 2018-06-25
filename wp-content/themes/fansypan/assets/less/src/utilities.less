@@ -157,7 +157,7 @@
         text-align: center;
         li{
           float: none;
-          padding: 0.5em 3.5em;
+          padding: 0.5em 1.5em;
           display: inline-block !important;
           position: relative;
           @media (min-width: @screen-sm-min) {
@@ -165,8 +165,9 @@
               content: '';
               position: absolute;
               right: 0;
-              width: 35px;
-              height: 2px;
+              width: 10px;
+              height: 10px;
+              .border-radius(50%);
               font-weight: @headings-font-weight;
               background: @gray-light;
               top: 50%;
@@ -179,11 +180,13 @@
             }
           }
           a{
-            padding: 0 ;
+            padding: .3em 2em;
             border-bottom: none;
             font-weight: @headings-font-weight;
             color: @gray-light;
             font-size: @font-size-large;
+            border:1px solid @gray-light;
+            .border-radius(3em);
             &.selected,
             &:hover{
               color: #000;
