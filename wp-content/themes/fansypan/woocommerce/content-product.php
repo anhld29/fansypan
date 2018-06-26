@@ -89,19 +89,6 @@ if (dh_get_theme_option('woo-grid-product-style','style-1') =='style-3')
 			</div>
 			<figcaption>
 				<div class="shop-loop-product-info">
-					<?php if(dh_get_theme_option('woo-grid-product-style') !='style-3') : ?>
-						<div class="info-rating">
-							<?php woocommerce_template_loop_rating(); ?>
-						</div>
-						<div class="info-meta clearfix">
-							<?php woocommerce_template_loop_rating(); ?>
-							<?php if(class_exists('DH_Woocommerce')):?>
-								<div class="loop-add-to-wishlist">
-									<?php DH_Woocommerce::instance()->template_loop_wishlist()?>
-								</div>
-							<?php endif;?>
-						</div>
-					<?php endif; ?>
 					<div class="info-content-wrap">
 						<?php if(dh_get_theme_option('woo-grid-product-style') !='style-3') : ?>
 							<h3 class="product_title"><a href="<?php the_permalink()?>"><?php the_title(); ?></a></h3>
@@ -135,22 +122,7 @@ if (dh_get_theme_option('woo-grid-product-style','style-1') =='style-3')
 					<div class="info-excerpt">
 						<?php echo wp_trim_words($post->post_excerpt,30)?>
 					</div>
-					<div class="list-info-meta clearfix">
-						<div class="list-action clearfix">
-							<div class="loop-add-to-cart">
-								<?php woocommerce_template_loop_add_to_cart();?>
-							</div>
-							<?php 
-								if(class_exists('DH_Woocommerce'))
-								DH_Woocommerce::instance()->template_loop_quickview();
-							?>
-							<?php if(class_exists('DH_Woocommerce')):?>
-								<div class="loop-add-to-wishlist">
-									<?php DH_Woocommerce::instance()->template_loop_wishlist()?>
-								</div>
-							<?php endif;?>
-						</div>
-					</div>
+
 				</div>
 			</figcaption>
 		</figure>

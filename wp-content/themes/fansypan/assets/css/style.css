@@ -8130,7 +8130,7 @@ a.go-to-top:hover a.go-to-top:focus.on:hover {
   color: #8dc63f;
 }
 .entry-meta {
-  padding-bottom: 1.5em;
+  padding-bottom: 1em;
   position: relative;
   font-weight: 300;
 }
@@ -8541,7 +8541,7 @@ Shortcode Post Grid
 }
 .post-grid-wrap ul li .entry-title {
   text-transform: uppercase;
-  font-size: 1.71428571em;
+  font-size: 1.28571429em;
 }
 .post-grid-wrap ul li .entry-info {
   padding-top: 30px;
