@@ -19,6 +19,7 @@ textarea.wpcf7-form-control:not(.wpcf7-submit) {
 	margin-top: ((5px / @font-size-root) + @font-unit);
 	margin-bottom: (@line-height-computed / 2);
 	.wpcf7-form-control {
+		border-radius: 30px;
 		&.wpcf7-not-valid{
 			color: @state-danger-text;
 			border-color:@state-danger-text;
@@ -38,7 +39,8 @@ div.wpcf7 .screen-reader-response {
 
 .wpcf7-submit {
 	.btn();
-	.btn-black();
+	// .btn-black();
+	.btn-primary();
 	padding-right: 4rem;
 	padding-left:  4rem;
 	&:hover,&:hover {
@@ -63,4 +65,67 @@ div.wpcf7-validation-errors {
 .contact-actions{
 	display: block;
 	text-align: right;
+}
+
+.contact-form {
+	.vc_inner {
+		@media (max-width: @screen-xs-max) {
+			padding-right: 0!important;
+		}
+	}
+	.box-submit {
+		@media (max-width: @screen-xs-max) {
+			text-align: center!important;
+		}
+	}
+	.heading-left-custom {
+		font-size: 24px;
+		color: #262626;
+	}
+	.form-group {
+		display: flex ;
+		flex-direction: row ;
+		justify-content: flex-start ;
+		align-items: center ;
+		align-content: center ;
+		width: 100%;
+		@media (max-width: @screen-xs-max) {
+			display: block;
+			margin-bottom: 20px;
+		}
+		span.lbl-title {
+			min-width: 25%;
+			// margin-right: 50px;
+			@media (max-width: @screen-xs-max) {
+				width: 100%;
+				margin-bottom: 15px;
+			}
+		}
+	}
+	.wpb_raw_html {
+		h3 {
+			font-size: 16px;
+		}
+		.box-inner {
+			padding-left: 25px;
+			ul.address {
+				margin: 0;
+				padding: 0;
+				li {
+					list-style: none;
+					i {
+						display: inline-block;
+						vertical-align: middle;
+						padding-right: 15px;
+					}
+					span {
+						display: inline-block;
+						vertical-align: middle;
+					}
+					
+				}
+			}
+		}
+
+	}
 }

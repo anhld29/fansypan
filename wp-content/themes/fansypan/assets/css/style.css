@@ -621,6 +621,7 @@ tbody.collapse.in {
   outline: none;
   overflow: hidden;
   z-index: 1;
+  border-radius: 30px;
   background: transparent;
   border: 2px solid #8dc63f;
   text-transform: uppercase;
@@ -2335,6 +2336,7 @@ select[multiple].input-lg {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  border-radius: 30px;
 }
 .btn:after {
   content: '';
@@ -6591,6 +6593,7 @@ a[data-toggle="tooltip"]:hover {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  border-radius: 30px;
   text-align: center;
   color: #fff;
   min-width: 160px;
@@ -8185,6 +8188,7 @@ a.go-to-top:hover a.go-to-top:focus.on:hover {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  border-radius: 30px;
   border-color: #2b2b2b;
   color: #2b2b2b;
   padding-right: 3em;
@@ -8972,6 +8976,7 @@ p.comment-form-rating {
   outline: none;
   overflow: hidden;
   z-index: 1;
+  border-radius: 30px;
   background: transparent;
   border: 2px solid #8dc63f;
   text-transform: uppercase;
@@ -9602,6 +9607,9 @@ textarea.wpcf7-form-control:not(.wpcf7-submit) {
   margin-top: 0.35714286em;
   margin-bottom: 1em;
 }
+.wpcf7-form-control-wrap .wpcf7-form-control {
+  border-radius: 30px;
+}
 .wpcf7-form-control-wrap .wpcf7-form-control.wpcf7-not-valid {
   color: #fe252c;
   border-color: #fe252c;
@@ -9643,9 +9651,10 @@ div.wpcf7 .screen-reader-response {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  border-radius: 30px;
   color: #ffffff;
-  background-color: #000000;
-  border-color: #000000;
+  background-color: #8dc63f;
+  border-color: #8dc63f;
   padding-right: 4rem;
   padding-left: 4rem;
 }
@@ -9720,6 +9729,65 @@ div.wpcf7-validation-errors {
 .contact-actions {
   display: block;
   text-align: right;
+}
+@media (max-width: 767px) {
+  .contact-form .vc_inner {
+    padding-right: 0!important;
+  }
+}
+@media (max-width: 767px) {
+  .contact-form .box-submit {
+    text-align: center!important;
+  }
+}
+.contact-form .heading-left-custom {
+  font-size: 24px;
+  color: #262626;
+}
+.contact-form .form-group {
+  display: flex ;
+  flex-direction: row ;
+  justify-content: flex-start;
+  align-items: center ;
+  align-content: center ;
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .contact-form .form-group {
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+.contact-form .form-group span.lbl-title {
+  min-width: 25%;
+}
+@media (max-width: 767px) {
+  .contact-form .form-group span.lbl-title {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+}
+.contact-form .wpb_raw_html h3 {
+  font-size: 16px;
+}
+.contact-form .wpb_raw_html .box-inner {
+  padding-left: 25px;
+}
+.contact-form .wpb_raw_html .box-inner ul.address {
+  margin: 0;
+  padding: 0;
+}
+.contact-form .wpb_raw_html .box-inner ul.address li {
+  list-style: none;
+}
+.contact-form .wpb_raw_html .box-inner ul.address li i {
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 15px;
+}
+.contact-form .wpb_raw_html .box-inner ul.address li span {
+  display: inline-block;
+  vertical-align: middle;
 }
 /*--------------------------------------------------------------
 34.0 - Utility classes
