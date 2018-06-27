@@ -1691,7 +1691,7 @@ p.demo_store {
 	}
 	/* Sale labels */
 	span.onsale {
-		background: #000;
+		background: @brand-primary-secondary;
 	    color: #fff;
 	    display: block;
 	    font-size: @font-size-h5;
@@ -1701,21 +1701,29 @@ p.demo_store {
 	    text-transform: uppercase;
 	    top: 15px;
 	    z-index: 100;
-	    padding: 0 10px;
 	   	font-style: italic;	
-	   	height: 22px;
+	   	height: 32px;
+	   	width: 32px;
 	   	line-height: 22px;
-	   	&:before{
-	   		content: '';
+	   	.border-radius(50%);
+	   	// &:before{
+	   	// 	content: '';
+	   	// 	position: absolute;
+	   	// 	border: 11px solid #aaa;
+		   //  border-right: none;
+		   //  border-color: #000 transparent #000 transparent;
+		   //  position: absolute;
+		   //  left: 0;
+		   //  top: 0;
+		   //  .translate(-100%,0);
+	   	// }   
+	   	em{
 	   		position: absolute;
-	   		border: 11px solid #aaa;
-		    border-right: none;
-		    border-color: #000 transparent #000 transparent;
-		    position: absolute;
-		    left: 0;
-		    top: 0;
-		    .translate(-100%,0);
-	   	}   
+	   		left:50%;
+	   		top:50%;
+	   		transform:translate(-50%,-50%);
+
+	   	}
 	}
 	
 	span.out_of_stock{
