@@ -1,0 +1,906 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: fansypan.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-27 01:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce/single-product/rating.php:33
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: author-bio.php:24
+#, php-format
+msgid "%s on Facebook"
+msgstr ""
+
+#: author-bio.php:34
+#, php-format
+msgid "%s on Google +"
+msgstr ""
+
+#: author-bio.php:39
+#, php-format
+msgid "%s on Linked In"
+msgstr ""
+
+#: author-bio.php:44
+#, php-format
+msgid "%s on Pinterest"
+msgstr ""
+
+#: author-bio.php:29
+#, php-format
+msgid "%s on Twitter"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Name of the template
+msgid "1 Colum - No Slidebar"
+msgstr ""
+
+#. Name of the template
+msgid "2 Columns - Left Slidebar"
+msgstr ""
+
+#. Name of the template
+msgid "2 Columns - Right Slidebar"
+msgstr ""
+
+#: 404.php:9
+msgid "404"
+msgstr ""
+
+#: author-bio.php:9
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: header.php:121 header/center.php:63 header/classic.php:63
+msgid "Account"
+msgstr ""
+
+#: includes/plugins/tgmpa_register.php:77
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:61
+msgid "Additional Information"
+msgstr ""
+
+#: vc_templates/dh_portfolio.php:133 vc_templates/dh_portfolio.php:147
+#: vc_templates/dh_wc_product_mansory.php:96
+msgid "All"
+msgstr ""
+
+#: includes/plugins/tgmpa_register.php:80
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:194
+msgid "All posts displayed"
+msgstr ""
+
+#: woocommerce.php:26
+msgid "All products loaded"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:101
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/cart/cart.php:120 woocommerce/checkout/form-coupon.php:28
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:212
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:72
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:30
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: includes/plugins/tgmpa_register.php:76
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "City"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:39
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: header/center.php:271 header/classic.php:248 header/toggle-offcanvas.php:115
+msgid "Close"
+msgstr ""
+
+#: comments.php:10
+msgid "Comments"
+msgstr ""
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: single.php:32
+msgid "Continue reading &hellip;"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118 woocommerce/checkout/form-coupon.php:24
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:57
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:45
+msgid "Create an account?"
+msgstr ""
+
+#: vc_templates/dh_portfolio.php:138
+msgid "Date"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "Date:"
+msgstr ""
+
+#: vc_templates/dh_countdown.php:22
+msgid "Days"
+msgstr ""
+
+#: woocommerce/cart/cart.php:117
+msgid "Discount codes"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:87
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:161
+msgid "Error 404"
+msgstr ""
+
+#. Name of the theme
+#. Description of the theme
+msgid "fansypan.com"
+msgstr ""
+
+#: vc_templates/dh_portfolio.php:143
+msgid "Filters"
+msgstr ""
+
+#: functions.php:250
+msgid "Footer Sidebar #"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width 100%"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Good"
+msgstr ""
+
+#: functions.php:136
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: vc_templates/dh_countdown.php:26
+msgid "Hours"
+msgstr ""
+
+#. URI of the theme
+msgid "http://fansypan.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://mauthietke.info"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:53
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:25
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: vc_templates/dh_instagram.php:47
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: includes/plugins/tgmpa_register.php:65
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugins/tgmpa_register.php:64
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/tgmpa_register.php:66
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: 404.php:11
+msgid "It looks like you are lost! Try searching here"
+msgstr ""
+
+#: content-none.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Author of the theme
+msgid "Le Duc Anh"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: index.php:5 search.php:5 vc_templates/dh_post.php:23
+#: vc_templates/dh_wc_product_mansory.php:14
+msgid "Load More"
+msgstr ""
+
+#: woocommerce.php:26
+msgid "Loading products"
+msgstr ""
+
+#: functions.php:195
+msgid "Loading the next set of posts..."
+msgstr ""
+
+#: header.php:121 header/center.php:63 header/classic.php:63
+#: woocommerce/global/form-login.php:43 woocommerce/myaccount/form-login.php:23
+#: woocommerce/myaccount/form-login.php:35
+#: woocommerce/myaccount/form-login.php:64
+msgid "Login"
+msgstr ""
+
+#: header/center.php:71 header/classic.php:71 header/toggle-offcanvas.php:78
+msgid "Logout"
+msgstr ""
+
+#: woocommerce/global/form-login.php:47 woocommerce/myaccount/form-login.php:61
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: functions.php:212
+msgid "Main Sidebar"
+msgstr ""
+
+#: vc_templates/dh_countdown.php:30
+msgid "Minuts"
+msgstr ""
+
+#: functions.php:54
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:240
+msgid "Mobile Off-canvas Sidebar"
+msgstr ""
+
+#: header/toggle-offcanvas.php:47 woocommerce/checkout/thankyou.php:31
+msgid "My Account"
+msgstr ""
+
+#: header.php:119 header/toggle-offcanvas.php:71
+msgid "My Wishlist"
+msgstr ""
+
+#: vc_templates/dh_portfolio.php:139 woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: footer.php:24
+msgid "NEWSLETTER"
+msgstr ""
+
+#: searchform.php:2 searchform.php:4 searchform.php:5
+msgid "Nhập tên hoặc mã sản phẩm để tìm kiếm ...."
+msgstr ""
+
+#: comments.php:10
+msgid "No Comments"
+msgstr ""
+
+#: header.php:135 header.php:165 header/center.php:257 header/classic.php:236
+msgid "No menu assigned!"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Not that bad"
+msgstr ""
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: comments.php:10
+msgid "One Comment"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/loop/rating.php:22
+msgid "out of 5"
+msgstr ""
+
+#: vc_templates/dh_wc_product_mansory.php:168
+#: woocommerce/content-product.php:65
+msgid "Out of stock"
+msgstr ""
+
+#: single.php:33
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:30 woocommerce/myaccount/form-login.php:50
+#: woocommerce/myaccount/form-login.php:94
+msgid "Password"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:29
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:55
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:54
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:23
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:25
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:68
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:30
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:72
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: includes/plugins/tgmpa_register.php:79
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:90
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:207
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28 woocommerce/cart/cart.php:76
+msgid "Price"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27 woocommerce/cart/cart.php:60
+#: woocommerce/checkout/form-pay.php:20
+msgid "Product"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:64
+msgid "Products brands &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:70
+msgid "Products in &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:76
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:21
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:82
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/loop/rating.php:20 woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: index.php:152 search.php:152 vc_templates/dh_post.php:216
+msgid "Read More"
+msgstr ""
+
+#: vc_templates/dh_post_grid.php:170 vc_templates/dh_post_slider.php:170
+msgid "Read more"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:26
+#: woocommerce/myaccount/form-login.php:109
+msgid "Register"
+msgstr ""
+
+#: woocommerce/global/form-login.php:41 woocommerce/myaccount/form-login.php:59
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/cart/cart.php:46
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:50
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce-swatches/single-product/variable.php:32
+msgid "Reset selection"
+msgstr ""
+
+#: includes/plugins/tgmpa_register.php:78
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:50
+msgid "Save"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:105 woocommerce/global/breadcrumb.php:203
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: vc_templates/dh_countdown.php:34
+msgid "Seconds"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:59
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: functions.php:200
+msgid "Sending info, please wait..."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:35
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:22 woocommerce/cart/cart-shipping.php:102
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: functions.php:231
+msgid "Shop Filter Sidebar"
+msgstr ""
+
+#: vc_templates/product_categories_grid.php:142
+#: vc_templates/product_categories_grid.php:144
+msgid "Shop Now"
+msgstr ""
+
+#: functions.php:222
+msgid "Shop Sidebar"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:47
+msgid "Show:"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:43
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: header.php:103
+msgid "Skip to main content"
+msgstr ""
+
+#: includes/plugins/tgmpa_register.php:67
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: content-none.php:8
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: includes/plugins/tgmpa_register.php:73
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgmpa_register.php:70
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgmpa_register.php:75
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:32
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:19
+msgid "Sorting:"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:50
+#: woocommerce/cart/shipping-calculator.php:58
+#: woocommerce/cart/shipping-calculator.php:73
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:37 woocommerce/checkout/thankyou.php:68
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: includes/plugins/tgmpa_register.php:74
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgmpa_register.php:72
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgmpa_register.php:71
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:81 woocommerce/cart/cart-shipping.php:87
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: functions.php:213
+msgid "This is main sidebar"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:23
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: functions.php:223 functions.php:232 functions.php:241
+msgid "This sidebar use for Woocommerce page"
+msgstr ""
+
+#: includes/plugins/tgmpa_register.php:69
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/tgmpa_register.php:68
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: header.php:142 header/center.php:143 header/classic.php:135
+#: header/toggle-offcanvas.php:103
+msgid "Toggle navigation"
+msgstr ""
+
+#: functions.php:52
+msgid "Top Menu"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:99
+msgid "Total"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:49
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:22
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:19
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:95
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:80
+msgid "Username"
+msgstr ""
+
+#: woocommerce/global/form-login.php:26
+#: woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Very Poor"
+msgstr ""
+
+#: vc_templates/dh_box_feature.php:69
+msgid "View More"
+msgstr ""
+
+#: woocommerce/single-product/related.php:20
+#: woocommerce/single-product/related.php:63
+msgid "We know you will love"
+msgstr ""
+
+#: 404.php:8
+msgid "WHOOPS!"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:42
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:31 woocommerce/cart/cross-sells.php:88
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:47
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Your Review"
+msgstr ""

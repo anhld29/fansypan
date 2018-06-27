@@ -3133,12 +3133,6 @@ input[type="button"].btn-block {
   color: #8dc63f;
   background-color: transparent;
 }
-.navbar-default .navbar-nav > .current-menu-ancestor > a:before,
-.navbar-default .navbar-nav > .current-menu-parent > a:before,
-.navbar-default .navbar-nav > .current-menu-ancestor > a:hover:before,
-.navbar-default .navbar-nav > .current-menu-parent > a:hover:before {
-  display: block !important;
-}
 .navbar-default .navbar-collapse {
   border-color: #000000;
 }

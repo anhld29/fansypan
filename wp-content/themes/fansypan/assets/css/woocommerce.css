@@ -3199,7 +3199,6 @@ p.demo_store {
   clear: both;
 }
 .woocommerce .shop-toolbar .view-mode {
-  display: none;
   float: left;
   margin-right: 30px;
 }
