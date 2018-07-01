@@ -1,0 +1,8 @@
+2018-06-30T17:04:54+00:00 CRITICAL Uncaught exception 'Exception' with message 'fetch - <b>Table 'fansypan_com.wp_revslider_sliders' doesn't exist</b><br>---<br> Query: select * from wp_revslider_sliders where `type` != &#039;template&#039; OR `type` IS NULL order by id ASC' in D:\xampp1\htdocs\fansypan\wp-content\plugins\revslider\includes\framework\functions.class.php:14
+Stack trace:
+#0 D:\xampp1\htdocs\fansypan\wp-content\plugins\revslider\includes\framework\db.class.php(26): RevSliderFunctions::throwError('fetch - <b>Tabl...', -1)
+#1 D:\xampp1\htdocs\fansypan\wp-content\plugins\revslider\includes\framework\db.class.php(41): RevSliderDB->throwError('fetch - <b>Tabl...')
+#2 D:\xampp1\htdocs\fansypan\wp-content\plugins\revslider\includes\framework\db.class.php(145): RevSliderDB->checkForErrors('fetch')
+#3 D:\xampp1\htdocs\fansypan\wp-content\plugins\revslider\includes\slider.class.php(2975): RevSliderDB->fetch('wp_revslider_sl...', '`type` != 'temp...', 'id', '', 'ASC')
+#4 D:\xampp1\htdocs\fansypan\wp-content\plugins\js_composer\include\class
+

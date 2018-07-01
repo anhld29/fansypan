@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Sitesao Core\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-27 09:55+0000\n"
-"PO-Revision-Date: 2018-06-27 09:58+0000\n"
+"PO-Revision-Date: 2018-06-30 17:41+0000\n"
 "Last-Translator: admin_fansypan <anhld29@gmail.com>\n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
@@ -116,7 +116,7 @@ msgstr ""
 #: includes/controller.php:420
 #, php-format
 msgid "[%s] Password Reset"
-msgstr ""
+msgstr "[%s] Lấy lại mật khẩu"
 
 #: dhwc-brand/includes/dhwc-widget-brands.php:11
 msgid "A list or dropdown of product brands."
@@ -566,7 +566,7 @@ msgstr ""
 
 #: includes/controller.php:399
 msgid "Could not save password reset key to database."
-msgstr ""
+msgstr "Không thể lưu khóa đặt lại mật khẩu vào cơ sở dữ liệu."
 
 #: includes/widget.php:295
 msgid "Couldn't find twitteroauth.php!"
@@ -859,7 +859,7 @@ msgstr ""
 
 #: includes/admin/theme-options.php:1997
 msgid "Enable or disable Login/Register with Facebook"
-msgstr ""
+msgstr "Bật hoặc tắt Đăng nhập / Đăng ký bằng Facebook"
 
 #: includes/admin/meta-boxes.php:286
 msgid "Enable or disable main menu background transparency."
@@ -936,7 +936,7 @@ msgstr ""
 
 #: includes/admin/theme-options.php:1990
 msgid "Facebook Login Settings"
-msgstr ""
+msgstr "Cài đặt đăng nhập Facebook"
 
 #: includes/hook.php:76
 msgid "Facebook Profile URL"
@@ -1068,7 +1068,7 @@ msgstr ""
 
 #: includes/hook.php:485
 msgid "Forgot Password"
-msgstr ""
+msgstr "Quên mật khẩu"
 
 #: includes/post-type-slider.php:257 includes/post-type-slider.php:319
 msgid "Full Screen"
@@ -1103,7 +1103,7 @@ msgstr ""
 
 #: includes/woocommerce.php:535
 msgid "Go to the shop"
-msgstr ""
+msgstr "Tiếp tục mua sắm"
 
 #: includes/hook.php:74
 msgid "Google+ Profile URL"
@@ -1567,11 +1567,11 @@ msgstr ""
 
 #: includes/hook.php:395
 msgid "Login"
-msgstr ""
+msgstr "Đăng nhập"
 
 #: includes/controller.php:124 includes/controller.php:142
 msgid "Login successful, redirecting..."
-msgstr ""
+msgstr "Đăng nhập thành công, chuyển hướng ..."
 
 #: includes/admin/theme-options.php:764
 msgid "Logo"
@@ -1579,7 +1579,7 @@ msgstr ""
 
 #: includes/hook.php:419
 msgid "Lost your password?"
-msgstr ""
+msgstr "Quên mật khẩu?"
 
 #: includes/admin/theme-options.php:2014
 msgid "MailChimp API Key"
@@ -1820,7 +1820,7 @@ msgstr ""
 
 #: includes/controller.php:215
 msgid "Not see password confirmation field."
-msgstr ""
+msgstr "Không thấy trường xác nhận mật khẩu."
 
 #: includes/admin/functions.php:3
 msgid "Nothing Found..."
@@ -1983,19 +1983,19 @@ msgstr ""
 #: includes/hook.php:411 includes/hook.php:412 includes/hook.php:460
 #: includes/hook.php:461
 msgid "Password"
-msgstr ""
+msgstr "Mật khẩu"
 
 #: includes/controller.php:213
 msgid "Password must be 6 character long."
-msgstr ""
+msgstr "Mật khẩu phải dài 6 ký tự."
 
 #: includes/controller.php:363
 msgid "Password reset is not allowed for this user"
-msgstr ""
+msgstr "Không cho phép đặt lại mật khẩu cho người dùng này"
 
 #: includes/controller.php:217
 msgid "Passwords do not match."
-msgstr ""
+msgstr "Mật khẩu không đúng"
 
 #: includes/admin/theme-options.php:1053
 msgid "Phone number"
@@ -2026,6 +2026,8 @@ msgid ""
 "Please click again to login with Facebook and allow the application to use "
 "your email address"
 msgstr ""
+"Vui lòng nhấp lại để đăng nhập bằng Facebook và cho phép ứng dụng sử dụng "
+"địa chỉ email của bạn"
 
 #: includes/controller.php:47
 msgid "Please connect your facebook account."
@@ -2275,7 +2277,7 @@ msgstr ""
 
 #: includes/hook.php:416
 msgid "Remember Me"
-msgstr ""
+msgstr "Lưu khi đăng nhập"
 
 #: includes/widget.php:950
 msgid "Remove Filter"
@@ -2298,11 +2300,11 @@ msgstr ""
 
 #: includes/hook.php:499
 msgid "Reset Password"
-msgstr ""
+msgstr "Lấy lại mật khẩu"
 
 #: includes/hook.php:464 includes/hook.php:465
 msgid "Retype password"
-msgstr ""
+msgstr "Nhập lại mật khẩu"
 
 #: includes/woocommerce.php:328
 #, php-format
@@ -2781,7 +2783,7 @@ msgstr ""
 
 #: includes/controller.php:404
 msgid "Someone requested that the password be reset for the following account:"
-msgstr ""
+msgstr "Ai đó đã yêu cầu đặt lại mật khẩu cho tài khoản sau:"
 
 #: includes/widget.php:1078
 msgid "Sort by average rating"
@@ -2958,7 +2960,7 @@ msgstr ""
 
 #: includes/controller.php:408
 msgid "To reset your password, visit the following address:"
-msgstr ""
+msgstr "Để đặt lại mật khẩu của bạn, hãy truy cập vào địa chỉ sau:"
 
 #: includes/admin/theme-options.php:820
 msgid "Toggle whether or not to enable a back to top button on your pages."
@@ -3085,7 +3087,7 @@ msgstr ""
 
 #: includes/admin/theme-options.php:1996
 msgid "Use Facebook login"
-msgstr ""
+msgstr "Sử dụng đăng nhập Facebook"
 
 #: includes/admin/theme-options.php:2004
 #, php-format
@@ -3093,6 +3095,9 @@ msgid ""
 "Use Facebook login you need to enter your Facebook App ID. If you don't have "
 "one, you can create it from: <a target=\"_blank\" href=\"%s\">Here</a>"
 msgstr ""
+"Sử dụng đăng nhập Facebook bạn cần nhập ID ứng dụng Facebook của bạn. Nếu "
+"bạn không có, bạn có thể tạo nó từ: <a target=\"_blank\" href=\"%s\"> Tại "
+"đây </a>"
 
 #: includes/admin/meta-boxes.php:125
 msgid "Use hosted video"
@@ -3137,7 +3142,7 @@ msgstr ""
 #: includes/hook.php:407 includes/hook.php:408 includes/hook.php:452
 #: includes/hook.php:453
 msgid "Username"
-msgstr ""
+msgstr "Tên đăng nhập"
 
 #: includes/hook.php:492
 msgid "Username or E-mail"
@@ -3310,6 +3315,8 @@ msgid ""
 "Your facebook account is not verified. You have to verify your account "
 "before proceed login or registering on this site."
 msgstr ""
+"Tài khoản facebook của bạn chưa được xác minh. Bạn phải xác minh tài khoản "
+"của mình trước khi tiếp tục đăng nhập hoặc đăng ký trên trang này."
 
 #: includes/controller.php:150
 msgid "Your session is expired or you submitted an invalid form."
