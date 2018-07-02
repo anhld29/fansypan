@@ -35,6 +35,6 @@ if ( $product->is_on_sale() ) :
     if ( !empty( $regular_price ) && !empty( $sale_price ) && $regular_price > $sale_price ) :
         $R = floor((255*$sale)/100);
         $G = floor((255*(100-$sale))/100);
-        echo apply_filters( 'woocommerce_sale_flash', '<span class="onsale" style="'. $bg_style .'"><em>-' . $sale . '%</em></span>', $post, $product );
+        echo apply_filters( 'woocommerce_sale_flash', '<span class="onsale"><em>-' . $sale . '%</em></span>', $post, $product );
     endif;
 endif;
