@@ -254,7 +254,7 @@ jQuery( function( $ ) {
 			if ( $button.is( '.remove' ) ) {
 
 				$( '.upload_image_id', wc_meta_boxes_product_variations_media.setting_variation_image ).val( '' ).change();
-				wc_meta_boxes_product_variations_media.setting_variation_image.find( 'img' ).eq( 0 ).attr( 'src', woocommerce_admin_meta_boxes_variations.woocommerce_placeholder_img_src );
+				wc_meta_boxes_product_variations_media.setting_variation_image.find( 'img' ).eq( 0 ).attr( 'src', woocommerce_admin_meta_boxes_variations.wc_placeholder_img_src );
 				wc_meta_boxes_product_variations_media.setting_variation_image.find( '.upload_image_button' ).removeClass( 'remove' );
 
 			} else {
