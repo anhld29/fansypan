@@ -3587,7 +3587,7 @@ input[type="button"].btn-block {
   position: relative;
 }
 .navbar-fixed-top {
-  background: #f8f9fb;
+  background: #ffffff;
   height: 60px;
 }
 .navbar-fixed-top .navbar-nav.primary-nav > li > a {
@@ -6915,6 +6915,11 @@ a[data-toggle="tooltip"]:hover {
   position: relative;
   overflow: hidden;
 }
+@media (max-width: 991px) {
+  .header-type-classic .navbar-search-box {
+    display: none;
+  }
+}
 .header-type-classic .navbar-search-box:before {
   content: "\f002";
   position: absolute;
@@ -6947,11 +6952,6 @@ a[data-toggle="tooltip"]:hover {
   width: 100%;
   float: left;
 }
-@media (max-width: 1440px) {
-  .header-type-classic .navbar-default .primary-navbar-collapse {
-    width: auto;
-  }
-}
 .boxed-wrap .header-type-classic .navbar-default .primary-navbar-collapse {
   width: auto;
 }
@@ -6963,11 +6963,6 @@ a[data-toggle="tooltip"]:hover {
   text-align: right;
   float: right;
   padding-left: 20px;
-}
-@media (max-width: 1440px) {
-  .header-type-classic .header-right {
-    width: auto;
-  }
 }
 .boxed-wrap .header-type-classic .header-right {
   width: auto;
@@ -7374,7 +7369,7 @@ a[data-toggle="tooltip"]:hover {
     color: #fff;
   }
   .header-transparent .navbar-default:not(.navbar-fixed-top).navbar-fixed-top {
-    background: #f8f9fb;
+    background: #ffffff;
     border-color: transparent;
   }
   .header-transparent .navbar-default:not(.navbar-fixed-top) .dropdown-menu a {
@@ -7564,8 +7559,14 @@ nav .menu-item.mm_menu05 a:before {
   vertical-align: middle;
   width: 40%;
 }
+@media (max-width: 1170px) {
+  .hotline {
+    width: 70%;
+  }
+}
 .hotline span {
   color: #8dc63f;
+  display: block;
 }
 .hotline i {
   border: 1px solid #575757;
@@ -7590,6 +7591,14 @@ nav .menu-item.mm_menu05 a:before {
 }
 .hotline.map .txt-hotline {
   padding-top: .5em;
+}
+@media (max-width: 1170px) {
+  .hotline.map {
+    display: none !important;
+  }
+}
+.offcanvas-wrap nav .menu-item a:before {
+  display: none;
 }
 /*--------------------------------------------------------------
 27.0 - Footer
