@@ -644,13 +644,13 @@ tbody.collapse.in {
   -webkit-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
-  background: #8dc63f;
+  background: #f6841a;
   z-index: -1;
 }
 .loadmore-action .btn-loadmore:hover,
 .loadmore-action .btn-loadmore:focus {
   text-decoration: none;
-  border-color: #8dc63f;
+  border-color: #f6841a;
   color: #fff;
 }
 .loadmore-action .btn-loadmore:hover:after,
@@ -2352,13 +2352,13 @@ select[multiple].input-lg {
   -webkit-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
-  background: #8dc63f;
+  background: #f6841a;
   z-index: -1;
 }
 .btn:hover,
 .btn:focus {
   text-decoration: none;
-  border-color: #8dc63f;
+  border-color: #f6841a;
   color: #fff;
 }
 .btn:hover:after,
@@ -2399,8 +2399,8 @@ select[multiple].input-lg {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #8dc63f;
-  border-color: #8dc63f;
+  background-color: #f6841a;
+  border-color: #f6841a;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -6611,13 +6611,13 @@ a[data-toggle="tooltip"]:hover {
   -webkit-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
-  background: #8dc63f;
+  background: #f6841a;
   z-index: -1;
 }
 .special-product .loop-add-to-cart a:hover,
 .special-product .loop-add-to-cart a:focus {
   text-decoration: none;
-  border-color: #8dc63f;
+  border-color: #f6841a;
   color: #fff;
 }
 .special-product .loop-add-to-cart a:hover:after,
@@ -7405,7 +7405,7 @@ a[data-toggle="tooltip"]:hover {
 }
 .heading-container .heading-standar .page-breadcrumb {
   float: none;
-  padding: 30px 0;
+  padding: 13px 0;
 }
 .heading-container .heading-standar .page-breadcrumb a:hover {
   text-decoration: underline;
@@ -7531,22 +7531,22 @@ nav .menu-item a:before {
   display: block;
   text-align: center;
   width: 100%;
-  height: 30px;
+  height: 32px;
 }
 nav .menu-item.mm_menu01 a:before {
-  background: url('../../assets/images/ic_menu01.png') no-repeat center center;
+  background: url('../../assets/images/ic_menu01.png') no-repeat center bottom;
 }
 nav .menu-item.mm_menu02 a:before {
-  background: url('../../assets/images/ic_menu02.png') no-repeat center center;
+  background: url('../../assets/images/ic_menu02.png') no-repeat center bottom;
 }
 nav .menu-item.mm_menu03 a:before {
-  background: url('../../assets/images/ic_menu03.png') no-repeat center center;
+  background: url('../../assets/images/ic_menu03.png') no-repeat center bottom;
 }
 nav .menu-item.mm_menu04 a:before {
-  background: url('../../assets/images/ic_menu04.png') no-repeat center center;
+  background: url('../../assets/images/ic_menu04.png') no-repeat center bottom;
 }
 nav .menu-item.mm_menu05 a:before {
-  background: url('../../assets/images/ic_menu05.png') no-repeat center center;
+  background: url('../../assets/images/ic_menu05.png') no-repeat center bottom;
 }
 .navbar-fixed-top a:before {
   display: none !important;
@@ -8210,13 +8210,13 @@ a.go-to-top:hover a.go-to-top:focus.on:hover {
   -webkit-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
-  background: #8dc63f;
+  background: #f6841a;
   z-index: -1;
 }
 .readmore-link a:hover,
 .readmore-link a:focus {
   text-decoration: none;
-  border-color: #8dc63f;
+  border-color: #f6841a;
   color: #fff;
 }
 .readmore-link a:hover:after,
@@ -9003,7 +9003,7 @@ p.comment-form-rating {
   -webkit-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
-  background: #8dc63f;
+  background: #f6841a;
   z-index: -1;
 }
 #review_form .form-submit button[type="submit"]:hover,
@@ -9011,7 +9011,7 @@ p.comment-form-rating {
 #review_form .form-submit button[type="submit"]:focus,
 .comment-form .form-submit button[type="submit"]:focus {
   text-decoration: none;
-  border-color: #8dc63f;
+  border-color: #f6841a;
   color: #fff;
 }
 #review_form .form-submit button[type="submit"]:hover:after,
@@ -9656,8 +9656,8 @@ div.wpcf7 .screen-reader-response {
   z-index: 1;
   border-radius: 30px;
   color: #ffffff;
-  background-color: #8dc63f;
-  border-color: #8dc63f;
+  background-color: #f6841a;
+  border-color: #f6841a;
   padding-right: 4rem;
   padding-left: 4rem;
 }
@@ -9675,13 +9675,13 @@ div.wpcf7 .screen-reader-response {
   -webkit-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
-  background: #8dc63f;
+  background: #f6841a;
   z-index: -1;
 }
 .wpcf7-submit:hover,
 .wpcf7-submit:focus {
   text-decoration: none;
-  border-color: #8dc63f;
+  border-color: #f6841a;
   color: #fff;
 }
 .wpcf7-submit:hover:after,

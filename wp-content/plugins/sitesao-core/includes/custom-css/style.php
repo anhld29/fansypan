@@ -693,12 +693,12 @@ if(dh_get_theme_option('custom-sticky-color',0)){
 <?php 
 //heading-bg
 $heading_bg = dh_get_theme_option('heading-bg',0);
-if(!empty($heading_bg)):
+//if(!empty($heading_bg)):
 ?>
-.heading-container{
-	background-image:url(<?php echo dh_print_string($heading_bg)?>);
-}
-<?php endif;?>
+<!-- .heading-container{
+	background-image:url(<?php //echo dh_print_string($heading_bg)?>);
+} -->
+<?php //endif;?>
 
 <?php
 $footer_custom_color = array();

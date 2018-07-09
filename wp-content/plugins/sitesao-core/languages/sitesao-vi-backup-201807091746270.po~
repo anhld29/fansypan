@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Sitesao Core\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-27 09:55+0000\n"
-"PO-Revision-Date: 2018-06-30 17:41+0000\n"
+"PO-Revision-Date: 2018-07-09 17:44+0000\n"
 "Last-Translator: admin_fansypan <anhld29@gmail.com>\n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
@@ -459,7 +459,7 @@ msgstr ""
 
 #: includes/woocommerce.php:520
 msgid "Cart Subtotal"
-msgstr ""
+msgstr "Tổng tiền"
 
 #: includes/widget.php:536
 msgid "Categories"
@@ -2655,11 +2655,11 @@ msgstr ""
 
 #: includes/hook.php:429
 msgid "Sign in"
-msgstr ""
+msgstr "Đăng nhập"
 
 #: includes/hook.php:343
 msgid "Sign in with Facebook"
-msgstr ""
+msgstr "Đăng nhập bằng Facebook"
 
 #: includes/admin/theme-options.php:1533
 msgid "Single Blog Layout"
