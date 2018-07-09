@@ -57,7 +57,7 @@ class DHWC_Widget_Brand_Slider extends WP_Widget {
 				<?php 
 				$thumbnail = dhwc_get_product_brand_thumbnail_url( $brand->term_id);
 				if ( ! $thumbnail )
-					$thumbnail = woocommerce_placeholder_img_src();
+					$thumbnail = wc_placeholder_img_src();
 				?>
 				<li class="item">
 					<a title="<?php echo $brand->name; ?>" href="<?php echo get_term_link($brand->slug,'product_brand'); ?>">

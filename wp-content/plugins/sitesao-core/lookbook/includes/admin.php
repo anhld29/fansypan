@@ -32,7 +32,7 @@ function  dhlookbook_add_thumbnail(){
 	<div class="form-field">
 		<label><?php _e( 'Thumbnail', 'sitesao' ); ?></label>
 		<div id="product_lookbook_thumbnail" style="float:left;margin-right:10px;">
-			<img src="<?php echo woocommerce_placeholder_img_src(); ?>" width="60px" height="60px" />
+			<img src="<?php echo wc_placeholder_img_src(); ?>" width="60px" height="60px" />
 		</div>
 		<div style="line-height:60px;">
 			<input type="hidden" id="product_lookbook_thumbnail_id" name="product_lookbook_thumbnail_id" />
@@ -81,7 +81,7 @@ function  dhlookbook_add_thumbnail(){
 			});
 	
 			jQuery(document).on( 'click', '.remove_image_button', function( event ){
-				jQuery('#product_lookbook_thumbnail img').attr('src', '<?php echo woocommerce_placeholder_img_src(); ?>');
+				jQuery('#product_lookbook_thumbnail img').attr('src', '<?php echo wc_placeholder_img_src(); ?>');
 				jQuery('#product_lookbook_thumbnail_id').val('');
 				jQuery('.remove_image_button').hide();
 				return false;
@@ -104,7 +104,7 @@ function  dhlookbook_edit_lookbook_thumbnail($term, $taxonomy ){
 	if ($thumbnail_id) :
 		$image = wp_get_attachment_url( $thumbnail_id );
 	else :
-		$image = woocommerce_placeholder_img_src();
+		$image = wc_placeholder_img_src();
 	endif;
 	?>
 	<tr class="form-field">
@@ -164,7 +164,7 @@ function  dhlookbook_edit_lookbook_thumbnail($term, $taxonomy ){
 					});
 
 					jQuery(document).on( 'click', '.remove_image_button', function( event ){
-						jQuery('#product_lookbook_thumbnail img').attr('src', '<?php echo woocommerce_placeholder_img_src(); ?>');
+						jQuery('#product_lookbook_thumbnail img').attr('src', '<?php echo wc_placeholder_img_src(); ?>');
 						jQuery('#product_lookbook_thumbnail_id').val('');
 						jQuery('.remove_image_button').hide();
 						return false;
@@ -237,7 +237,7 @@ function  dhlookbook_product_lookbook_column( $columns, $column, $id ) {
 		if ($thumbnail_id)
 			$image = wp_get_attachment_thumb_url( $thumbnail_id );
 		else
-			$image = woocommerce_placeholder_img_src();
+			$image = wc_placeholder_img_src();
 
 		$columns .= '<img src="' . $image . '" alt="Thumbnail" class="wp-post-image" height="48" width="48" />';
 

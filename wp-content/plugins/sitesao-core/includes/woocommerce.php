@@ -509,7 +509,7 @@ if ( ! class_exists( 'DH_Woocommerce' ) ) :
 							if(function_exists('wc_get_cart_remove_url'))
 								$remove_url = wc_get_cart_remove_url($cart_item_key);
 							else
-								$remove_url = $woocommerce->cart->get_remove_url( $cart_item_key );
+								$remove_url = $woocommerce->cart->wc_get_cart_remove_url( $cart_item_key );
 							
 							$minicart .= apply_filters( 'woocommerce_cart_item_remove_link',sprintf( '<a href="%s" class="remove" title="%s">&times;</a>', esc_url( $remove_url ), __( 'Remove this item', 'sitesao' ) ), $cart_item_key );
 							$minicart .= '</div>';
@@ -838,7 +838,7 @@ if ( ! class_exists( 'DH_Woocommerce' ) ) :
 			<div class="form-field">
 				<label><?php _e( 'Heading Background', 'sitesao' ); ?></label>
 				<div id="product_cat_heading_thumbnail" style="float:left;margin-right:10px;">
-					<img src="<?php echo woocommerce_placeholder_img_src(); ?>" width="60px" height="60px" />
+					<img src="<?php echo wc_placeholder_img_src(); ?>" width="60px" height="60px" />
 				</div>
 				<div style="line-height:60px;">
 					<input type="hidden" id="product_cat_heading_thumbnail_id" name="product_cat_heading_thumbnail_id" />
@@ -887,7 +887,7 @@ if ( ! class_exists( 'DH_Woocommerce' ) ) :
 					});
 			
 					jQuery(document).on( 'click', '.product_cat_heding_remove', function( event ){
-						jQuery('#product_cat_heading_thumbnail img').attr('src', '<?php echo woocommerce_placeholder_img_src(); ?>');
+						jQuery('#product_cat_heading_thumbnail img').attr('src', '<?php echo wc_placeholder_img_src(); ?>');
 						jQuery('#product_cat_heading_thumbnail_id').val('');
 						jQuery('.product_cat_heding_remove').hide();
 						return false;
@@ -922,7 +922,7 @@ if ( ! class_exists( 'DH_Woocommerce' ) ) :
 			if ($thumbnail_id) :
 				$image = wp_get_attachment_url( $thumbnail_id );
 			else :
-				$image = woocommerce_placeholder_img_src();
+				$image = wc_placeholder_img_src();
 			endif;
 			$product_cat_short_description = get_woocommerce_term_meta( $term->term_id, 'product_cat_short_description', true );
 			$product_cat_heading_title = get_woocommerce_term_meta( $term->term_id, 'product_cat_heading_title', true );
@@ -997,7 +997,7 @@ if ( ! class_exists( 'DH_Woocommerce' ) ) :
 						});
 				
 						jQuery(document).on( 'click', '.product_cat_heding_remove', function( event ){
-							jQuery('#product_cat_heading_thumbnail img').attr('src', '<?php echo woocommerce_placeholder_img_src(); ?>');
+							jQuery('#product_cat_heading_thumbnail img').attr('src', '<?php echo wc_placeholder_img_src(); ?>');
 							jQuery('#product_cat_heading_thumbnail_id').val('');
 							jQuery('.product_cat_heding_remove').hide();
 							return false;
