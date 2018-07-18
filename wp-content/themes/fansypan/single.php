@@ -21,7 +21,7 @@ $main_class = dh_get_main_class();
 						?>
 						<article id="post-<?php the_ID(); ?>" <?php post_class(); ?> itemtype="<?php echo dh_get_protocol() ?>://schema.org/Article" itemscope="">
 							<div class="hentry-wrap">
-								<?php dh_post_featured(); ?>
+								<?php //dh_post_featured(); ?>
 								<div class="entry-header">
 									<h1 class="entry-title" data-itemprop="name"><?php the_title()?></h1>
 									<div class="entry-meta icon-meta">

@@ -2877,7 +2877,7 @@ input[type="button"].btn-block {
 }
 .navbar-fixed-top .primary-navbar-collapse {
   position: absolute;
-  width: 60% !important;
+  width: 80% !important;
   left: 20%;
   z-index: 0;
   top: 0;
@@ -7548,6 +7548,9 @@ nav .menu-item.mm_menu04 a:before {
 nav .menu-item.mm_menu05 a:before {
   background: url('../../assets/images/ic_menu05.png') no-repeat center bottom;
 }
+nav .menu-item.mm_menu06 a:before {
+  background: url('../../assets/images/ic_menu06.png') no-repeat center bottom;
+}
 .navbar-fixed-top a:before {
   display: none !important;
 }
@@ -7565,7 +7568,7 @@ nav .menu-item.mm_menu05 a:before {
   }
 }
 .hotline span {
-  color: #8dc63f;
+  color: #f6841a;
   display: block;
 }
 .hotline i {
@@ -9234,9 +9237,14 @@ p.comment-form-rating {
   -moz-osx-font-smoothing: grayscale;
   speak: none;
 }
+.extra-sidebar .widget_categories li:before,
+.main-sidebar .widget_categories li:before {
+  position: absolute;
+}
 .extra-sidebar .widget_categories li a,
 .main-sidebar .widget_categories li a {
-  float: left;
+  display: block;
+  text-align: left;
 }
 .extra-sidebar .widget_meta li,
 .main-sidebar .widget_meta li {

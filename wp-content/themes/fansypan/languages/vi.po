@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: fansypan.com\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-27 01:58+0000\n"
-"PO-Revision-Date: 2018-06-27 02:19+0000\n"
+"PO-Revision-Date: 2018-07-18 16:35+0000\n"
 "Last-Translator: admin_fansypan <anhld29@gmail.com>\n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
@@ -188,7 +188,7 @@ msgstr ""
 
 #: single.php:32
 msgid "Continue reading &hellip;"
-msgstr ""
+msgstr "Đọc tiếp &hellip;"
 
 #: woocommerce/cart/cart.php:118 woocommerce/checkout/form-coupon.php:24
 msgid "Coupon code"
@@ -285,7 +285,7 @@ msgstr ""
 msgid ""
 "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
 "conditions</a>"
-msgstr ""
+msgstr "Tôi đồng ý với các <a href=\"%s\" target=\"_blank\">điều khoản</a>"
 
 #: woocommerce/checkout/form-login.php:25
 msgid ""
@@ -564,11 +564,11 @@ msgstr ""
 
 #: index.php:152 search.php:152 vc_templates/dh_post.php:216
 msgid "Read More"
-msgstr ""
+msgstr "Xem thêm"
 
 #: vc_templates/dh_post_grid.php:170 vc_templates/dh_post_slider.php:170
 msgid "Read more"
-msgstr ""
+msgstr "Xem thêm"
 
 #: woocommerce/myaccount/form-login.php:26
 #: woocommerce/myaccount/form-login.php:109
@@ -879,7 +879,7 @@ msgstr ""
 #: woocommerce/single-product/related.php:20
 #: woocommerce/single-product/related.php:63
 msgid "We know you will love"
-msgstr "Bạn có thể thích"
+msgstr "Bạn có thể mua"
 
 #: 404.php:8
 msgid "WHOOPS!"
@@ -887,7 +887,7 @@ msgstr ""
 
 #: woocommerce/single-product/up-sells.php:42
 msgid "You may also like&hellip;"
-msgstr "Bạn cũng có thể thích&hellip;"
+msgstr "Bạn có thể mua thêm &hellip;"
 
 #: woocommerce/cart/cross-sells.php:31 woocommerce/cart/cross-sells.php:88
 msgid "You may be interested in&hellip;"
