@@ -8059,6 +8059,10 @@ a.go-to-top:hover a.go-to-top:focus.on:hover {
   padding-left: 0;
   padding-right: 0;
 }
+.posts .posts-wrap.posts-layout-masonry .entry-featured a {
+  max-height: 175px;
+  overflow-y: hidden;
+}
 .posts .posts-wrap.posts-layout-center .hentry-wrap {
   text-align: center;
 }
