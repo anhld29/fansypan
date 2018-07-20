@@ -15,6 +15,11 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
  * Each tab is an array containing title, callback and priority.
  * @see woocommerce_default_product_tabs() 0905032132
  */
+add_filter( 'woocommerce_product_tabs', 'helloacm_remove_product_review', 99);
+function helloacm_remove_product_review($tabs) {
+    unset($tabs['reviews']);
+    return $tabs;
+}
 $tabs = apply_filters( 'woocommerce_product_tabs', array() );
 $layout = dh_get_theme_option('woo-product-layout','full-width');
 

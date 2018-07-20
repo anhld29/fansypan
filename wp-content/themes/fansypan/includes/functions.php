@@ -704,7 +704,7 @@ function dh_related_post(){
 <?php if($related->have_posts()): ?>
 <div class="related-post">
 	<div class="related-post-title">
-		<h3><span><?php echo esc_html__("Related News",'sitesao')?></span></h3>
+		<h3><span><?php echo esc_html__("Tin Tức Liên Quan",'sitesao')?></span></h3>
 	</div>
 	<div class="row related-post-items">
 		<?php while ($related->have_posts()): $related->the_post();global $post;?>

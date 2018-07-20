@@ -86,10 +86,14 @@
   .widget_categories{
      li{
       .add-fa-icon-before("\f114");
+      &:before{
+        position: absolute;
+      }
       padding-left: 1.5em;
       text-align: right;
       a {
-        float: left;
+        display: block;
+        text-align: left;
       }
     }
   }

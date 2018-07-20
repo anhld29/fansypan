@@ -32,13 +32,13 @@
     height: 1050%;
     .rotate(45deg);
     .transition(all 0.5s ease);
-    background: @brand-primary;
+    background: @brand-primary-secondary;
     z-index: -1;
   }
   &:hover,
   &:focus {
     text-decoration: none;
-    border-color: @brand-primary;
+    border-color: @brand-primary-secondary;
     color: #fff;
     &:after {
       left: 0%;
@@ -65,7 +65,7 @@
   .btn-outline();
 }
 .btn-primary {
-  .button-variant(@btn-primary-color; @btn-primary-bg; @btn-primary-border);
+  .button-variant(@btn-primary-color; @brand-primary-secondary; @brand-primary-secondary);
 }
 // Success appears as green
 .btn-success {

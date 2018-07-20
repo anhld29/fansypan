@@ -109,6 +109,7 @@ $layout = dh_get_theme_option('woo-product-layout','full-width');
 	</div>
 	<?php 
 	woocommerce_output_product_data_tabs();
+		echo do_shortcode( '[wc_quick_buy_link]' );
 	?>
 	<div class="<?php dh_container_class()?>">
 	<?php endif;?>

@@ -696,7 +696,11 @@ $heading_bg = dh_get_theme_option('heading-bg',0);
 //if(!empty($heading_bg)):
 ?>
 <!-- .heading-container{
+<<<<<<< HEAD
 	//background-image:url(<?php //echo //dh_print_string($heading_bg)?>);
+=======
+	background-image:url(<?php //echo dh_print_string($heading_bg)?>);
+>>>>>>> c82e13dd6b0095cd60bcbf722b0812815bce9154
 } -->
 <?php //endif;?>
 

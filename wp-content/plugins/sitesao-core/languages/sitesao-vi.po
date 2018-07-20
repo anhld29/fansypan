@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Sitesao Core\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-27 09:55+0000\n"
-"PO-Revision-Date: 2018-06-30 17:44+0000\n"
+"PO-Revision-Date: 2018-07-09 17:46+0000\n"
 "Last-Translator: admin_fansypan <anhld29@gmail.com>\n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
@@ -459,7 +459,7 @@ msgstr ""
 
 #: includes/woocommerce.php:520
 msgid "Cart Subtotal"
-msgstr ""
+msgstr "Tổng tiền"
 
 #: includes/widget.php:536
 msgid "Categories"
@@ -1446,7 +1446,7 @@ msgstr ""
 #: includes/woocommerce.php:491
 #, php-format
 msgid "in the <a href=\"%1$s\">shopping cart</a>"
-msgstr ""
+msgstr "sản phẩm <a href=\"%1$s\">trong giỏ hàng</a>"
 
 #: includes/admin/theme-options.php:1406 includes/admin/theme-options.php:1836
 msgid "Infinite Scrolling"
@@ -2519,7 +2519,7 @@ msgstr ""
 
 #: includes/woocommerce.php:463
 msgid "Shopping Cart"
-msgstr ""
+msgstr "Giỏ hàng"
 
 #: includes/woocommerce.php:834 includes/woocommerce.php:938
 msgid "Short Description"
