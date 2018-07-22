@@ -1,0 +1,3335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sitesao Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-27 09:55+0000\n"
+"PO-Revision-Date: 2018-06-30 17:41+0000\n"
+"Last-Translator: admin_fansypan <anhld29@gmail.com>\n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/widget.php:601
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: includes/woocommerce.php:386
+msgid "% items"
+msgstr "% mặt hàng"
+
+#: includes/woocommerce.php:809
+#, php-format
+msgid "%s &ndash; %s"
+msgstr ""
+
+#: includes/widget.php:400
+#, php-format
+msgid "%s days ago"
+msgstr "%s ngày trước"
+
+#: includes/widget.php:396
+#, php-format
+msgid "%s hours ago"
+msgstr "%s giờ trước"
+
+#: includes/widget.php:392
+#, php-format
+msgid "%s minutes ago"
+msgstr "%s phút trước"
+
+#: includes/widget.php:388
+#, php-format
+msgid "%s seconds ago"
+msgstr "%s giây trước"
+
+#: includes/widget.php:603
+msgid "0 Comments"
+msgstr ""
+
+#: includes/woocommerce.php:388
+msgid "0 items"
+msgstr ""
+
+#: includes/widget.php:605
+msgid "1 Comment"
+msgstr ""
+
+#: includes/woocommerce.php:390
+msgid "1 item"
+msgstr ""
+
+#: includes/admin/theme-options.php:1343
+msgid "<p class=\"description\">Customize Blog.</p>"
+msgstr "<p class=\"description\">Tùy chỉnh Blog.</p>"
+
+#: includes/admin/theme-options.php:903
+msgid "<p class=\"description\">Customize Color and Typography.</p>"
+msgstr ""
+
+#: includes/admin/theme-options.php:866
+msgid "<p class=\"description\">Customize Design and Layout.</p>"
+msgstr ""
+
+#: includes/admin/theme-options.php:1197
+msgid "<p class=\"description\">Customize Footer.</p>"
+msgstr ""
+
+#: includes/admin/theme-options.php:964
+msgid "<p class=\"description\">Customize Header.</p>"
+msgstr ""
+
+#: includes/admin/theme-options.php:1665
+msgid "<p class=\"description\">Customize Woocommerce.</p>"
+msgstr ""
+
+#: includes/admin/theme-options.php:2063
+msgid ""
+"<p class=\"description\">Enter in your profile media locations here.<br>"
+"<strong>Remember to include the \"http://\" in all URLs!</strong></p>"
+msgstr ""
+
+#: includes/admin/theme-options.php:758
+msgid ""
+"<p class=\"description\">Here you will set your site-wide preferences.</p>"
+msgstr ""
+
+#: includes/admin/theme-options.php:1985
+msgid "<p class=\"description\">Social API"
+msgstr ""
+
+#: includes/controller.php:301
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: includes/controller.php:324
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: includes/controller.php:529
+msgid "<strong>Well done!</strong> Subscribe to our Newsletter successful!"
+msgstr ""
+
+#: includes/controller.php:420
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Lấy lại mật khẩu"
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:11
+msgid "A list or dropdown of product brands."
+msgstr ""
+
+#: includes/widget.php:394
+msgid "about 1 hour ago"
+msgstr ""
+
+#: includes/widget.php:390
+msgid "about 1 minute ago"
+msgstr ""
+
+#: includes/widget.php:433
+msgid "Access Token"
+msgstr ""
+
+#: includes/widget.php:437
+msgid "Access Token Secret"
+msgstr ""
+
+#: includes/admin/admin.php:104
+msgid "Action to trigger"
+msgstr ""
+
+#: includes/admin/theme-options.php:1899
+msgid "Activate this to enable product meta."
+msgstr ""
+
+#: includes/admin/theme-options.php:1620
+msgid "Activate this to enable social sharing buttons on single post page."
+msgstr ""
+
+#: includes/admin/theme-options.php:1906
+msgid "Activate this to enable social sharing buttons."
+msgstr ""
+
+#: includes/admin/functions.php:312
+msgid "Add Gallery Images"
+msgstr ""
+
+#: includes/woocommerce_product_variable.php:116
+#: includes/admin/functions.php:207
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:317
+msgid "Add menu anchor for heading. You can use in One Page"
+msgstr ""
+
+#: includes/post-type-slider.php:739
+msgid "Add New"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:61
+msgid "Add New Product Brand"
+msgstr ""
+
+#: lookbook/lookbook.php:55
+msgid "Add New Product Lookbook"
+msgstr ""
+
+#: includes/post-type-slider.php:740
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/post-type-slider.php:771
+msgid "Add New Slider"
+msgstr ""
+
+#: includes/woocommerce_product_variable.php:117
+#: includes/admin/functions.php:209
+msgid "Add to Gallery"
+msgstr ""
+
+#: includes/admin/admin.php:117
+msgid "Add Tooltip"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:54
+msgctxt "Admin menu name"
+msgid "Brands"
+msgstr ""
+
+#: includes/post-type-slider.php:738
+msgctxt "Admin menu name"
+msgid "DHSlides"
+msgstr ""
+
+#: lookbook/lookbook.php:48
+msgctxt "Admin menu name"
+msgid "Lookbooks"
+msgstr ""
+
+#: includes/admin/theme-options.php:2022
+msgid ""
+"After you add your MailChimp API Key above and save it this list will be "
+"populated."
+msgstr ""
+
+#: includes/admin/theme-options.php:1128
+msgid "Ajax Search in menu"
+msgstr ""
+
+#: includes/widget.php:1303 includes/widget.php:1306
+msgid "All"
+msgstr ""
+
+#: includes/admin/mega-menu.php:110
+msgid "All Devices"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:56
+msgid "All Product Brands"
+msgstr ""
+
+#: lookbook/lookbook.php:50
+msgid "All Product Lookbooks"
+msgstr ""
+
+#: includes/post-type-slider.php:768
+msgid "All Sliders"
+msgstr ""
+
+#: includes/hook.php:471 includes/hook.php:498
+msgid "Already have an account?"
+msgstr ""
+
+#: includes/widget.php:705
+msgid "AND"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-layered-nav.php:124
+msgid "Any brand"
+msgstr ""
+
+#: includes/admin/theme-options.php:804
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: includes/admin/theme-options.php:811
+msgid "Apple iPad Retina Icon (144px 144px)."
+msgstr ""
+
+#: includes/admin/theme-options.php:798
+msgid "Apple Iphone Icon"
+msgstr ""
+
+#: includes/admin/theme-options.php:799
+msgid "Apple Iphone Icon (57px 57px)."
+msgstr ""
+
+#: includes/admin/theme-options.php:805
+msgid "Apple Iphone Retina Icon (72px 72px)."
+msgstr ""
+
+#: includes/admin/theme-options.php:810
+msgid "Apple Retina Icon"
+msgstr ""
+
+#: includes/admin/theme-options.php:1365
+msgid "Archive Layout"
+msgstr ""
+
+#: includes/widget.php:697
+msgid "Attribute"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:154
+msgid "Audio Settings"
+msgstr ""
+
+#: includes/controller.php:36
+msgid "Authenication required."
+msgstr ""
+
+#: includes/breadcrumb.php:123
+#, php-format
+msgid "Author Archive for: \"%s\""
+msgstr ""
+
+#: includes/admin/theme-options.php:1485 includes/admin/theme-options.php:1573
+msgid "Author Meta"
+msgstr ""
+
+#: includes/post-type-slider.php:270 includes/post-type-slider.php:337
+msgid "Auto Run"
+msgstr ""
+
+#: includes/admin/theme-options.php:818
+msgid "Back To Top Button"
+msgstr ""
+
+#: includes/admin/theme-options.php:883
+msgid "Background"
+msgstr ""
+
+#: includes/admin/theme-options.php:536
+msgid "Background Attachment"
+msgstr ""
+
+#: includes/admin/theme-options.php:556
+msgid "Background Position"
+msgstr ""
+
+#: includes/admin/theme-options.php:516
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/admin/theme-options.php:526
+msgid "Background Size"
+msgstr ""
+
+#: includes/post-type-slider.php:500
+msgid "Background Type"
+msgstr ""
+
+#: includes/admin/theme-options.php:2108
+msgid "Behance URL"
+msgstr ""
+
+#: includes/admin/theme-options.php:1342
+msgid "Blog"
+msgstr ""
+
+#: includes/admin/theme-options.php:1389
+msgid "Blogs Columns"
+msgstr ""
+
+#: includes/admin/theme-options.php:914
+msgid "Body"
+msgstr ""
+
+#: includes/admin/admin.php:84
+msgid "Bottom"
+msgstr ""
+
+#: includes/admin/theme-options.php:876
+msgid "Boxed"
+msgstr ""
+
+#: includes/admin/theme-options.php:908
+msgid "Brand primary"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:223
+msgid "Brand:"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-brand-admin.php:355
+#: dhwc-brand/includes/dhwc-brand-functions.php:155
+#: dhwc-brand/includes/dhwc-widget-layered-nav.php:288
+#: dhwc-brand/includes/dhwc-widget-slider-brands.php:33
+msgid "Brands"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-brand-admin.php:255
+msgid "Brands Options"
+msgstr ""
+
+#: includes/post-type-slider.php:631
+msgid "Button #1 Color"
+msgstr ""
+
+#: includes/post-type-slider.php:613
+msgid "Button #1 Link"
+msgstr ""
+
+#: includes/post-type-slider.php:620
+msgid "Button #1 Style"
+msgstr ""
+
+#: includes/post-type-slider.php:607
+msgid "Button #1 Text"
+msgstr ""
+
+#: includes/post-type-slider.php:670
+msgid "Button #2 Color"
+msgstr ""
+
+#: includes/post-type-slider.php:652
+msgid "Button #2 Link"
+msgstr ""
+
+#: includes/post-type-slider.php:659
+msgid "Button #2 Style"
+msgstr ""
+
+#: includes/post-type-slider.php:646
+msgid "Button #2 Text"
+msgstr ""
+
+#: includes/post-type-slider.php:595
+msgid "Button Link"
+msgstr ""
+
+#: includes/admin/theme-options.php:890
+msgid "Button Style"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:353
+msgid "Button text"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:359
+msgid "Button URL"
+msgstr ""
+
+#: includes/widget.php:441
+msgid "Cache Tweets in every"
+msgstr ""
+
+#: includes/controller.php:531
+msgid "Can not subscribe our Newsletter"
+msgstr ""
+
+#: includes/admin/admin.php:114
+msgid "Cancel"
+msgstr ""
+
+#: includes/post-type-slider.php:435 includes/post-type-slider.php:578
+msgid "Caption"
+msgstr ""
+
+#: includes/post-type-slider.php:544
+msgid "Caption Align"
+msgstr ""
+
+#: includes/post-type-slider.php:545
+msgid "Caption align"
+msgstr ""
+
+#: includes/post-type-slider.php:584
+msgid "Caption Color"
+msgstr ""
+
+#: includes/admin/theme-options.php:1672
+msgid "Cart In header"
+msgstr ""
+
+#: includes/woocommerce.php:520
+msgid "Cart Subtotal"
+msgstr ""
+
+#: includes/widget.php:536
+msgid "Categories"
+msgstr ""
+
+#: includes/post-type-slider.php:551 includes/admin/meta-boxes.php:268
+#: includes/admin/theme-options.php:972 includes/admin/theme-options.php:1382
+msgid "Center"
+msgstr ""
+
+#: includes/admin/theme-options.php:891
+msgid "Change All button in site to style"
+msgstr ""
+
+#: includes/admin/theme-options.php:1143
+msgid "Change heading background height, deafult is 550"
+msgstr ""
+
+#: includes/admin/theme-options.php:1136
+msgid "Change Heading Deafult Background"
+msgstr ""
+
+#: includes/admin/functions.php:396 includes/admin/functions.php:450
+#: includes/admin/theme-options.php:309 includes/admin/theme-options.php:347
+#: includes/admin/theme-options.php:567 includes/admin/theme-options.php:606
+msgid "Change Image"
+msgstr ""
+
+#: includes/admin/functions.php:326 includes/admin/functions.php:366
+msgid "Change Media"
+msgstr ""
+
+#: includes/woocommerce.php:524
+msgid "Checkout"
+msgstr ""
+
+#: includes/woocommerce.php:869 includes/woocommerce.php:979
+#: dhwc-brand/includes/dhwc-brand-admin.php:59
+#: dhwc-brand/includes/dhwc-brand-admin.php:136 lookbook/includes/admin.php:63
+#: lookbook/includes/admin.php:146
+msgid "Choose an image"
+msgstr ""
+
+#: includes/admin/theme-options.php:1250
+msgid "Choose Footer Featured Style."
+msgstr ""
+
+#: includes/admin/theme-options.php:1793
+msgid "Choose grid product style."
+msgstr ""
+
+#: includes/admin/theme-options.php:1410 includes/admin/theme-options.php:1839
+msgid "Choose pagination type."
+msgstr ""
+
+#: includes/admin/theme-options.php:1807
+msgid "Choose Products per Rows."
+msgstr ""
+
+#: includes/admin/theme-options.php:1881
+msgid "Classic"
+msgstr ""
+
+#: includes/admin/functions.php:331
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/functions.php:402 includes/admin/theme-options.php:314
+#: includes/admin/theme-options.php:573
+msgid "Clear Image"
+msgstr ""
+
+#: includes/admin/admin.php:107
+msgid "Click"
+msgstr ""
+
+#: includes/post-type-slider.php:512
+msgid "Click the \"Upload\" button to begin uploading your image"
+msgstr ""
+
+#: includes/admin/theme-options.php:902
+msgid "Color and Typography"
+msgstr ""
+
+#: includes/admin/theme-options.php:1468 includes/admin/theme-options.php:1557
+msgid "Comment Meta"
+msgstr ""
+
+#: includes/widget.php:425
+msgid "Consumer Key"
+msgstr ""
+
+#: includes/widget.php:429
+msgid "Consumer Secret"
+msgstr ""
+
+#: includes/admin/admin.php:98 includes/admin/admin.php:99
+msgid "Content"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:242
+msgid "Content Page no Padding"
+msgstr ""
+
+#: includes/controller.php:399
+msgid "Could not save password reset key to database."
+msgstr "Không thể lưu khóa đặt lại mật khẩu vào cơ sở dữ liệu."
+
+#: includes/widget.php:295
+msgid "Couldn't find twitteroauth.php!"
+msgstr ""
+
+#: includes/controller.php:236
+msgid "Couldn't register you... please contact the site administrator"
+msgstr ""
+
+#: includes/post-type-slider.php:256 includes/post-type-slider.php:318
+#: includes/admin/theme-options.php:1167
+msgid "Custom"
+msgstr ""
+
+#: includes/admin/theme-options.php:2150
+msgid "Custom Code"
+msgstr ""
+
+#: includes/admin/theme-options.php:1320
+msgid "Custom Footer Color Scheme"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:310
+msgid "Custom Heading"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:330
+msgid "Custom heading background image."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:354
+msgid "Custom heading button text."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:360
+msgid "Custom heading button URL."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:348
+msgid "Custom heading sub-title."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:342
+msgid "Custom heading title."
+msgstr ""
+
+#: includes/admin/theme-options.php:1023
+msgid "Custom HTML"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:298
+msgid "Custom logo for page."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:297
+msgid "Custom Page Logo"
+msgstr ""
+
+#: includes/admin/theme-options.php:1092
+msgid "Custom Sticky Color"
+msgstr ""
+
+#: includes/admin/theme-options.php:1094
+msgid "Custom sticky menu color scheme ?"
+msgstr ""
+
+#: includes/admin/theme-options.php:2155
+msgid "Custom Style"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:37
+msgid "Custom Tab Content"
+msgstr ""
+
+#: includes/admin/theme-options.php:1957
+msgid "Custom Tab Titlte"
+msgstr ""
+
+#: includes/admin/theme-options.php:1164
+msgid "Custom Topbar and Main menu color scheme ."
+msgstr ""
+
+#: includes/breadcrumb.php:115
+#, php-format
+msgid "Daily Archive for: \"%s\""
+msgstr ""
+
+#: includes/post-type-slider.php:640 includes/post-type-slider.php:679
+msgid "Danger"
+msgstr ""
+
+#: includes/admin/theme-options.php:1459 includes/admin/theme-options.php:1548
+msgid "Date Meta"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:269 includes/admin/meta-boxes.php:393
+#: includes/admin/theme-options.php:894 includes/admin/theme-options.php:973
+#: includes/admin/theme-options.php:1166 includes/admin/theme-options.php:1245
+#: includes/admin/theme-options.php:1380 includes/admin/theme-options.php:1879
+msgid "Default"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:309
+msgid "Default Heading"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:229
+msgid "Default Menu..."
+msgstr ""
+
+#: includes/widget.php:1076
+msgid "Default sorting"
+msgstr ""
+
+#: includes/admin/theme-options.php:1774
+msgid "Default View Mode"
+msgstr ""
+
+#: includes/admin/functions.php:227 includes/admin/functions.php:302
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/theme-options.php:865
+msgid "Design and Layout"
+msgstr ""
+
+#: includes/widget.php:1120
+msgid "DH WooCommerce Price Filter"
+msgstr ""
+
+#: includes/widget.php:1032
+msgid "DH WooCommerce Product Sorting"
+msgstr ""
+
+#: includes/widget.php:660
+msgid "DH Woocommerce Swatches Layered Nav"
+msgstr ""
+
+#: includes/post-type-slider.php:737 includes/post-type-slider.php:751
+msgid "DHSlide"
+msgstr ""
+
+#: includes/post-type-slider.php:736
+msgid "DHSlides"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-layered-nav.php:13
+msgid "DHWOO Product Brand Layered Nav"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-slider-brands.php:12
+msgid "DHWOO Product Brand Slider"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:13
+msgid "DHWOO Product Brands"
+msgstr ""
+
+#: includes/admin/mega-menu.php:58
+msgid "Disable Mega Menu Column Title"
+msgstr ""
+
+#: includes/woocommerce_product_variable.php:49
+msgid "Disable Variation Gallery ?"
+msgstr ""
+
+#: includes/widget.php:271
+msgid "Display recent tweets"
+msgstr ""
+
+#: includes/admin/theme-options.php:1611
+msgid "Display related post the bottom of posts?"
+msgstr ""
+
+#: includes/admin/mega-menu.php:63 includes/admin/mega-menu.php:82
+msgid "Display Sidebar in Menu"
+msgstr ""
+
+#: includes/widget.php:187
+msgid "Display Social Icon."
+msgstr ""
+
+#: includes/admin/theme-options.php:1593
+msgid "Display the author bio at the bottom of post on single post page ?"
+msgstr ""
+
+#: includes/admin/theme-options.php:1010
+msgid "Display top bar"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-layered-nav.php:309
+msgid "Display Type:"
+msgstr ""
+
+#: includes/widget.php:1030
+msgid "Display WooCommerce Product sorting list."
+msgstr ""
+
+#: includes/admin/import-demo.php:50
+msgid ""
+"Do not run the Demo Import multiple times one after another, it will result "
+"in double content."
+msgstr ""
+
+#: includes/admin/theme-options.php:1237
+msgid "Do you want show featured in footer."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:377
+msgid "Do you want show/hide footer featured."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:366
+msgid "Do you want show/hide footer newsletter."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:388
+msgid "Do you want to change footer featured style."
+msgstr ""
+
+#: includes/admin/theme-options.php:1228
+msgid "Do you want use Mailchimp newsletter form in footer."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:399 includes/admin/theme-options.php:1205
+msgid "Do you want use the main footer that contains all the widgets areas."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:199
+msgid "Double"
+msgstr ""
+
+#: includes/admin/theme-options.php:2128
+msgid "Dribbble URL"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-layered-nav.php:312
+msgid "Dropdown"
+msgstr ""
+
+#: includes/post-type-slider.php:277 includes/post-type-slider.php:346
+msgid "Duration"
+msgstr ""
+
+#: includes/breadcrumb.php:183 includes/breadcrumb.php:197
+#: includes/breadcrumb.php:217 includes/post-type-slider.php:741
+msgid "Edit"
+msgstr ""
+
+#: includes/post-type-slider.php:742
+msgid "Edit DHSlide"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:59
+msgid "Edit Product Brand"
+msgstr ""
+
+#: lookbook/lookbook.php:53
+msgid "Edit Product Lookbook"
+msgstr ""
+
+#: includes/post-type-slider.php:769
+msgid "Edit Slider"
+msgstr ""
+
+#: includes/hook.php:369 includes/hook.php:456 includes/hook.php:457
+#: includes/admin/theme-options.php:1060
+msgid "Email"
+msgstr ""
+
+#: includes/controller.php:447
+msgid "Email successfully sent!"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:117
+msgid "Embedded Code"
+msgstr ""
+
+#: includes/admin/theme-options.php:2027
+msgid "Enable Double Opt-In"
+msgstr ""
+
+#: includes/admin/mega-menu.php:30
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: includes/admin/theme-options.php:1129
+msgid "Enable or disable ajax search in menu."
+msgstr ""
+
+#: includes/admin/theme-options.php:1997
+msgid "Enable or disable Login/Register with Facebook"
+msgstr "Bật hoặc tắt Đăng nhập / Đăng ký bằng Facebook"
+
+#: includes/admin/meta-boxes.php:286
+msgid "Enable or disable main menu background transparency."
+msgstr ""
+
+#: includes/admin/theme-options.php:1152
+msgid "Enable or disable the site path under the page title."
+msgstr ""
+
+#: includes/admin/theme-options.php:1086
+msgid "Enable or disable the sticky menu."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:275
+msgid "Enable or disable the top bar."
+msgstr ""
+
+#: includes/admin/theme-options.php:1011
+msgid ""
+"Enable or disable the top bar.<br> See Social icons tab to enable the social "
+"icons inside it.<br> Set a Top menu from  Appearance - Menus "
+msgstr ""
+
+#: includes/admin/meta-boxes.php:304
+msgid "Enable/disable page heading or custom page heading"
+msgstr ""
+
+#: includes/post-type-slider.php:263 includes/post-type-slider.php:327
+msgid "Enter 100% to full width"
+msgstr ""
+
+#: includes/admin/theme-options.php:837
+msgid ""
+"Enter day number to refresh newsletter. value 0 will be shown every page"
+msgstr ""
+
+#: includes/admin/theme-options.php:853
+msgid "Enter Newsletter Description"
+msgstr ""
+
+#: includes/admin/theme-options.php:845
+msgid "Enter Newsletter Heading"
+msgstr ""
+
+#: includes/admin/theme-options.php:1853
+msgid "Enter the products of posts to display per page."
+msgstr ""
+
+#: includes/admin/theme-options.php:2015
+#, php-format
+msgid ""
+"Enter your API Key.<a target=\"_blank\" href=\"%s\">Get your API key</a>"
+msgstr ""
+
+#: includes/admin/import-demo.php:22
+msgid "Error has occured"
+msgstr ""
+
+#: includes/admin/theme-options.php:1449
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/widget.php:463
+msgid "Exclude replies"
+msgstr ""
+
+#: includes/admin/theme-options.php:745
+msgid "Export"
+msgstr ""
+
+#: includes/admin/theme-options.php:2003
+msgid "Facebook App ID"
+msgstr ""
+
+#: includes/admin/theme-options.php:1990
+msgid "Facebook Login Settings"
+msgstr "Cài đặt đăng nhập Facebook"
+
+#: includes/hook.php:76
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: includes/admin/theme-options.php:2068
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/controller.php:442
+msgid "Failure!"
+msgstr ""
+
+#: includes/admin/theme-options.php:792
+msgid "Favicon"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:186
+msgid "Featured"
+msgstr ""
+
+#: includes/woocommerce.php:273
+msgid "Filter"
+msgstr ""
+
+#: includes/widget.php:691 includes/widget.php:1053 includes/widget.php:1141
+msgid "Filter by"
+msgstr ""
+
+#: includes/admin/theme-options.php:771
+msgid "Fixed Menu Logo"
+msgstr ""
+
+#: includes/admin/theme-options.php:659
+msgid "Font size"
+msgstr ""
+
+#: includes/admin/theme-options.php:668
+msgid "Font style"
+msgstr ""
+
+#: includes/admin/theme-options.php:1196
+msgid "Footer"
+msgstr ""
+
+#: includes/admin/theme-options.php:1211
+msgid "Footer Area Columns"
+msgstr ""
+
+#: includes/admin/theme-options.php:1315
+msgid "Footer Color Scheme"
+msgstr ""
+
+#: includes/admin/theme-options.php:1332
+msgid "Footer Copyright Background"
+msgstr ""
+
+#: includes/admin/theme-options.php:1333
+msgid "Footer Copyright Color"
+msgstr ""
+
+#: includes/admin/theme-options.php:1334
+msgid "Footer Copyright Link"
+msgstr ""
+
+#: includes/admin/theme-options.php:1335
+msgid "Footer Copyright Link Hover"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:376 includes/admin/theme-options.php:1236
+msgid "Footer Featured"
+msgstr ""
+
+#: includes/admin/theme-options.php:1256
+msgid "Footer Featured Column 1"
+msgstr ""
+
+#: includes/admin/theme-options.php:1257
+msgid "Footer featured column 1 text."
+msgstr ""
+
+#: includes/admin/theme-options.php:1264
+msgid "Footer Featured Column 2"
+msgstr ""
+
+#: includes/admin/theme-options.php:1265
+msgid "Footer featured column 2 text."
+msgstr ""
+
+#: includes/admin/theme-options.php:1272
+msgid "Footer Featured Column 3"
+msgstr ""
+
+#: includes/admin/theme-options.php:1273
+msgid "Footer featured column 3 text."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:387 includes/admin/theme-options.php:1242
+msgid "Footer Featured Style"
+msgstr ""
+
+#: includes/admin/theme-options.php:1279
+msgid "Footer Info"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:365 includes/admin/theme-options.php:1227
+msgid "Footer Newsletter"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:398 includes/admin/theme-options.php:1204
+msgid "Footer Widget Area"
+msgstr ""
+
+#: includes/admin/theme-options.php:1328
+msgid "Footer Widget Area Background"
+msgstr ""
+
+#: includes/admin/theme-options.php:1329
+msgid "Footer Widget Area Color"
+msgstr ""
+
+#: includes/admin/theme-options.php:1330
+msgid "Footer Widget Area Link"
+msgstr ""
+
+#: includes/admin/theme-options.php:1331
+msgid "Footer Widget Area Link Hover"
+msgstr ""
+
+#: includes/hook.php:485
+msgid "Forgot Password"
+msgstr "Quên mật khẩu"
+
+#: includes/post-type-slider.php:257 includes/post-type-slider.php:319
+msgid "Full Screen"
+msgstr ""
+
+#: includes/admin/mega-menu.php:36
+msgid "Full Width Mega Menu"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:57
+msgid "Gallery"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:50
+msgid "Gallery Settings"
+msgstr ""
+
+#: includes/admin/theme-options.php:757
+msgid "General"
+msgstr ""
+
+#: includes/admin/theme-options.php:2103
+msgid "GitHub URL"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:267 includes/admin/meta-boxes.php:279
+#: includes/admin/meta-boxes.php:290 includes/admin/meta-boxes.php:370
+#: includes/admin/meta-boxes.php:381 includes/admin/meta-boxes.php:392
+#: includes/admin/meta-boxes.php:403
+msgid "Global"
+msgstr ""
+
+#: includes/woocommerce.php:535
+msgid "Go to the shop"
+msgstr "Tiếp tục mua sắm"
+
+#: includes/hook.php:74
+msgid "Google+ Profile URL"
+msgstr ""
+
+#: includes/admin/theme-options.php:2078
+msgid "Google+ URL"
+msgstr ""
+
+#: includes/woocommerce.php:268 includes/admin/theme-options.php:1778
+msgid "Grid"
+msgstr ""
+
+#: includes/admin/theme-options.php:1784
+msgid "Grid Product Style"
+msgstr ""
+
+#: includes/admin/theme-options.php:963
+msgid "Header"
+msgstr ""
+
+#: includes/admin/theme-options.php:1179
+msgid "Header Background"
+msgstr ""
+
+#: includes/admin/theme-options.php:1180
+msgid "Header Color"
+msgstr ""
+
+#: includes/admin/theme-options.php:1158 includes/admin/theme-options.php:1163
+msgid "Header Color Scheme"
+msgstr ""
+
+#: includes/admin/theme-options.php:1181
+msgid "Header Hover Color"
+msgstr ""
+
+#: includes/admin/theme-options.php:981
+msgid "Header Social Icon"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:262 includes/admin/theme-options.php:969
+msgid "Header Style"
+msgstr ""
+
+#: includes/post-type-slider.php:567
+msgid "Heading"
+msgstr ""
+
+#: includes/woocommerce.php:839 includes/woocommerce.php:947
+msgid "Heading Background"
+msgstr ""
+
+#: includes/admin/theme-options.php:1137
+msgid "Heading background"
+msgstr ""
+
+#: includes/admin/theme-options.php:1142
+msgid "Heading background height (PX)"
+msgstr ""
+
+#: includes/woocommerce.php:908 includes/woocommerce.php:1018
+msgid "Heading Button Text"
+msgstr ""
+
+#: includes/post-type-slider.php:573
+msgid "Heading Color"
+msgstr ""
+
+#: includes/admin/theme-options.php:926
+msgid "Heading H1"
+msgstr ""
+
+#: includes/admin/theme-options.php:932
+msgid "Heading H2"
+msgstr ""
+
+#: includes/admin/theme-options.php:938
+msgid "Heading H3"
+msgstr ""
+
+#: includes/admin/theme-options.php:944
+msgid "Heading H4"
+msgstr ""
+
+#: includes/admin/theme-options.php:950
+msgid "Heading H5"
+msgstr ""
+
+#: includes/admin/theme-options.php:956
+msgid "Heading H6"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:316
+msgid "Heading Menu Anchor "
+msgstr ""
+
+#: includes/woocommerce.php:912 includes/woocommerce.php:1022
+msgid "Heading Sub Link"
+msgstr ""
+
+#: includes/woocommerce.php:904 includes/woocommerce.php:1014
+msgid "Heading Sub Title"
+msgstr ""
+
+#: includes/woocommerce.php:900 includes/woocommerce.php:1010
+msgid "Heading Title"
+msgstr ""
+
+#: includes/admin/theme-options.php:2144
+msgid ""
+"Here you can download your current option settings.You can use it to restore "
+"your settings on this site (or any other site)."
+msgstr ""
+
+#: includes/controller.php:267
+#, php-format
+msgid ""
+"Hi %1$s,<br/><br/>\n"
+"You've just successfully registered an account on %2$s.<br/>\n"
+"Start reading now! %3$s\n"
+"<br/><br/>\n"
+"Best regards,<br/>\n"
+"%4$s"
+msgstr ""
+
+#: includes/admin/mega-menu.php:113
+msgid "Hidden PC"
+msgstr ""
+
+#: includes/admin/mega-menu.php:111
+msgid "Hidden Phone"
+msgstr ""
+
+#: includes/admin/mega-menu.php:112
+msgid "Hidden Tablet"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:281 includes/admin/meta-boxes.php:312
+#: includes/admin/meta-boxes.php:372 includes/admin/meta-boxes.php:383
+#: includes/admin/meta-boxes.php:405 includes/admin/theme-options.php:817
+#: includes/admin/theme-options.php:826 includes/admin/theme-options.php:1009
+#: includes/admin/theme-options.php:1150 includes/admin/theme-options.php:1203
+#: includes/admin/theme-options.php:1226 includes/admin/theme-options.php:1235
+#: includes/admin/theme-options.php:1424 includes/admin/theme-options.php:1441
+#: includes/admin/theme-options.php:1458 includes/admin/theme-options.php:1467
+#: includes/admin/theme-options.php:1483 includes/admin/theme-options.php:1493
+#: includes/admin/theme-options.php:1504 includes/admin/theme-options.php:1520
+#: includes/admin/theme-options.php:1547 includes/admin/theme-options.php:1556
+#: includes/admin/theme-options.php:1572 includes/admin/theme-options.php:1581
+#: includes/admin/theme-options.php:1591 includes/admin/theme-options.php:1600
+#: includes/admin/theme-options.php:1609 includes/admin/theme-options.php:1618
+#: includes/admin/theme-options.php:1671 includes/admin/theme-options.php:1701
+#: includes/admin/theme-options.php:1815 includes/admin/theme-options.php:1913
+msgid "Hide"
+msgstr ""
+
+#: includes/widget.php:548
+msgid "Hide comment in post meta info"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:31
+msgid "Hide Custom Tab"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:32
+msgid "Hide custom tab for this product."
+msgstr ""
+
+#: includes/widget.php:543
+msgid "Hide date in post meta info"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:213
+msgid "Hide Empty Brands"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-slider-brands.php:120
+msgid "Hide empty brands"
+msgstr ""
+
+#: includes/widget.php:1162
+msgid "Hide empty price ranges"
+msgstr ""
+
+#: includes/breadcrumb.php:14
+msgid "Home"
+msgstr ""
+
+#: includes/widget.php:442
+msgid "hours"
+msgstr ""
+
+#: includes/admin/admin.php:106
+msgid "Hover"
+msgstr ""
+
+#: includes/admin/theme-options.php:1378
+msgid "How your blog posts will display."
+msgstr ""
+
+#: includes/admin/admin.php:67
+msgid "http://"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://sitesao.com/"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:243
+msgid "If checked. content of page  with no padding top and padding bottom"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:187
+msgid ""
+"If checked. this post will show in highlighted block shortcode in Visual "
+"Composer"
+msgstr ""
+
+#: includes/controller.php:407
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/admin/theme-options.php:2034
+#, php-format
+msgid ""
+"If your Double Opt-in is false and this is true, MailChimp will send your "
+"lists Welcome Email if this subscribe succeeds - this will not fire if "
+"MailChimp ends up updating an existing subscriber. If Double Opt-in is true, "
+"this has no effect. Learn more about <a target=\"_blank\" href=\"%s\">"
+"Welcome Emails</a>."
+msgstr ""
+
+#: includes/post-type-slider.php:505
+#: dhwc-brand/includes/dhwc-brand-admin.php:200 lookbook/includes/admin.php:213
+msgid "Image"
+msgstr ""
+
+#: includes/post-type-slider.php:536
+msgid ""
+"Image should be at least 680px wide. Click the \"Upload\" button to begin "
+"uploading your image"
+msgstr ""
+
+#: includes/admin/theme-options.php:793
+msgid "Image that will be used as favicon (32px32px)."
+msgstr ""
+
+#: includes/admin/import-demo.php:54 includes/admin/theme-options.php:738
+msgid "Import"
+msgstr ""
+
+#: includes/admin/theme-options.php:2134
+msgid "Import and Export"
+msgstr ""
+
+#: includes/admin/import-demo.php:26
+msgid "Import completed successfully!"
+msgstr ""
+
+#: includes/admin/import-demo.php:11
+msgid "Import Demo"
+msgstr ""
+
+#: includes/admin/import-demo.php:31 includes/admin/import-demo.php:41
+msgid "Import Demo Data"
+msgstr ""
+
+#: includes/admin/import-demo.php:45
+msgid "Important Notes:"
+msgstr ""
+
+#: includes/admin/import-demo.php:18
+msgid "Importing Demo Content..."
+msgstr ""
+
+#: includes/admin/theme-options.php:1433
+msgid ""
+"In Archive Blog. Choose if the title should be a link to the single post "
+"page."
+msgstr ""
+
+#: includes/admin/theme-options.php:1451
+msgid "In Archive Blog. Enter the number words excerpt"
+msgstr ""
+
+#: includes/admin/theme-options.php:1496
+msgid "In Archive Blog. If enabled it will show tag."
+msgstr ""
+
+#: includes/admin/theme-options.php:1486
+msgid "In Archive Blog. Show/Hide the author meta"
+msgstr ""
+
+#: includes/admin/theme-options.php:1476
+msgid "In Archive Blog. Show/Hide the category meta"
+msgstr ""
+
+#: includes/admin/theme-options.php:1469
+msgid "In Archive Blog. Show/Hide the comment meta"
+msgstr ""
+
+#: includes/admin/theme-options.php:1460
+msgid "In Archive Blog. Show/Hide the date meta"
+msgstr ""
+
+#: includes/admin/theme-options.php:1443
+msgid "In Archive Blog. Show/Hide the post featured Image"
+msgstr ""
+
+#: includes/admin/theme-options.php:1507
+msgid "In Archive Blog. Show/Hide the post readmore"
+msgstr ""
+
+#: includes/admin/theme-options.php:1426
+msgid "In Archive Blog. Show/Hide the post title below the featured"
+msgstr ""
+
+#: includes/admin/theme-options.php:1583
+msgid "In Single Blog. If enabled it will show tag."
+msgstr ""
+
+#: includes/admin/theme-options.php:1574
+msgid "In Single Blog. Show/Hide the author meta"
+msgstr ""
+
+#: includes/admin/theme-options.php:1565
+msgid "In Single Blog. Show/Hide the category"
+msgstr ""
+
+#: includes/admin/theme-options.php:1558
+msgid "In Single Blog. Show/Hide the comment meta"
+msgstr ""
+
+#: includes/admin/theme-options.php:1549
+msgid "In Single Blog. Show/Hide the date meta"
+msgstr ""
+
+#: includes/woocommerce.php:491
+#, php-format
+msgid "in the <a href=\"%1$s\">shopping cart</a>"
+msgstr ""
+
+#: includes/admin/theme-options.php:1406 includes/admin/theme-options.php:1836
+msgid "Infinite Scrolling"
+msgstr ""
+
+#: includes/post-type-slider.php:638 includes/post-type-slider.php:677
+msgid "Info"
+msgstr ""
+
+#: includes/admin/theme-options.php:2139
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: includes/admin/theme-options.php:1970
+msgid "Instagram Titlte"
+msgstr ""
+
+#: includes/admin/theme-options.php:2098
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/admin/theme-options.php:1977
+msgid "Instagram User"
+msgstr ""
+
+#: includes/controller.php:480
+msgid "Invalid Email"
+msgstr ""
+
+#: includes/widget.php:528
+msgid "Latest"
+msgstr ""
+
+#: includes/admin/theme-options.php:1694
+msgid "Lazy load product catalog images when scrolling down the page."
+msgstr ""
+
+#: includes/admin/theme-options.php:2028
+#, php-format
+msgid "Learn more about <a target=\"_blank\" href=\"%s\">Double Opt-in</a>."
+msgstr ""
+
+#: includes/post-type-slider.php:550 includes/admin/admin.php:85
+msgid "Left"
+msgstr ""
+
+#: includes/admin/theme-options.php:1018
+msgid "Left topbar content"
+msgstr ""
+
+#: includes/admin/theme-options.php:1074
+msgid "Left Topbar Content Custom HTML"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:394 includes/admin/theme-options.php:1246
+msgid "Light"
+msgstr ""
+
+#: includes/post-type-slider.php:596
+msgid "Link"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:87
+msgid "Link Settings"
+msgstr ""
+
+#: includes/admin/theme-options.php:1432
+msgid "Link Title To Post"
+msgstr ""
+
+#: includes/post-type-slider.php:590
+msgid "Link Type"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:94
+msgid "Link URL"
+msgstr ""
+
+#: includes/hook.php:77
+msgid "LinkedIn Profile URL"
+msgstr ""
+
+#: includes/admin/theme-options.php:2088
+msgid "LinkedIn URL"
+msgstr ""
+
+#: includes/woocommerce.php:269
+#: dhwc-brand/includes/dhwc-widget-layered-nav.php:311
+#: includes/admin/theme-options.php:1779
+msgid "List"
+msgstr ""
+
+#: includes/admin/theme-options.php:1348
+msgid "List Blog Settings"
+msgstr ""
+
+#: includes/admin/theme-options.php:1709
+msgid "List Product Settings"
+msgstr ""
+
+#: includes/admin/theme-options.php:1797
+msgid "List Products per Rows"
+msgstr ""
+
+#: includes/admin/theme-options.php:1417 includes/admin/theme-options.php:1846
+msgid "Load More"
+msgstr ""
+
+#: includes/admin/theme-options.php:1405 includes/admin/theme-options.php:1835
+msgid "Load More Button"
+msgstr ""
+
+#: includes/admin/theme-options.php:1414 includes/admin/theme-options.php:1843
+msgid "Load More Button Text"
+msgstr ""
+
+#: includes/hook.php:395
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: includes/controller.php:124 includes/controller.php:142
+msgid "Login successful, redirecting..."
+msgstr "Đăng nhập thành công, chuyển hướng ..."
+
+#: includes/admin/theme-options.php:764
+msgid "Logo"
+msgstr ""
+
+#: includes/hook.php:419
+msgid "Lost your password?"
+msgstr "Quên mật khẩu?"
+
+#: includes/admin/theme-options.php:2014
+msgid "MailChimp API Key"
+msgstr ""
+
+#: includes/admin/theme-options.php:2045
+msgid "MailChimp Group"
+msgstr ""
+
+#: includes/admin/theme-options.php:2039
+msgid "MailChimp Group Name"
+msgstr ""
+
+#: includes/admin/theme-options.php:2021
+msgid "MailChimp List"
+msgstr ""
+
+#: includes/admin/theme-options.php:2051
+msgid "MailChimp Replace Interests"
+msgstr ""
+
+#: includes/admin/theme-options.php:2009
+msgid "MailChimp Settings"
+msgstr ""
+
+#: includes/widget.php:628
+msgid "Mailchimp Subscribe"
+msgstr ""
+
+#: includes/admin/theme-options.php:1353
+msgid "Main Blog Layout"
+msgstr ""
+
+#: includes/admin/theme-options.php:1080
+msgid "Main Navbar Settings"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:248
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:256
+msgid "Main Sidebar"
+msgstr ""
+
+#: includes/admin/theme-options.php:1381
+msgid "Masonry"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:193
+msgid "Masonry Item Sizing"
+msgstr ""
+
+#: includes/widget.php:1157
+msgid "Max price ranges"
+msgstr ""
+
+#: includes/admin/mega-menu.php:41
+msgid "Mega Menu Columns"
+msgstr ""
+
+#: includes/admin/mega-menu.php:101
+msgid ""
+"Menu Icon Class (Font Awesome Icon or Elegant Icon.ex: fa fa-home, "
+"elegant_icon_house_alt)"
+msgstr ""
+
+#: includes/breadcrumb.php:180
+msgid "Merge"
+msgstr ""
+
+#: includes/admin/theme-options.php:1684
+msgid "Mini"
+msgstr ""
+
+#: includes/admin/theme-options.php:1679
+msgid "Minicart Style"
+msgstr ""
+
+#: includes/admin/theme-options.php:1680
+msgid "Minicart Style."
+msgstr ""
+
+#: includes/admin/theme-options.php:1702
+msgid "Mobile Cart Icon"
+msgstr ""
+
+#: includes/admin/theme-options.php:785
+msgid "Mobile Version Logo"
+msgstr ""
+
+#: includes/breadcrumb.php:117
+#, php-format
+msgid "Monthly Archive for: \"%s\""
+msgstr ""
+
+#: includes/widget.php:529
+msgid "Most Commented"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:161
+msgid "MP3 File URL"
+msgstr ""
+
+#: includes/post-type-slider.php:517 includes/admin/meta-boxes.php:128
+msgid "MP4 File URL"
+msgstr ""
+
+#: includes/woocommerce.php:481
+msgid "My Cart"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:196
+#: dhwc-brand/includes/dhwc-widget-slider-brands.php:115
+msgid "Name"
+msgstr ""
+
+#: includes/admin/theme-options.php:1182
+msgid "Navbar Background"
+msgstr ""
+
+#: includes/admin/theme-options.php:1183
+msgid "Navbar Color"
+msgstr ""
+
+#: includes/admin/theme-options.php:1184
+msgid "Navbar Color Hover"
+msgstr ""
+
+#: includes/admin/theme-options.php:1185
+msgid "Navbar Dropdown Background"
+msgstr ""
+
+#: includes/admin/theme-options.php:1187
+msgid "Navbar Dropdown Color"
+msgstr ""
+
+#: includes/admin/theme-options.php:1188
+msgid "Navbar Dropdown Color Hover"
+msgstr ""
+
+#: includes/admin/theme-options.php:1186
+msgid "Navbar Dropdown Hover Background"
+msgstr ""
+
+#: includes/admin/theme-options.php:1189
+msgid "Navbar Dropdown Mega Menu Title"
+msgstr ""
+
+#: includes/admin/theme-options.php:920
+msgid "Navigation"
+msgstr ""
+
+#: includes/post-type-slider.php:743
+msgid "New DHSlide"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:62
+msgid "New Product Brand Name"
+msgstr ""
+
+#: lookbook/lookbook.php:56
+msgid "New Product Lookbook Name"
+msgstr ""
+
+#: includes/post-type-slider.php:772
+msgid "New Slider"
+msgstr ""
+
+#: includes/hook.php:362 includes/admin/theme-options.php:827
+msgid "Newsletter"
+msgstr ""
+
+#: includes/admin/theme-options.php:859
+msgid "Newsletter Background"
+msgstr ""
+
+#: includes/admin/theme-options.php:851
+msgid "Newsletter Description"
+msgstr ""
+
+#: includes/admin/theme-options.php:843
+msgid "Newsletter Heading"
+msgstr ""
+
+#: includes/admin/theme-options.php:835
+msgid "Newsletter refresh interval"
+msgstr ""
+
+#: includes/post-type-slider.php:273 includes/post-type-slider.php:341
+#: includes/admin/theme-options.php:1407 includes/admin/theme-options.php:1692
+msgid "No"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-brand-functions.php:147
+msgid "No brands"
+msgstr ""
+
+#: includes/post-type-slider.php:747
+msgid "No DHSlides found"
+msgstr ""
+
+#: includes/post-type-slider.php:748
+msgid "No DHSlides found in trash"
+msgstr ""
+
+#: includes/post-type-slider.php:470 includes/post-type-slider.php:480
+msgid "No image added"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:161
+msgid "No product brands exist."
+msgstr ""
+
+#: includes/controller.php:559
+msgid "No results matched!"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:225
+msgid "No sliders found"
+msgstr ""
+
+#: includes/widget.php:224 includes/admin/theme-options.php:1020
+msgid "None"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:198
+msgid "Normal"
+msgstr ""
+
+#: includes/hook.php:427
+msgid "Not a Member yet?"
+msgstr ""
+
+#: includes/controller.php:177
+msgid "Not allow register in site."
+msgstr ""
+
+#: includes/controller.php:215
+msgid "Not see password confirmation field."
+msgstr "Không thấy trường xác nhận mật khẩu."
+
+#: includes/admin/functions.php:3
+msgid "Nothing Found..."
+msgstr ""
+
+#: includes/admin/import-demo.php:27
+msgid "Now you can see the result at"
+msgstr ""
+
+#: includes/widget.php:521
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/admin/theme-options.php:1852
+msgid "Number of Products per Page"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:293 includes/admin/theme-options.php:429
+msgid "Off"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:270 includes/admin/theme-options.php:974
+msgid "Off Canvas"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:167
+msgid "OGA File URL"
+msgstr ""
+
+#: includes/post-type-slider.php:523 includes/admin/meta-boxes.php:134
+msgid "OGV/OGG File URL"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:291 includes/admin/theme-options.php:422
+msgid "On"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:292
+msgid "On and White Transparent"
+msgstr ""
+
+#: includes/admin/theme-options.php:161
+msgid "Online Document"
+msgstr ""
+
+#: includes/admin/theme-options.php:1817
+msgid "Only Product Taxonomy archive Page"
+msgstr ""
+
+#: includes/admin/theme-options.php:1816
+msgid "Only Shop"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:210
+msgid "Only show children for the current brand"
+msgstr ""
+
+#: includes/admin/theme-options.php:2046
+msgid "Optional: Comma delimited list of interest groups to add the email to."
+msgstr ""
+
+#: includes/admin/theme-options.php:2040
+#, php-format
+msgid ""
+"Optional: Enter the name of the group. Learn more about <a target=\"_blank\" "
+"href=\"%s\">Groups</a>"
+msgstr ""
+
+#: includes/widget.php:706
+msgid "OR"
+msgstr ""
+
+#: includes/hook.php:298 includes/hook.php:449
+msgid "or"
+msgstr ""
+
+#: includes/admin/import-demo.php:27
+msgid "or start customize via"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:195
+#: dhwc-brand/includes/dhwc-widget-slider-brands.php:114
+msgid "Order"
+msgstr ""
+
+#: includes/widget.php:526
+msgid "Order by"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:193
+#: dhwc-brand/includes/dhwc-widget-slider-brands.php:112
+msgid "Order by:"
+msgstr ""
+
+#: includes/post-type-slider.php:626 includes/post-type-slider.php:665
+#: includes/widget.php:227
+msgid "Outlined"
+msgstr ""
+
+#: includes/widget.php:402
+msgid "over a year ago"
+msgstr ""
+
+#: includes/admin/theme-options.php:1521
+msgid "Page Comment"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:303
+msgid "Page Heading"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:329
+msgid "Page Heading Background Image"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:347
+msgid "Page Heading Sub-title"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:341
+msgid "Page Heading Title"
+msgstr ""
+
+#: includes/breadcrumb.php:132
+msgid "Page Not Found"
+msgstr ""
+
+#: includes/admin/theme-options.php:1404 includes/admin/theme-options.php:1834
+msgid "Page Number"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:235
+msgid "Page Settings"
+msgstr ""
+
+#: includes/admin/theme-options.php:1401 includes/admin/theme-options.php:1831
+msgid "Pagination"
+msgstr ""
+
+#: includes/post-type-slider.php:749
+msgid "Parent DHSlide"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:57
+msgid "Parent Product Brand"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:58
+msgid "Parent Product Brand:"
+msgstr ""
+
+#: lookbook/lookbook.php:51
+msgid "Parent Product Lookbook"
+msgstr ""
+
+#: lookbook/lookbook.php:52
+msgid "Parent Product Lookbook:"
+msgstr ""
+
+#: includes/hook.php:411 includes/hook.php:412 includes/hook.php:460
+#: includes/hook.php:461
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: includes/controller.php:213
+msgid "Password must be 6 character long."
+msgstr "Mật khẩu phải dài 6 ký tự."
+
+#: includes/controller.php:363
+msgid "Password reset is not allowed for this user"
+msgstr "Không cho phép đặt lại mật khẩu cho người dùng này"
+
+#: includes/controller.php:217
+msgid "Passwords do not match."
+msgstr "Mật khẩu không đúng"
+
+#: includes/admin/theme-options.php:1053
+msgid "Phone number"
+msgstr ""
+
+#: includes/hook.php:78
+msgid "Pinterest Profile URL"
+msgstr ""
+
+#: includes/admin/theme-options.php:2083
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/admin/theme-options.php:2156
+msgid "Place you custom style here"
+msgstr ""
+
+#: includes/admin/import-demo.php:19
+msgid ""
+"Please be patient and do not navigate away from this page while the import "
+"is in&nbsp;progress. This can take a while if your server is slow "
+"(inexpensive hosting).<br>You will be notified via this page when the import "
+"is completed."
+msgstr ""
+
+#: includes/controller.php:82
+msgid ""
+"Please click again to login with Facebook and allow the application to use "
+"your email address"
+msgstr ""
+"Vui lòng nhấp lại để đăng nhập bằng Facebook và cho phép ứng dụng sử dụng "
+"địa chỉ email của bạn"
+
+#: includes/controller.php:47
+msgid "Please connect your facebook account."
+msgstr ""
+
+#: includes/controller.php:190
+msgid "Please enter a username."
+msgstr ""
+
+#: includes/controller.php:478
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:38
+msgid "Please enter customt tab content."
+msgstr ""
+
+#: includes/post-type-slider.php:579
+msgid "Please enter in the caption for your slide"
+msgstr ""
+
+#: includes/post-type-slider.php:568
+msgid "Please enter in the heading for your slide"
+msgstr ""
+
+#: includes/post-type-slider.php:557
+msgid "Please enter in the top small heading for your slide"
+msgstr ""
+
+#: includes/post-type-slider.php:518 includes/admin/meta-boxes.php:129
+msgid "Please enter in the URL to the .m4v video file."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:162
+msgid "Please enter in the URL to the .mp3 file"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:168
+msgid "Please enter in the URL to the .ogg or .oga file"
+msgstr ""
+
+#: includes/post-type-slider.php:524 includes/admin/meta-boxes.php:135
+msgid "Please enter in the URL to the .ogv or .ogg video file."
+msgstr ""
+
+#: includes/post-type-slider.php:530 includes/admin/meta-boxes.php:141
+msgid "Please enter in the URL to the .webm video file."
+msgstr ""
+
+#: includes/post-type-slider.php:614
+msgid "Please enter link for button #1 (remember to include \"http://\")"
+msgstr ""
+
+#: includes/post-type-slider.php:653
+msgid "Please enter link for button #2 (remember to include \"http://\")"
+msgstr ""
+
+#: includes/post-type-slider.php:608
+msgid "Please enter text for button #1"
+msgstr ""
+
+#: includes/post-type-slider.php:647
+msgid "Please enter text for button #2"
+msgstr ""
+
+#: includes/post-type-slider.php:602
+msgid "Please enter URL"
+msgstr ""
+
+#: includes/widget.php:283
+msgid "Please fill all widget settings!"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:95
+msgid "Please input the URL for your link. I.e. http://www.example.com"
+msgstr ""
+
+#: includes/post-type-slider.php:621 includes/post-type-slider.php:632
+msgid "Please select style for button #1"
+msgstr ""
+
+#: includes/post-type-slider.php:660 includes/post-type-slider.php:671
+msgid "Please select style for button #2"
+msgstr ""
+
+#: includes/post-type-slider.php:501
+msgid "Please select the background type for your slide."
+msgstr ""
+
+#: includes/post-type-slider.php:591
+msgid "Please select the link type for your slide."
+msgstr ""
+
+#: includes/admin/theme-options.php:1212
+msgid "Please select the number of columns you would like for your footer."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:263 includes/admin/theme-options.php:970
+msgid "Please select your header style here."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:76
+msgid "Please type the text for your quote here."
+msgstr ""
+
+#: includes/controller.php:200
+msgid "Please type your email address."
+msgstr ""
+
+#: includes/admin/admin.php:75
+msgid "Popover"
+msgstr ""
+
+#: includes/admin/theme-options.php:1891
+msgid "Popup"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:179
+msgid "Post Settings"
+msgstr ""
+
+#: includes/widget.php:499
+msgid "Post Thumbnail"
+msgstr ""
+
+#: includes/post-type-slider.php:535
+msgid "Preview Image"
+msgstr ""
+
+#: includes/widget.php:1149
+msgid "Price range size"
+msgstr ""
+
+#: includes/post-type-slider.php:636 includes/post-type-slider.php:675
+msgid "Primary"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:53
+msgid "Product Brand"
+msgstr ""
+
+#. id
+#: dhwc-brand/includes/dhwc-brand-admin.php:297
+msgid "Product brand base"
+msgstr ""
+
+#: includes/admin/theme-options.php:1750
+msgid "Product Brand Layout"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:50 dhwc-brand/dhwc-brand.php:52
+msgid "Product Brands"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:23
+msgid "Product brands"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-brand-admin.php:17
+msgid ""
+"Product brands for your store can be managed here. To change the order of "
+"brands on the front-end you can drag and drop to sort them. To see more "
+"brands listed click the \"screen options\" link at the top of the page."
+msgstr ""
+
+#: includes/admin/theme-options.php:1726
+msgid "Product Category Layout"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:28
+msgid "Product Custom Tab"
+msgstr ""
+
+#: includes/admin/theme-options.php:1693
+msgid "Product Image Lazy Loading"
+msgstr ""
+
+#: lookbook/lookbook.php:47
+msgid "Product Lookbook"
+msgstr ""
+
+#. id
+#: lookbook/includes/admin.php:267
+msgid "Product lookbook base"
+msgstr ""
+
+#: includes/admin/theme-options.php:1762
+msgid "Product lookbook Layout"
+msgstr ""
+
+#: lookbook/lookbook.php:44 lookbook/lookbook.php:46
+msgid "Product Lookbooks"
+msgstr ""
+
+#: lookbook/includes/admin.php:17
+msgid ""
+"Product lookbooks for your store can be managed here. To change the order of "
+"lookbooks on the front-end you can drag and drop to sort them. To see more "
+"lookbooks listed click the \"screen options\" link at the top of the page."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:20
+msgid "Product Settings"
+msgstr ""
+
+#: includes/admin/theme-options.php:1738
+msgid "Product Tag Layout"
+msgstr ""
+
+#: includes/widget.php:703
+msgid "Query type"
+msgstr ""
+
+#: includes/woocommerce.php:585
+msgid "Quick view"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:75
+msgid "Quote Content"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:68
+msgid "Quote Settings"
+msgstr ""
+
+#: includes/hook.php:472
+msgid "Register"
+msgstr ""
+
+#: includes/hook.php:442
+msgid "Register account"
+msgstr ""
+
+#: includes/controller.php:170
+msgid "Registration complete."
+msgstr ""
+
+#: includes/controller.php:60
+msgid "Registration is not open at this time. Please come back later."
+msgstr ""
+
+#: includes/controller.php:63
+msgid ""
+"Registration using Facebook is not currently allowed. Please use our "
+"Register page"
+msgstr ""
+
+#: includes/hook.php:416
+msgid "Remember Me"
+msgstr "Lưu khi đăng nhập"
+
+#: includes/widget.php:950
+msgid "Remove Filter"
+msgstr ""
+
+#: includes/woocommerce.php:846 includes/woocommerce.php:956
+#: dhwc-brand/includes/dhwc-brand-admin.php:36
+#: dhwc-brand/includes/dhwc-brand-admin.php:111 lookbook/includes/admin.php:40
+#: lookbook/includes/admin.php:121
+msgid "Remove image"
+msgstr ""
+
+#: includes/woocommerce.php:514
+msgid "Remove this item"
+msgstr ""
+
+#: includes/admin/theme-options.php:226
+msgid "Reset Options"
+msgstr ""
+
+#: includes/hook.php:499
+msgid "Reset Password"
+msgstr "Lấy lại mật khẩu"
+
+#: includes/hook.php:464 includes/hook.php:465
+msgid "Retype password"
+msgstr "Nhập lại mật khẩu"
+
+#: includes/woocommerce.php:328
+#, php-format
+msgid "Reviews <span>%d</span>"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:322
+msgid "Revolution Slider"
+msgstr ""
+
+#: includes/post-type-slider.php:552 includes/admin/admin.php:86
+msgid "Right"
+msgstr ""
+
+#: includes/widget.php:226
+msgid "Round"
+msgstr ""
+
+#: includes/admin/theme-options.php:2093
+msgid "RSS URL"
+msgstr ""
+
+#: includes/admin/theme-options.php:166 includes/admin/theme-options.php:225
+msgid "Save All Change"
+msgstr ""
+
+#: includes/admin/theme-options.php:1880
+msgid "Scroll"
+msgstr ""
+
+#: includes/breadcrumb.php:128
+msgid "Search"
+msgstr ""
+
+#: includes/post-type-slider.php:746
+msgid "Search DHSlides"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:55
+msgid "Search Product Brands"
+msgstr ""
+
+#: lookbook/lookbook.php:49
+msgid "Search Product Lookbooks"
+msgstr ""
+
+#: includes/post-type-slider.php:767
+msgid "Search Sliders"
+msgstr ""
+
+#: includes/admin/functions.php:355 includes/admin/functions.php:425
+#: includes/admin/theme-options.php:333 includes/admin/theme-options.php:592
+msgid "Select"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-brand-functions.php:107
+msgid "Select a brand"
+msgstr ""
+
+#: includes/widget.php:537
+msgid "Select a category or leave blank for all"
+msgstr ""
+
+#: includes/admin/theme-options.php:650
+msgid "Select a font family"
+msgstr ""
+
+#: includes/admin/functions.php:15
+msgid "Select a list"
+msgstr ""
+
+#: includes/admin/functions.php:132
+msgid "Select a sidebar..."
+msgstr ""
+
+#: includes/admin/theme-options.php:1366
+msgid "Select Archive layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: includes/admin/theme-options.php:872
+msgid "Select between wide or boxed site layout"
+msgstr ""
+
+#: includes/admin/theme-options.php:1390
+msgid "Select blogs columns."
+msgstr ""
+
+#: includes/admin/theme-options.php:1775
+msgid "Select default view mode"
+msgstr ""
+
+#: includes/admin/functions.php:396 includes/admin/functions.php:461
+#: includes/admin/theme-options.php:309 includes/admin/theme-options.php:358
+#: includes/admin/theme-options.php:567 includes/admin/theme-options.php:617
+msgid "Select Image"
+msgstr ""
+
+#: includes/admin/theme-options.php:1354
+msgid "Select main blog layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: includes/admin/functions.php:326 includes/admin/functions.php:377
+msgid "Select Media"
+msgstr ""
+
+#: includes/admin/functions.php:423 includes/admin/theme-options.php:331
+#: includes/admin/theme-options.php:590
+msgid "Select or Upload your Image"
+msgstr ""
+
+#: includes/admin/functions.php:353
+msgid "Select or Upload your Media"
+msgstr ""
+
+#: includes/admin/theme-options.php:1751
+msgid "Select product brand layout."
+msgstr ""
+
+#: includes/admin/theme-options.php:1727
+msgid "Select product category layout."
+msgstr ""
+
+#: includes/admin/theme-options.php:1763
+msgid "Select product lookbook layout."
+msgstr ""
+
+#: includes/admin/theme-options.php:1739
+msgid "Select product tag layout."
+msgstr ""
+
+#: includes/admin/theme-options.php:1715
+msgid "Select shop layout."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:257
+msgid "Select sidebar for page with 2 or 3 colums."
+msgstr ""
+
+#: includes/admin/theme-options.php:1534
+msgid ""
+"Select single content and sidebar alignment. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+
+#: includes/admin/theme-options.php:1864
+msgid "Select single product layout."
+msgstr ""
+
+#: includes/admin/theme-options.php:1888
+msgid "Select Single Product Popup Type."
+msgstr ""
+
+#: includes/admin/theme-options.php:1876
+msgid "Select Single Product style."
+msgstr ""
+
+#: includes/widget.php:202
+msgid "Select socials"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:249
+msgid "Select which main menu displays on this page."
+msgstr ""
+
+#: includes/admin/mega-menu.php:84
+msgid "Select Widget Area"
+msgstr ""
+
+#: includes/admin/mega-menu.php:65
+msgid "Select Widget Area..."
+msgstr ""
+
+#: includes/admin/theme-options.php:884
+msgid "Select your boxed background"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:323
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: includes/admin/theme-options.php:2033
+msgid "Send Welcome Email"
+msgstr ""
+
+#: includes/admin/theme-options.php:1627 includes/admin/theme-options.php:1915
+msgid "Share on Facebook"
+msgstr ""
+
+#: includes/admin/theme-options.php:1641 includes/admin/theme-options.php:1929
+msgid "Share on Google+"
+msgstr ""
+
+#: includes/admin/theme-options.php:1655 includes/admin/theme-options.php:1943
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: includes/admin/theme-options.php:1648 includes/admin/theme-options.php:1936
+msgid "Share on Pinterest"
+msgstr ""
+
+#: includes/admin/theme-options.php:1634 includes/admin/theme-options.php:1922
+msgid "Share on Twitter"
+msgstr ""
+
+#: includes/admin/theme-options.php:1818
+msgid "Shop and Category Page"
+msgstr ""
+
+#: includes/admin/theme-options.php:1714
+msgid "Shop Layout"
+msgstr ""
+
+#: includes/woocommerce.php:463
+msgid "Shopping Cart"
+msgstr ""
+
+#: includes/woocommerce.php:834 includes/woocommerce.php:938
+msgid "Short Description"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:280 includes/admin/meta-boxes.php:371
+#: includes/admin/meta-boxes.php:382 includes/admin/meta-boxes.php:404
+#: includes/admin/theme-options.php:816 includes/admin/theme-options.php:825
+#: includes/admin/theme-options.php:1008 includes/admin/theme-options.php:1149
+#: includes/admin/theme-options.php:1202 includes/admin/theme-options.php:1225
+#: includes/admin/theme-options.php:1234 includes/admin/theme-options.php:1423
+#: includes/admin/theme-options.php:1440 includes/admin/theme-options.php:1457
+#: includes/admin/theme-options.php:1466 includes/admin/theme-options.php:1482
+#: includes/admin/theme-options.php:1492 includes/admin/theme-options.php:1503
+#: includes/admin/theme-options.php:1519 includes/admin/theme-options.php:1546
+#: includes/admin/theme-options.php:1555 includes/admin/theme-options.php:1571
+#: includes/admin/theme-options.php:1580 includes/admin/theme-options.php:1590
+#: includes/admin/theme-options.php:1599 includes/admin/theme-options.php:1608
+#: includes/admin/theme-options.php:1617 includes/admin/theme-options.php:1670
+#: includes/admin/theme-options.php:1700 includes/admin/theme-options.php:1912
+msgid "Show"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:201
+msgid "Show as dropdown"
+msgstr ""
+
+#: includes/admin/theme-options.php:1592
+msgid "Show Author Bio"
+msgstr ""
+
+#: includes/admin/theme-options.php:1151
+msgid "Show breadcrumb"
+msgstr ""
+
+#: includes/admin/theme-options.php:1949
+msgid "Show Custom Tab in single product"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-brand-admin.php:259
+msgid "Show description"
+msgstr ""
+
+#: includes/admin/theme-options.php:1442
+msgid "Show Featured Image"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:207
+msgid "Show hierarchy"
+msgstr ""
+
+#: includes/admin/theme-options.php:1962
+msgid "Show Instagram in single product"
+msgstr ""
+
+#: includes/admin/theme-options.php:1601
+msgid "Show Next/Prev Post Link On Single Post Page"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:204
+msgid "Show post counts"
+msgstr ""
+
+#: includes/admin/theme-options.php:1610
+msgid "Show Related Post On Single Post Page"
+msgstr ""
+
+#: includes/admin/theme-options.php:1619 includes/admin/theme-options.php:1905
+msgid "Show Sharing Button"
+msgstr ""
+
+#: includes/admin/theme-options.php:1898
+msgid "Show Single Product Meta"
+msgstr ""
+
+#: includes/admin/theme-options.php:1826
+msgid "Show/hide border in product."
+msgstr ""
+
+#: includes/admin/theme-options.php:1475 includes/admin/theme-options.php:1564
+msgid "Show/Hide Category"
+msgstr ""
+
+#: includes/admin/theme-options.php:1522
+msgid "Show/hide comment form in single page ?"
+msgstr ""
+
+#: includes/admin/theme-options.php:1506
+msgid "Show/Hide Readmore"
+msgstr ""
+
+#: includes/admin/theme-options.php:1813
+msgid "Show/hide shop ajax filter in shop or Product Taxonomy archive page."
+msgstr ""
+
+#: includes/admin/theme-options.php:1582
+msgid "Show/Hide Tag"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-brand-admin.php:260
+msgid "Show/hide the product brand description on the archive page."
+msgstr ""
+
+#: includes/admin/theme-options.php:1425
+msgid "Show/Hide Title"
+msgstr ""
+
+#: includes/widget.php:658
+msgid ""
+"Shows a custom attribute in a widget when viewing product categories width "
+"Swatches and Photo ."
+msgstr ""
+
+#: includes/widget.php:1118
+msgid ""
+"Shows a price filter list in a widget which lets you narrow down the list of "
+"shown products when viewing product categories."
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-layered-nav.php:11
+msgid ""
+"Shows product brands in a widget which lets you narrow down the list of "
+"products when viewing product categories"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-slider-brands.php:10
+msgid "Shows product brans with slider"
+msgstr ""
+
+#: includes/admin/theme-options.php:1683
+msgid "Side"
+msgstr ""
+
+#: includes/hook.php:429
+msgid "Sign in"
+msgstr ""
+
+#: includes/hook.php:343
+msgid "Sign in with Facebook"
+msgstr ""
+
+#: includes/admin/theme-options.php:1533
+msgid "Single Blog Layout"
+msgstr ""
+
+#: includes/admin/theme-options.php:1528
+msgid "Single Blog Settings"
+msgstr ""
+
+#: includes/admin/theme-options.php:1513
+msgid "Single Page Settings"
+msgstr ""
+
+#: includes/admin/theme-options.php:1863
+msgid "Single Product Layout"
+msgstr ""
+
+#: includes/admin/theme-options.php:1887
+msgid "Single Product Popup Type"
+msgstr ""
+
+#: includes/admin/theme-options.php:1858
+msgid "Single Product Settings"
+msgstr ""
+
+#: includes/admin/theme-options.php:1875
+msgid "Single Product style"
+msgstr ""
+
+#: includes/admin/theme-options.php:1022
+msgid "Site Info"
+msgstr ""
+
+#: includes/admin/theme-options.php:871
+msgid "Site Layout"
+msgstr ""
+
+#. Name of the plugin
+msgid "Sitesao Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "Sitesao Core Plugin for WOOW Themes"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sitesao Team"
+msgstr ""
+
+#: includes/admin/theme-options.php:1067
+msgid "Skype"
+msgstr ""
+
+#: includes/post-type-slider.php:511
+msgid "Slide Background Image"
+msgstr ""
+
+#: includes/post-type-slider.php:493
+msgid "Slide Settings"
+msgstr ""
+
+#: includes/post-type-slider.php:436 includes/post-type-slider.php:766
+msgid "Slider"
+msgstr ""
+
+#: includes/post-type-slider.php:266 includes/post-type-slider.php:331
+msgid "Slider Height"
+msgstr ""
+
+#: includes/post-type-slider.php:254 includes/post-type-slider.php:315
+msgid "Slider Layout"
+msgstr ""
+
+#: includes/post-type-slider.php:261 includes/post-type-slider.php:324
+msgid "Slider Width"
+msgstr ""
+
+#: includes/post-type-slider.php:765 includes/post-type-slider.php:773
+msgid "Sliders"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:43 dhwc-brand/includes/dhwc-brand-admin.php:335
+msgctxt "slug"
+msgid "product-brand"
+msgstr ""
+
+#: lookbook/lookbook.php:37
+msgctxt "slug"
+msgid "product-lookbok"
+msgstr ""
+
+#: lookbook/includes/admin.php:305
+msgctxt "slug"
+msgid "product-lookbook"
+msgstr ""
+
+#: includes/post-type-slider.php:562
+msgid "Small Heading Color"
+msgstr ""
+
+#: lookbook/includes/admin.php:29 lookbook/includes/admin.php:111
+msgid "Small title"
+msgstr ""
+
+#: includes/widget.php:189 includes/widget.php:201
+#: includes/admin/theme-options.php:1021
+msgid "Social"
+msgstr ""
+
+#: includes/admin/theme-options.php:1984
+msgid "Social API"
+msgstr ""
+
+#: includes/admin/theme-options.php:2062
+msgid "Social Profile"
+msgstr ""
+
+#: includes/post-type-slider.php:625 includes/post-type-slider.php:664
+msgid "Solid Background"
+msgstr ""
+
+#: includes/controller.php:404
+msgid "Someone requested that the password be reset for the following account:"
+msgstr "Ai đó đã yêu cầu đặt lại mật khẩu cho tài khoản sau:"
+
+#: includes/widget.php:1078
+msgid "Sort by average rating"
+msgstr ""
+
+#: includes/widget.php:1079
+msgid "Sort by newness"
+msgstr ""
+
+#: includes/widget.php:1077
+msgid "Sort by popularity"
+msgstr ""
+
+#: includes/widget.php:1081
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: includes/widget.php:1080
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: includes/admin/theme-options.php:2123
+msgid "SoundCloud URL"
+msgstr ""
+
+#: includes/breadcrumb.php:177
+msgid "Split"
+msgstr ""
+
+#: includes/widget.php:225
+msgid "Square"
+msgstr ""
+
+#: includes/admin/theme-options.php:2113
+msgid "Stack Exchange URL"
+msgstr ""
+
+#: includes/admin/theme-options.php:1100
+msgid "Sticky menu background"
+msgstr ""
+
+#: includes/admin/theme-options.php:1107
+msgid "Sticky menu color"
+msgstr ""
+
+#: includes/admin/theme-options.php:1114
+msgid "Sticky menu hover color"
+msgstr ""
+
+#: includes/admin/theme-options.php:1085
+msgid "Sticky Top menu"
+msgstr ""
+
+#: includes/widget.php:222 includes/admin/theme-options.php:1377
+msgid "Style"
+msgstr ""
+
+#: includes/admin/theme-options.php:1787
+msgid "Style 1"
+msgstr ""
+
+#: includes/admin/theme-options.php:1788
+msgid "Style 2"
+msgstr ""
+
+#: includes/admin/theme-options.php:1789
+msgid "Style 3"
+msgstr ""
+
+#: includes/hook.php:375
+msgid "Subscribe"
+msgstr ""
+
+#: includes/admin/theme-options.php:687
+msgid "Subset"
+msgstr ""
+
+#: includes/post-type-slider.php:637 includes/post-type-slider.php:676
+msgid "Success"
+msgstr ""
+
+#: includes/admin/theme-options.php:1495
+msgid "Tags"
+msgstr ""
+
+#: includes/admin/admin.php:60 includes/admin/admin.php:61
+msgid "Text"
+msgstr ""
+
+#: includes/admin/import-demo.php:49
+msgid ""
+"The Demo Import will not import the images we have used in our live demo, "
+"due to copyright/license reasons."
+msgstr ""
+
+#: includes/controller.php:443
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: includes/controller.php:202
+msgid "The email address isn't correct."
+msgstr ""
+
+#: includes/admin/import-demo.php:27 includes/admin/theme-options.php:2183
+#: includes/admin/theme-options.php:2183 includes/admin/theme-options.php:2195
+msgid "Theme Options"
+msgstr ""
+
+#: includes/hook.php:136 includes/hook.php:139
+msgid "Theme options"
+msgstr ""
+
+#: includes/controller.php:205
+msgid "This email is already registered, please choose another one."
+msgstr ""
+
+#: includes/admin/theme-options.php:62 includes/admin/theme-options.php:68
+msgid "This is required to enable file writing"
+msgstr ""
+
+#: includes/controller.php:195
+msgid "This username is already registered. Please choose another one."
+msgstr ""
+
+#: includes/controller.php:192
+msgid ""
+"This username is invalid because it uses illegal characters. Please enter a "
+"valid username."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:194
+msgid ""
+"This will only be used if you choose to display your blog in the "
+"masonry/grid format."
+msgstr ""
+
+#: includes/admin/theme-options.php:1673
+msgid "This will show cat in header."
+msgstr ""
+
+#: includes/admin/theme-options.php:1703
+msgid ""
+"This will show on mobile menu a shop icon with the number of cart items."
+msgstr ""
+
+#: includes/post-type-slider.php:434
+#: dhwc-brand/includes/dhwc-brand-admin.php:29
+#: dhwc-brand/includes/dhwc-brand-admin.php:105 lookbook/includes/admin.php:33
+#: lookbook/includes/admin.php:115
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/admin/admin.php:81
+msgid "Tip position"
+msgstr ""
+
+#: includes/widget.php:195 includes/widget.php:421 includes/widget.php:513
+#: includes/widget.php:634 includes/widget.php:692 includes/widget.php:1054
+#: includes/widget.php:1142 includes/admin/admin.php:92
+#: includes/admin/admin.php:93
+msgid "Title"
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-widget-brands.php:190
+#: dhwc-brand/includes/dhwc-widget-layered-nav.php:306
+#: dhwc-brand/includes/dhwc-widget-slider-brands.php:107
+msgid "Title:"
+msgstr ""
+
+#: includes/admin/import-demo.php:48
+#, php-format
+msgid "To reset your installation we recommend %s plugin."
+msgstr ""
+
+#: includes/controller.php:408
+msgid "To reset your password, visit the following address:"
+msgstr "Để đặt lại mật khẩu của bạn, hãy truy cập vào địa chỉ sau:"
+
+#: includes/admin/theme-options.php:820
+msgid "Toggle whether or not to enable a back to top button on your pages."
+msgstr ""
+
+#: includes/admin/theme-options.php:829
+msgid "Toggle whether or not to enable modal Newsletter in your site."
+msgstr ""
+
+#: includes/admin/admin.php:74
+msgid "Tooltip"
+msgstr ""
+
+#: includes/admin/admin.php:46
+msgid "Tooltip Shortcode"
+msgstr ""
+
+#: includes/admin/admin.php:83
+msgid "Top"
+msgstr ""
+
+#: includes/post-type-slider.php:556
+msgid "Top Small Heading"
+msgstr ""
+
+#: includes/admin/theme-options.php:1030
+msgid "Top Social Icon"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:274
+msgid "Topbar"
+msgstr ""
+
+#: includes/admin/theme-options.php:1176
+msgid "Topbar Background"
+msgstr ""
+
+#: includes/admin/theme-options.php:1177
+msgid "Topbar Color"
+msgstr ""
+
+#: includes/admin/theme-options.php:1178
+msgid "Topbar Link Color"
+msgstr ""
+
+#: includes/admin/theme-options.php:1003
+msgid "Topbar Settings"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:285
+msgid "Transparent Main Menu"
+msgstr ""
+
+#: includes/admin/theme-options.php:778
+msgid "Transparent Menu Logo"
+msgstr ""
+
+#: includes/admin/theme-options.php:2118
+msgid "Tumblr URL"
+msgstr ""
+
+#: includes/widget.php:449
+msgid "Tweets to display"
+msgstr ""
+
+#: includes/hook.php:75
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: includes/admin/theme-options.php:2073
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/widget.php:445
+msgid "Twitter Username"
+msgstr ""
+
+#: includes/admin/admin.php:72
+msgid "Type"
+msgstr ""
+
+#: includes/admin/functions.php:10
+msgid "Unable to load MailChimp lists, check your API Key."
+msgstr ""
+
+#: dhwc-brand/includes/dhwc-brand-functions.php:110
+msgid "Uncategorized"
+msgstr ""
+
+#: dhwc-brand/dhwc-brand.php:60
+msgid "Update Product Brand"
+msgstr ""
+
+#: lookbook/lookbook.php:54
+msgid "Update Product Lookbook"
+msgstr ""
+
+#: includes/post-type-slider.php:770
+msgid "Update Slider"
+msgstr ""
+
+#: includes/admin/theme-options.php:765
+msgid "Upload your own logo."
+msgstr ""
+
+#: includes/admin/theme-options.php:779
+msgid "Upload your own logo.This is optional use for menu transparent"
+msgstr ""
+
+#: includes/admin/theme-options.php:772
+msgid "Upload your own logo.This is optional use when fixed menu"
+msgstr ""
+
+#: includes/woocommerce.php:845 includes/woocommerce.php:955
+#: dhwc-brand/includes/dhwc-brand-admin.php:35
+#: dhwc-brand/includes/dhwc-brand-admin.php:110 lookbook/includes/admin.php:39
+#: lookbook/includes/admin.php:120
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/post-type-slider.php:601 includes/admin/admin.php:66
+msgid "URL"
+msgstr ""
+
+#: includes/admin/theme-options.php:1996
+msgid "Use Facebook login"
+msgstr "Sử dụng đăng nhập Facebook"
+
+#: includes/admin/theme-options.php:2004
+#, php-format
+msgid ""
+"Use Facebook login you need to enter your Facebook App ID. If you don't have "
+"one, you can create it from: <a target=\"_blank\" href=\"%s\">Here</a>"
+msgstr ""
+"Sử dụng đăng nhập Facebook bạn cần nhập ID ứng dụng Facebook của bạn. Nếu "
+"bạn không có, bạn có thể tạo nó từ: <a target=\"_blank\" href=\"%s\"> Tại "
+"đây </a>"
+
+#: includes/admin/meta-boxes.php:125
+msgid "Use hosted video"
+msgstr ""
+
+#: includes/woocommerce.php:871 includes/woocommerce.php:981
+#: dhwc-brand/includes/dhwc-brand-admin.php:61
+#: dhwc-brand/includes/dhwc-brand-admin.php:138 lookbook/includes/admin.php:65
+#: lookbook/includes/admin.php:148
+msgid "Use image"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:311
+msgid "Use Revolution Slider"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:114
+msgid "Use service video"
+msgstr ""
+
+#: includes/admin/theme-options.php:786
+msgid ""
+"Use this option to change your logo for mobile devices if your logo width is "
+"quite long to fit in mobile device screen."
+msgstr ""
+
+#: includes/admin/meta-boxes.php:118
+msgid ""
+"Used when you select Video format. Enter a Youtube, Vimeo, Soundcloud, etc "
+"URL. See supported services at <a href=\"http://codex.wordpress.org/Embeds\">"
+"http://codex.wordpress.org/Embeds</a>."
+msgstr ""
+
+#: includes/admin/theme-options.php:1825
+msgid "User border in product"
+msgstr ""
+
+#: includes/admin/theme-options.php:1812
+msgid "User Shop Ajax Filter"
+msgstr ""
+
+#: includes/hook.php:407 includes/hook.php:408 includes/hook.php:452
+#: includes/hook.php:453
+msgid "Username"
+msgstr "Tên đăng nhập"
+
+#: includes/hook.php:492
+msgid "Username or E-mail"
+msgstr ""
+
+#: includes/hook.php:491
+msgid "Username or E-mail:"
+msgstr ""
+
+#: includes/controller.php:406
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/admin/theme-options.php:1602
+msgid ""
+"Using this will add a link at the bottom of every post page that leads to "
+"the next/prev post."
+msgstr ""
+
+#: includes/controller.php:472 includes/controller.php:474
+msgid "Verify Nonce Failed"
+msgstr ""
+
+#: includes/post-type-slider.php:506
+msgid "Video"
+msgstr ""
+
+#: includes/admin/meta-boxes.php:106
+msgid "Video Settings"
+msgstr ""
+
+#: includes/controller.php:615
+msgid "View all results"
+msgstr ""
+
+#: includes/woocommerce.php:438 includes/woocommerce.php:523
+msgid "View Cart"
+msgstr ""
+
+#: includes/post-type-slider.php:744 includes/post-type-slider.php:745
+msgid "View DHSlide"
+msgstr ""
+
+#: includes/admin/mega-menu.php:107
+msgid "Visibility"
+msgstr ""
+
+#: includes/admin/mega-menu.php:116
+msgid "Visible PC"
+msgstr ""
+
+#: includes/admin/mega-menu.php:114
+msgid "Visible Phone"
+msgstr ""
+
+#: includes/admin/mega-menu.php:115
+msgid "Visible Tablet"
+msgstr ""
+
+#: includes/post-type-slider.php:639 includes/post-type-slider.php:678
+msgid "Warning"
+msgstr ""
+
+#: includes/admin/theme-options.php:739
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: includes/woocommerce.php:657
+msgid "Watch Video"
+msgstr ""
+
+#: includes/controller.php:86
+msgid ""
+"We didn't find your name. Please complete your facebook account before "
+"proceeding."
+msgstr ""
+
+#: includes/admin/import-demo.php:47
+msgid "We recommend to run Demo Import on a clean WordPress installation."
+msgstr ""
+
+#: includes/post-type-slider.php:529 includes/admin/meta-boxes.php:140
+msgid "WEBM File URL"
+msgstr ""
+
+#: includes/breadcrumb.php:113
+#, php-format
+msgid "Weekly Archive for: \"%s\""
+msgstr ""
+
+#: includes/controller.php:264
+#, php-format
+msgid "Welcome to [%1$s]"
+msgstr ""
+
+#: includes/admin/theme-options.php:2052
+msgid ""
+"Whether MailChimp will replace the interest groups with the groups provided "
+"or add the provided groups to the member interest groups."
+msgstr ""
+
+#: includes/post-type-slider.php:641 includes/post-type-slider.php:680
+msgid "White"
+msgstr ""
+
+#: includes/admin/theme-options.php:875
+msgid "Wide"
+msgstr ""
+
+#: includes/widget.php:626
+msgid "Widget Mailchimp Subscribe."
+msgstr ""
+
+#: includes/widget.php:497
+msgid "Widget post with thumbnail."
+msgstr ""
+
+#: includes/admin/theme-options.php:895
+msgid "With Border radius"
+msgstr ""
+
+#: includes/admin/theme-options.php:1664
+msgid "Woocommerce"
+msgstr ""
+
+#: includes/breadcrumb.php:119
+#, php-format
+msgid "Yearly Archive for: \"%s\""
+msgstr ""
+
+#: includes/post-type-slider.php:272 includes/post-type-slider.php:340
+#: includes/admin/theme-options.php:1691
+msgid "Yes"
+msgstr ""
+
+#: includes/widget.php:398
+msgid "yesterday"
+msgstr ""
+
+#: includes/controller.php:282 includes/controller.php:288
+#, php-format
+msgid ""
+"You are already logged in. Please <a href=\"#\" onclick=\"%s\">refresh</a> "
+"page"
+msgstr ""
+
+#: includes/admin/functions.php:13
+msgid "You have not created any lists at MailChimp"
+msgstr ""
+
+#: includes/admin/theme-options.php:2176
+msgid "You want reset all options ?"
+msgstr ""
+
+#: includes/widget.php:309
+msgid ""
+"You'll need to regenerate it <a href=\"https://dev.twitter.com/apps\" "
+"target=\"_blank\">here</a>!"
+msgstr ""
+
+#: includes/hook.php:370
+msgid "Your email"
+msgstr ""
+
+#: includes/controller.php:77
+msgid ""
+"Your facebook account is not verified. You have to verify your account "
+"before proceed login or registering on this site."
+msgstr ""
+"Tài khoản facebook của bạn chưa được xác minh. Bạn phải xác minh tài khoản "
+"của mình trước khi tiếp tục đăng nhập hoặc đăng ký trên trang này."
+
+#: includes/controller.php:150
+msgid "Your session is expired or you submitted an invalid form."
+msgstr ""
+
+#: includes/woocommerce.php:529
+msgid "Your shopping bag is empty."
+msgstr "Không có sản phẩm nào trong giỏ hàng"
+
+#: includes/admin/import-demo.php:27
+msgid "your site"
+msgstr ""
+
+#: includes/admin/theme-options.php:1892
+msgid "Zoom"
+msgstr ""

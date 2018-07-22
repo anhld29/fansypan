@@ -180,8 +180,10 @@ if(defined('WOOCOMMERCE_VERSION')){
 										<div class="txt-hotline">Hotline <span>0969.89.43.34</span></div>
 									</div>
 									<div class="hotline map">
-										<i class="fa fa-map-marker"></i>
-										<div class="txt-hotline">Cửa hàng</div>
+										<a href="https://fansypan.com/danh-sach-dai-ly/">
+											<i class="fa fa-map-marker"></i>
+											<div class="txt-hotline">Cửa hàng</div>
+										</a>
 									</div>
 									<?php 
 											if(dh_get_theme_option('ajaxsearch',1)){

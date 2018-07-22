@@ -1233,7 +1233,7 @@ function dh_post_featured($post_id='',$post_format='',$is_shortcode = false,$is_
 	$post_format = empty($post_format) ? get_post_format() : $post_format;
 	$thumb_size = !is_singular() || $is_shortcode || $is_related ? 'dh-thumbnail' : 'dh-full';
 	if($layout == 'masonry'){
-		$thumb_size = 'dh-full';
+		$thumb_size = 'dh-thumbnail';
 	}
 	$thumb_size = apply_filters('dh_post_featured_thumbnail_size', $thumb_size,$post_id);
 	$featured_class = !empty($post_format) ? ' '.$post_format.'-featured' : '';

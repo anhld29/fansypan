@@ -1,22 +1,23 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Sitesao Core\n"
-"POT-Creation-Date: 2016-08-24 12:15+0700\n"
-"PO-Revision-Date: 2016-08-24 12:15+0700\n"
+"POT-Creation-Date: 2018-07-22 16:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: \n"
 "Language-Team: Sitesao\n"
-"Language: en\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.5\n"
+"X-Generator: Loco https://localise.biz/\n"
 "X-Poedit-KeywordsList: __;gettext;gettext_noop;esc_html__;esc_attr_e;_x;"
 "_n_noop:1,2;_e;esc_html_e;esc_attr__;_n:1,2;_nx:1,2;_nx_noop:1,2\n"
 "X-Poedit-Basepath: /Volumes/WORK/webserver/www/woow/wp-content/plugins\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "X-Poedit-SearchPath-0: sitesao-core\n"
 "X-Poedit-SearchPathExcluded-0: sitesao-core/assets\n"
-"X-Poedit-SearchPathExcluded-1: sitesao-core/dhwc-brand/assets\n"
+"X-Poedit-SearchPathExcluded-1: sitesao-core/dhwc-brand/assets"
 
 #: sitesao-core/dhwc-brand/dhwc-brand.php:43
 #: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:335
@@ -711,8 +712,8 @@ msgstr ""
 #: sitesao-core/includes/admin/meta-boxes.php:118
 msgid ""
 "Used when you select Video format. Enter a Youtube, Vimeo, Soundcloud, etc "
-"URL. See supported services at <a href=\"http://codex.wordpress.org/Embeds"
-"\">http://codex.wordpress.org/Embeds</a>."
+"URL. See supported services at <a href=\"http://codex.wordpress.org/Embeds\">"
+"http://codex.wordpress.org/Embeds</a>."
 msgstr ""
 
 #: sitesao-core/includes/admin/meta-boxes.php:125
@@ -789,8 +790,8 @@ msgstr ""
 
 #: sitesao-core/includes/admin/meta-boxes.php:194
 msgid ""
-"This will only be used if you choose to display your blog in the masonry/"
-"grid format."
+"This will only be used if you choose to display your blog in the "
+"masonry/grid format."
 msgstr ""
 
 #: sitesao-core/includes/admin/meta-boxes.php:198
@@ -1958,10 +1959,12 @@ msgid ""
 msgstr ""
 
 #: sitesao-core/includes/admin/theme-options.php:1610
+msgctxt "Hiển thị \"Bài viết liên quan\" dưới bài viết chi tiết"
 msgid "Show Related Post On Single Post Page"
 msgstr ""
 
 #: sitesao-core/includes/admin/theme-options.php:1611
+msgctxt "Hiển thị bài đăng liên quan ở cuối bài viết?"
 msgid "Display related post the bottom of posts?"
 msgstr ""
 
@@ -2344,8 +2347,8 @@ msgid ""
 "If your Double Opt-in is false and this is true, MailChimp will send your "
 "lists Welcome Email if this subscribe succeeds - this will not fire if "
 "MailChimp ends up updating an existing subscriber. If Double Opt-in is true, "
-"this has no effect. Learn more about <a target=\"_blank\" href=\"%s"
-"\">Welcome Emails</a>."
+"this has no effect. Learn more about <a target=\"_blank\" href=\"%s\">"
+"Welcome Emails</a>."
 msgstr ""
 
 #: sitesao-core/includes/admin/theme-options.php:2039
@@ -2383,8 +2386,8 @@ msgstr ""
 
 #: sitesao-core/includes/admin/theme-options.php:2063
 msgid ""
-"<p class=\"description\">Enter in your profile media locations here."
-"<br><strong>Remember to include the \"http://\" in all URLs!</strong></p>"
+"<p class=\"description\">Enter in your profile media locations here.<br>"
+"<strong>Remember to include the \"http://\" in all URLs!</strong></p>"
 msgstr ""
 
 #: sitesao-core/includes/admin/theme-options.php:2068
@@ -2810,6 +2813,7 @@ msgid "Share on Linked In"
 msgstr ""
 
 #: sitesao-core/includes/functions.php:890
+msgctxt "Bài viết liên quan"
 msgid "Related News"
 msgstr ""
 
@@ -3380,8 +3384,8 @@ msgstr ""
 msgid ""
 "To make it easier for you to edit and save the imported content, you may "
 "want to reassign the author of the imported item to an existing user of this "
-"site. For example, you may want to import all the entries as <code>admin</"
-"code>s entries."
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
 msgstr ""
 
 #: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:259
@@ -4116,9 +4120,9 @@ msgstr ""
 #: sitesao-core/includes/visual-composer.php:874
 #: sitesao-core/includes/visual-composer.php:2940
 msgid ""
-"Select the animation easing you would like for slide transitions <a href="
-"\"http://jqueryui.com/resources/demos/effect/easing.html\" target=\"_blank"
-"\"> Click here </a> to see examples of these."
+"Select the animation easing you would like for slide transitions <a "
+"href=\"http://jqueryui.com/resources/demos/effect/easing.html\" "
+"target=\"_blank\"> Click here </a> to see examples of these."
 msgstr ""
 
 #: sitesao-core/includes/visual-composer.php:879
@@ -4761,10 +4765,12 @@ msgid "Filter"
 msgstr ""
 
 #: sitesao-core/includes/visual-composer.php:1809
+msgctxt "Sản phẩm liên quan"
 msgid "Related products"
 msgstr ""
 
 #: sitesao-core/includes/visual-composer.php:1814
+msgctxt "Các sản phẩm liên quan"
 msgid "Output the related products."
 msgstr ""
 
@@ -5800,8 +5806,8 @@ msgstr ""
 
 #: sitesao-core/includes/widget.php:309
 msgid ""
-"You'll need to regenerate it <a href=\"https://dev.twitter.com/apps\" target="
-"\"_blank\">here</a>!"
+"You'll need to regenerate it <a href=\"https://dev.twitter.com/apps\" "
+"target=\"_blank\">here</a>!"
 msgstr ""
 
 #: sitesao-core/includes/widget.php:388

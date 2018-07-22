@@ -1,0 +1,6135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sitesao Core\n"
+"POT-Creation-Date: 2016-08-24 12:15+0700\n"
+"PO-Revision-Date: 2016-08-24 12:15+0700\n"
+"Last-Translator: \n"
+"Language-Team: Sitesao\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;esc_html__;esc_attr_e;_x;"
+"_n_noop:1,2;_e;esc_html_e;esc_attr__;_n:1,2;_nx:1,2;_nx_noop:1,2\n"
+"X-Poedit-Basepath: /Volumes/WORK/webserver/www/woow/wp-content/plugins\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: sitesao-core\n"
+"X-Poedit-SearchPathExcluded-0: sitesao-core/assets\n"
+"X-Poedit-SearchPathExcluded-1: sitesao-core/dhwc-brand/assets\n"
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:43
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:335
+msgid "product-brand"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:50
+#: sitesao-core/dhwc-brand/dhwc-brand.php:52
+#: sitesao-core/includes/visual-composer.php:1305
+msgid "Product Brands"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:53
+msgid "Product Brand"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:54
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:355
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-functions.php:155
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-layered-nav.php:288
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-slider-brands.php:33
+#: sitesao-core/includes/visual-composer.php:1315
+msgid "Brands"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:55
+msgid "Search Product Brands"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:56
+msgid "All Product Brands"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:57
+msgid "Parent Product Brand"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:58
+msgid "Parent Product Brand:"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:59
+msgid "Edit Product Brand"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:60
+msgid "Update Product Brand"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:61
+msgid "Add New Product Brand"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:62
+msgid "New Product Brand Name"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/dhwc-brand.php:223
+msgid "Brand:"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:17
+msgid ""
+"Product brands for your store can be managed here. To change the order of "
+"brands on the front-end you can drag and drop to sort them. To see more "
+"brands listed click the \"screen options\" link at the top of the page."
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:29
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:105
+#: sitesao-core/includes/post-type-slider.php:434
+#: sitesao-core/lookbook/includes/admin.php:33
+#: sitesao-core/lookbook/includes/admin.php:115
+msgid "Thumbnail"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:35
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:110
+#: sitesao-core/includes/woocommerce.php:848
+#: sitesao-core/includes/woocommerce.php:958
+#: sitesao-core/lookbook/includes/admin.php:39
+#: sitesao-core/lookbook/includes/admin.php:120
+msgid "Upload/Add image"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:36
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:111
+#: sitesao-core/includes/woocommerce.php:849
+#: sitesao-core/includes/woocommerce.php:959
+#: sitesao-core/lookbook/includes/admin.php:40
+#: sitesao-core/lookbook/includes/admin.php:121
+msgid "Remove image"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:59
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:136
+#: sitesao-core/includes/woocommerce.php:872
+#: sitesao-core/includes/woocommerce.php:982
+#: sitesao-core/lookbook/includes/admin.php:63
+#: sitesao-core/lookbook/includes/admin.php:146
+msgid "Choose an image"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:61
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:138
+#: sitesao-core/includes/woocommerce.php:874
+#: sitesao-core/includes/woocommerce.php:984
+#: sitesao-core/lookbook/includes/admin.php:65
+#: sitesao-core/lookbook/includes/admin.php:148
+msgid "Use image"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:200
+#: sitesao-core/includes/post-type-slider.php:505
+#: sitesao-core/lookbook/includes/admin.php:213
+msgid "Image"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:255
+msgid "Brands Options"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:259
+msgid "Show description"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:260
+msgid "Show/hide the product brand description on the archive page."
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-admin.php:297
+msgid "Product brand base"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-functions.php:107
+msgid "Select a brand"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-functions.php:110
+msgid "Uncategorized"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-brand-functions.php:147
+msgid "No brands"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:11
+msgid "A list or dropdown of product brands."
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:13
+msgid "DHWOO Product Brands"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:23
+msgid "Product brands"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:161
+msgid "No product brands exist."
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:190
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-layered-nav.php:306
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-slider-brands.php:107
+msgid "Title:"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:193
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-slider-brands.php:112
+msgid "Order by:"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:195
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-slider-brands.php:114
+#: sitesao-core/includes/visual-composer.php:1048
+#: sitesao-core/includes/visual-composer.php:2210
+msgid "Order"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:196
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-slider-brands.php:115
+#: sitesao-core/includes/functions.php:1005
+#: sitesao-core/includes/visual-composer.php:510
+#: sitesao-core/includes/visual-composer.php:1257
+#: sitesao-core/includes/visual-composer.php:2071
+msgid "Name"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:201
+#: sitesao-core/includes/visual-composer.php:2075
+msgid "Show as dropdown"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:204
+#: sitesao-core/includes/visual-composer.php:2081
+msgid "Show post counts"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:207
+#: sitesao-core/includes/visual-composer.php:2087
+msgid "Show hierarchy"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:210
+msgid "Only show children for the current brand"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-brands.php:213
+msgid "Hide Empty Brands"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-layered-nav.php:11
+msgid ""
+"Shows product brands in a widget which lets you narrow down the list of "
+"products when viewing product categories"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-layered-nav.php:13
+msgid "DHWOO Product Brand Layered Nav"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-layered-nav.php:124
+msgid "Any brand"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-layered-nav.php:309
+msgid "Display Type:"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-layered-nav.php:311
+#: sitesao-core/includes/admin/theme-options.php:1779
+#: sitesao-core/includes/visual-composer.php:2003
+#: sitesao-core/includes/visual-composer.php:2775
+#: sitesao-core/includes/woocommerce.php:264
+msgid "List"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-layered-nav.php:312
+#: sitesao-core/includes/visual-composer.php:2003
+msgid "Dropdown"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-slider-brands.php:10
+msgid "Shows product brans with slider"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-slider-brands.php:12
+msgid "DHWOO Product Brand Slider"
+msgstr ""
+
+#: sitesao-core/dhwc-brand/includes/dhwc-widget-slider-brands.php:120
+msgid "Hide empty brands"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:46
+msgid "Tooltip Shortcode"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:60
+#: sitesao-core/includes/admin/admin.php:61
+#: sitesao-core/includes/visual-composer.php:2381
+#: sitesao-core/includes/visual-composer.php:3019
+msgid "Text"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:66
+#: sitesao-core/includes/post-type-slider.php:601
+msgid "URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:67
+msgid "http://"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:72
+msgid "Type"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:74
+#: sitesao-core/includes/visual-composer.php:2546
+msgid "Tooltip"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:75
+#: sitesao-core/includes/visual-composer.php:2547
+msgid "Popover"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:81
+#: sitesao-core/includes/visual-composer.php:2551
+msgid "Tip position"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:83
+#: sitesao-core/includes/visual-composer.php:2555
+#: sitesao-core/includes/visual-composer.php:3142
+#: sitesao-core/includes/visual-composer.php:3196
+msgid "Top"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:84
+#: sitesao-core/includes/visual-composer.php:2556
+#: sitesao-core/includes/visual-composer.php:3197
+msgid "Bottom"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:85
+#: sitesao-core/includes/post-type-slider.php:550
+#: sitesao-core/includes/visual-composer.php:2536
+#: sitesao-core/includes/visual-composer.php:2557
+#: sitesao-core/includes/visual-composer.php:3142
+#: sitesao-core/includes/visual-composer.php:3198
+msgid "Left"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:86
+#: sitesao-core/includes/post-type-slider.php:552
+#: sitesao-core/includes/visual-composer.php:2538
+#: sitesao-core/includes/visual-composer.php:2558
+#: sitesao-core/includes/visual-composer.php:3199
+msgid "Right"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:92
+#: sitesao-core/includes/admin/admin.php:93
+#: sitesao-core/includes/visual-composer.php:538
+#: sitesao-core/includes/visual-composer.php:2856
+#: sitesao-core/includes/visual-composer.php:2967
+#: sitesao-core/includes/visual-composer.php:3013
+#: sitesao-core/includes/visual-composer.php:3145
+#: sitesao-core/includes/visual-composer.php:3242
+#: sitesao-core/includes/widget.php:195 sitesao-core/includes/widget.php:421
+#: sitesao-core/includes/widget.php:513 sitesao-core/includes/widget.php:634
+#: sitesao-core/includes/widget.php:692 sitesao-core/includes/widget.php:1054
+#: sitesao-core/includes/widget.php:1142
+msgid "Title"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:98
+#: sitesao-core/includes/admin/admin.php:99
+msgid "Content"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:104
+msgid "Action to trigger"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:106
+#: sitesao-core/includes/visual-composer.php:2576
+msgid "Hover"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:107
+#: sitesao-core/includes/visual-composer.php:2576
+msgid "Click"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:114
+msgid "Cancel"
+msgstr ""
+
+#: sitesao-core/includes/admin/admin.php:117
+msgid "Add Tooltip"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:3
+msgid "Nothing Found..."
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:10
+msgid "Unable to load MailChimp lists, check your API Key."
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:13
+msgid "You have not created any lists at MailChimp"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:15
+msgid "Select a list"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:132
+msgid "Select a sidebar..."
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:207
+#: sitesao-core/includes/woocommerce_product_variable.php:116
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:209
+#: sitesao-core/includes/woocommerce_product_variable.php:117
+msgid "Add to Gallery"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:227
+#: sitesao-core/includes/admin/functions.php:302
+msgid "Delete"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:312
+msgid "Add Gallery Images"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:326
+#: sitesao-core/includes/admin/functions.php:366
+msgid "Change Media"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:326
+#: sitesao-core/includes/admin/functions.php:377
+msgid "Select Media"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:331
+msgid "Clear"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:353
+msgid "Select or Upload your Media"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:355
+#: sitesao-core/includes/admin/functions.php:425
+#: sitesao-core/includes/admin/theme-options.php:333
+#: sitesao-core/includes/admin/theme-options.php:592
+msgid "Select"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:396
+#: sitesao-core/includes/admin/functions.php:450
+#: sitesao-core/includes/admin/theme-options.php:309
+#: sitesao-core/includes/admin/theme-options.php:347
+#: sitesao-core/includes/admin/theme-options.php:567
+#: sitesao-core/includes/admin/theme-options.php:606
+msgid "Change Image"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:396
+#: sitesao-core/includes/admin/functions.php:461
+#: sitesao-core/includes/admin/theme-options.php:309
+#: sitesao-core/includes/admin/theme-options.php:358
+#: sitesao-core/includes/admin/theme-options.php:567
+#: sitesao-core/includes/admin/theme-options.php:617
+msgid "Select Image"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:402
+#: sitesao-core/includes/admin/theme-options.php:314
+#: sitesao-core/includes/admin/theme-options.php:573
+msgid "Clear Image"
+msgstr ""
+
+#: sitesao-core/includes/admin/functions.php:423
+#: sitesao-core/includes/admin/theme-options.php:331
+#: sitesao-core/includes/admin/theme-options.php:590
+msgid "Select or Upload your Image"
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:11
+msgid "Import Demo"
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:18
+msgid "Importing Demo Content..."
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:19
+msgid ""
+"Please be patient and do not navigate away from this page while the import "
+"is in&nbsp;progress. This can take a while if your server is slow "
+"(inexpensive hosting).<br>You will be notified via this page when the import "
+"is completed."
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:22
+msgid "Error has occured"
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:26
+msgid "Import completed successfully!"
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:27
+msgid "Now you can see the result at"
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:27
+msgid "your site"
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:27
+msgid "or start customize via"
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:27
+#: sitesao-core/includes/admin/theme-options.php:2183
+#: sitesao-core/includes/admin/theme-options.php:2195
+msgid "Theme Options"
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:31
+#: sitesao-core/includes/admin/import-demo.php:41
+msgid "Import Demo Data"
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:45
+msgid "Important Notes:"
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:47
+msgid "We recommend to run Demo Import on a clean WordPress installation."
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:48
+#, php-format
+msgid "To reset your installation we recommend %s plugin."
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:49
+msgid ""
+"The Demo Import will not import the images we have used in our live demo, "
+"due to copyright/license reasons."
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:50
+msgid ""
+"Do not run the Demo Import multiple times one after another, it will result "
+"in double content."
+msgstr ""
+
+#: sitesao-core/includes/admin/import-demo.php:54
+#: sitesao-core/includes/admin/theme-options.php:738
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:194
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:215
+msgid "Import"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:30
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:36
+msgid "Full Width Mega Menu"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:41
+msgid "Mega Menu Columns"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:58
+msgid "Disable Mega Menu Column Title"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:63
+#: sitesao-core/includes/admin/mega-menu.php:82
+msgid "Display Sidebar in Menu"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:65
+msgid "Select Widget Area..."
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:84
+msgid "Select Widget Area"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:101
+msgid ""
+"Menu Icon Class (Font Awesome Icon or Elegant Icon.ex: fa fa-home, "
+"elegant_icon_house_alt)"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:107
+#: sitesao-core/includes/visual-composer.php:915
+#: sitesao-core/includes/visual-composer.php:3334
+msgid "Visibility"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:110
+#: sitesao-core/includes/visual-composer.php:919
+#: sitesao-core/includes/visual-composer.php:3338
+msgid "All Devices"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:111
+#: sitesao-core/includes/visual-composer.php:920
+#: sitesao-core/includes/visual-composer.php:3339
+msgid "Hidden Phone"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:112
+#: sitesao-core/includes/visual-composer.php:921
+#: sitesao-core/includes/visual-composer.php:3340
+msgid "Hidden Tablet"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:113
+#: sitesao-core/includes/visual-composer.php:922
+#: sitesao-core/includes/visual-composer.php:3341
+msgid "Hidden PC"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:114
+#: sitesao-core/includes/visual-composer.php:923
+#: sitesao-core/includes/visual-composer.php:3342
+msgid "Visible Phone"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:115
+#: sitesao-core/includes/visual-composer.php:924
+#: sitesao-core/includes/visual-composer.php:3343
+msgid "Visible Tablet"
+msgstr ""
+
+#: sitesao-core/includes/admin/mega-menu.php:116
+#: sitesao-core/includes/visual-composer.php:925
+#: sitesao-core/includes/visual-composer.php:3344
+msgid "Visible PC"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:20
+msgid "Product Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:28
+msgid "Product Custom Tab"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:31
+msgid "Hide Custom Tab"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:32
+msgid "Hide custom tab for this product."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:37
+msgid "Custom Tab Content"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:38
+msgid "Please enter customt tab content."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:50
+msgid "Gallery Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:57
+msgid "Gallery"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:68
+msgid "Quote Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:75
+msgid "Quote Content"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:76
+msgid "Please type the text for your quote here."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:87
+msgid "Link Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:94
+msgid "Link URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:95
+msgid "Please input the URL for your link. I.e. http://www.example.com"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:106
+msgid "Video Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:114
+msgid "Use service video"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:117
+#: sitesao-core/includes/visual-composer.php:2604
+msgid "Embedded Code"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:118
+msgid ""
+"Used when you select Video format. Enter a Youtube, Vimeo, Soundcloud, etc "
+"URL. See supported services at <a href=\"http://codex.wordpress.org/Embeds"
+"\">http://codex.wordpress.org/Embeds</a>."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:125
+msgid "Use hosted video"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:128
+#: sitesao-core/includes/post-type-slider.php:517
+msgid "MP4 File URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:129
+#: sitesao-core/includes/post-type-slider.php:518
+msgid "Please enter in the URL to the .m4v video file."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:134
+#: sitesao-core/includes/post-type-slider.php:523
+msgid "OGV/OGG File URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:135
+#: sitesao-core/includes/post-type-slider.php:524
+msgid "Please enter in the URL to the .ogv or .ogg video file."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:140
+#: sitesao-core/includes/post-type-slider.php:529
+msgid "WEBM File URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:141
+#: sitesao-core/includes/post-type-slider.php:530
+msgid "Please enter in the URL to the .webm video file."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:154
+msgid "Audio Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:161
+msgid "MP3 File URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:162
+msgid "Please enter in the URL to the .mp3 file"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:167
+msgid "OGA File URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:168
+msgid "Please enter in the URL to the .ogg or .oga file"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:179
+msgid "Post Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:186
+msgid "Featured"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:187
+msgid ""
+"If checked. this post will show in highlighted block shortcode in Visual "
+"Composer"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:193
+msgid "Masonry Item Sizing"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:194
+msgid ""
+"This will only be used if you choose to display your blog in the masonry/"
+"grid format."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:198
+#: sitesao-core/includes/visual-composer.php:3291
+msgid "Normal"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:199
+msgid "Double"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:225
+msgid "No sliders found"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:229
+msgid "Default Menu..."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:235
+msgid "Page Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:242
+msgid "Content Page no Padding"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:243
+msgid "If checked. content of page  with no padding top and padding bottom"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:248
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:249
+msgid "Select which main menu displays on this page."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:256
+msgid "Main Sidebar"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:257
+msgid "Select sidebar for page with 2 or 3 colums."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:262
+#: sitesao-core/includes/admin/theme-options.php:969
+msgid "Header Style"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:263
+#: sitesao-core/includes/admin/theme-options.php:970
+msgid "Please select your header style here."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:267
+#: sitesao-core/includes/admin/meta-boxes.php:279
+#: sitesao-core/includes/admin/meta-boxes.php:290
+#: sitesao-core/includes/admin/meta-boxes.php:370
+#: sitesao-core/includes/admin/meta-boxes.php:381
+#: sitesao-core/includes/admin/meta-boxes.php:392
+#: sitesao-core/includes/admin/meta-boxes.php:403
+msgid "Global"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:268
+#: sitesao-core/includes/admin/theme-options.php:972
+#: sitesao-core/includes/admin/theme-options.php:1382
+#: sitesao-core/includes/post-type-slider.php:551
+#: sitesao-core/includes/visual-composer.php:2537
+#: sitesao-core/includes/visual-composer.php:2620
+msgid "Center"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:269
+#: sitesao-core/includes/admin/meta-boxes.php:393
+#: sitesao-core/includes/admin/theme-options.php:894
+#: sitesao-core/includes/admin/theme-options.php:973
+#: sitesao-core/includes/admin/theme-options.php:1166
+#: sitesao-core/includes/admin/theme-options.php:1245
+#: sitesao-core/includes/admin/theme-options.php:1380
+#: sitesao-core/includes/admin/theme-options.php:1879
+#: sitesao-core/includes/visual-composer.php:792
+#: sitesao-core/includes/visual-composer.php:909
+#: sitesao-core/includes/visual-composer.php:2418
+#: sitesao-core/includes/visual-composer.php:2478
+#: sitesao-core/includes/visual-composer.php:2618
+#: sitesao-core/includes/visual-composer.php:3195
+msgid "Default"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:270
+#: sitesao-core/includes/admin/theme-options.php:974
+msgid "Off Canvas"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:274
+msgid "Topbar"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:275
+msgid "Enable or disable the top bar."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:280
+#: sitesao-core/includes/admin/meta-boxes.php:371
+#: sitesao-core/includes/admin/meta-boxes.php:382
+#: sitesao-core/includes/admin/meta-boxes.php:404
+#: sitesao-core/includes/admin/theme-options.php:816
+#: sitesao-core/includes/admin/theme-options.php:825
+#: sitesao-core/includes/admin/theme-options.php:1008
+#: sitesao-core/includes/admin/theme-options.php:1149
+#: sitesao-core/includes/admin/theme-options.php:1202
+#: sitesao-core/includes/admin/theme-options.php:1225
+#: sitesao-core/includes/admin/theme-options.php:1234
+#: sitesao-core/includes/admin/theme-options.php:1423
+#: sitesao-core/includes/admin/theme-options.php:1440
+#: sitesao-core/includes/admin/theme-options.php:1457
+#: sitesao-core/includes/admin/theme-options.php:1466
+#: sitesao-core/includes/admin/theme-options.php:1482
+#: sitesao-core/includes/admin/theme-options.php:1492
+#: sitesao-core/includes/admin/theme-options.php:1503
+#: sitesao-core/includes/admin/theme-options.php:1519
+#: sitesao-core/includes/admin/theme-options.php:1546
+#: sitesao-core/includes/admin/theme-options.php:1555
+#: sitesao-core/includes/admin/theme-options.php:1571
+#: sitesao-core/includes/admin/theme-options.php:1580
+#: sitesao-core/includes/admin/theme-options.php:1590
+#: sitesao-core/includes/admin/theme-options.php:1599
+#: sitesao-core/includes/admin/theme-options.php:1608
+#: sitesao-core/includes/admin/theme-options.php:1617
+#: sitesao-core/includes/admin/theme-options.php:1670
+#: sitesao-core/includes/admin/theme-options.php:1700
+#: sitesao-core/includes/admin/theme-options.php:1912
+#: sitesao-core/includes/visual-composer.php:1028
+#: sitesao-core/includes/visual-composer.php:2189
+msgid "Show"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:281
+#: sitesao-core/includes/admin/meta-boxes.php:312
+#: sitesao-core/includes/admin/meta-boxes.php:372
+#: sitesao-core/includes/admin/meta-boxes.php:383
+#: sitesao-core/includes/admin/meta-boxes.php:405
+#: sitesao-core/includes/admin/theme-options.php:817
+#: sitesao-core/includes/admin/theme-options.php:826
+#: sitesao-core/includes/admin/theme-options.php:1009
+#: sitesao-core/includes/admin/theme-options.php:1150
+#: sitesao-core/includes/admin/theme-options.php:1203
+#: sitesao-core/includes/admin/theme-options.php:1226
+#: sitesao-core/includes/admin/theme-options.php:1235
+#: sitesao-core/includes/admin/theme-options.php:1424
+#: sitesao-core/includes/admin/theme-options.php:1441
+#: sitesao-core/includes/admin/theme-options.php:1458
+#: sitesao-core/includes/admin/theme-options.php:1467
+#: sitesao-core/includes/admin/theme-options.php:1483
+#: sitesao-core/includes/admin/theme-options.php:1493
+#: sitesao-core/includes/admin/theme-options.php:1504
+#: sitesao-core/includes/admin/theme-options.php:1520
+#: sitesao-core/includes/admin/theme-options.php:1547
+#: sitesao-core/includes/admin/theme-options.php:1556
+#: sitesao-core/includes/admin/theme-options.php:1572
+#: sitesao-core/includes/admin/theme-options.php:1581
+#: sitesao-core/includes/admin/theme-options.php:1591
+#: sitesao-core/includes/admin/theme-options.php:1600
+#: sitesao-core/includes/admin/theme-options.php:1609
+#: sitesao-core/includes/admin/theme-options.php:1618
+#: sitesao-core/includes/admin/theme-options.php:1671
+#: sitesao-core/includes/admin/theme-options.php:1701
+#: sitesao-core/includes/admin/theme-options.php:1815
+#: sitesao-core/includes/admin/theme-options.php:1913
+msgid "Hide"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:285
+msgid "Transparent Main Menu"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:286
+msgid "Enable or disable main menu background transparency."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:291
+#: sitesao-core/includes/admin/theme-options.php:422
+msgid "On"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:292
+msgid "On and White Transparent"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:293
+#: sitesao-core/includes/admin/theme-options.php:429
+msgid "Off"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:297
+msgid "Custom Page Logo"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:298
+msgid "Custom logo for page."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:303
+msgid "Page Heading"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:304
+msgid "Enable/disable page heading or custom page heading"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:309
+msgid "Default Heading"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:310
+msgid "Custom Heading"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:311
+msgid "Use Revolution Slider"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:316
+msgid "Heading Menu Anchor "
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:317
+msgid "Add menu anchor for heading. You can use in One Page"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:322
+msgid "Revolution Slider"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:323
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:329
+msgid "Page Heading Background Image"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:330
+msgid "Custom heading background image."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:341
+msgid "Page Heading Title"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:342
+msgid "Custom heading title."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:347
+msgid "Page Heading Sub-title"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:348
+msgid "Custom heading sub-title."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:353
+msgid "Button text"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:354
+msgid "Custom heading button text."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:359
+msgid "Button URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:360
+msgid "Custom heading button URL."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:365
+#: sitesao-core/includes/admin/theme-options.php:1227
+msgid "Footer Newsletter"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:366
+msgid "Do you want show/hide footer newsletter."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:376
+#: sitesao-core/includes/admin/theme-options.php:1236
+msgid "Footer Featured"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:377
+msgid "Do you want show/hide footer featured."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:387
+#: sitesao-core/includes/admin/theme-options.php:1242
+msgid "Footer Featured Style"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:388
+msgid "Do you want to change footer featured style."
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:394
+#: sitesao-core/includes/admin/theme-options.php:1246
+msgid "Light"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:398
+#: sitesao-core/includes/admin/theme-options.php:1204
+msgid "Footer Widget Area"
+msgstr ""
+
+#: sitesao-core/includes/admin/meta-boxes.php:399
+#: sitesao-core/includes/admin/theme-options.php:1205
+msgid "Do you want use the main footer that contains all the widgets areas."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:62
+#: sitesao-core/includes/admin/theme-options.php:68
+msgid "This is required to enable file writing"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:161
+msgid "Online Document"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:166
+#: sitesao-core/includes/admin/theme-options.php:225
+msgid "Save All Change"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:226
+msgid "Reset Options"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:516
+msgid "Background Repeat"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:526
+msgid "Background Size"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:536
+msgid "Background Attachment"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:556
+msgid "Background Position"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:650
+msgid "Select a font family"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:659
+msgid "Font size"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:668
+msgid "Font style"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:687
+msgid "Subset"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:739
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:745
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:214
+msgid "Export"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:757
+msgid "General"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:758
+msgid ""
+"<p class=\"description\">Here you will set your site-wide preferences.</p>"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:764
+msgid "Logo"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:765
+msgid "Upload your own logo."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:771
+msgid "Fixed Menu Logo"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:772
+msgid "Upload your own logo.This is optional use when fixed menu"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:778
+msgid "Transparent Menu Logo"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:779
+msgid "Upload your own logo.This is optional use for menu transparent"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:785
+msgid "Mobile Version Logo"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:786
+msgid ""
+"Use this option to change your logo for mobile devices if your logo width is "
+"quite long to fit in mobile device screen."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:792
+msgid "Favicon"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:793
+msgid "Image that will be used as favicon (32px32px)."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:798
+msgid "Apple Iphone Icon"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:799
+msgid "Apple Iphone Icon (57px 57px)."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:804
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:805
+msgid "Apple Iphone Retina Icon (72px 72px)."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:810
+msgid "Apple Retina Icon"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:811
+msgid "Apple iPad Retina Icon (144px 144px)."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:818
+msgid "Back To Top Button"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:820
+msgid "Toggle whether or not to enable a back to top button on your pages."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:827
+#: sitesao-core/includes/hook.php:354
+msgid "Newsletter"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:829
+msgid "Toggle whether or not to enable modal Newsletter in your site."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:835
+msgid "Newsletter refresh interval"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:837
+msgid ""
+"Enter day number to refresh newsletter. value 0 will be shown every page"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:843
+msgid "Newsletter Heading"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:845
+msgid "Enter Newsletter Heading"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:851
+msgid "Newsletter Description"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:853
+msgid "Enter Newsletter Description"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:859
+msgid "Newsletter Background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:865
+msgid "Design and Layout"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:866
+msgid "<p class=\"description\">Customize Design and Layout.</p>"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:871
+msgid "Site Layout"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:872
+msgid "Select between wide or boxed site layout"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:875
+msgid "Wide"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:876
+msgid "Boxed"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:883
+#: sitesao-core/includes/visual-composer.php:2598
+msgid "Background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:884
+msgid "Select your boxed background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:890
+msgid "Button Style"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:891
+msgid "Change All button in site to style"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:895
+msgid "With Border radius"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:902
+msgid "Color and Typography"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:903
+msgid "<p class=\"description\">Customize Color and Typography.</p>"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:908
+msgid "Brand primary"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:914
+msgid "Body"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:920
+msgid "Navigation"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:926
+msgid "Heading H1"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:932
+msgid "Heading H2"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:938
+msgid "Heading H3"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:944
+msgid "Heading H4"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:950
+msgid "Heading H5"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:956
+msgid "Heading H6"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:963
+msgid "Header"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:964
+msgid "<p class=\"description\">Customize Header.</p>"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:981
+msgid "Header Social Icon"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1003
+msgid "Topbar Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1010
+msgid "Display top bar"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1011
+msgid ""
+"Enable or disable the top bar.<br> See Social icons tab to enable the social "
+"icons inside it.<br> Set a Top menu from  Appearance - Menus "
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1018
+msgid "Left topbar content"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1020
+#: sitesao-core/includes/functions.php:2118
+#: sitesao-core/includes/visual-composer.php:628
+#: sitesao-core/includes/widget.php:224
+msgid "None"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1021
+#: sitesao-core/includes/widget.php:189 sitesao-core/includes/widget.php:201
+msgid "Social"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1022
+msgid "Site Info"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1023
+msgid "Custom HTML"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1030
+msgid "Top Social Icon"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1053
+msgid "Phone number"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1060
+#: sitesao-core/includes/functions.php:1008 sitesao-core/includes/hook.php:361
+#: sitesao-core/includes/hook.php:448 sitesao-core/includes/hook.php:449
+msgid "Email"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1067
+msgid "Skype"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1074
+msgid "Left Topbar Content Custom HTML"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1080
+msgid "Main Navbar Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1085
+msgid "Sticky Top menu"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1086
+msgid "Enable or disable the sticky menu."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1092
+msgid "Custom Sticky Color"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1094
+msgid "Custom sticky menu color scheme ?"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1100
+msgid "Sticky menu background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1107
+msgid "Sticky menu color"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1114
+msgid "Sticky menu hover color"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1128
+msgid "Ajax Search in menu"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1129
+msgid "Enable or disable ajax search in menu."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1136
+msgid "Change Heading Deafult Background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1137
+msgid "Heading background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1142
+msgid "Heading background height (PX)"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1143
+msgid "Change heading background height, deafult is 550"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1151
+msgid "Show breadcrumb"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1152
+msgid "Enable or disable the site path under the page title."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1158
+#: sitesao-core/includes/admin/theme-options.php:1163
+msgid "Header Color Scheme"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1164
+msgid "Custom Topbar and Main menu color scheme ."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1167
+#: sitesao-core/includes/post-type-slider.php:256
+#: sitesao-core/includes/post-type-slider.php:318
+#: sitesao-core/includes/visual-composer.php:2486
+msgid "Custom"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1176
+msgid "Topbar Background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1177
+msgid "Topbar Color"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1178
+msgid "Topbar Link Color"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1179
+msgid "Header Background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1180
+msgid "Header Color"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1181
+msgid "Header Hover Color"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1182
+msgid "Navbar Background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1183
+msgid "Navbar Color"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1184
+msgid "Navbar Color Hover"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1185
+msgid "Navbar Dropdown Background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1186
+msgid "Navbar Dropdown Hover Background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1187
+msgid "Navbar Dropdown Color"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1188
+msgid "Navbar Dropdown Color Hover"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1189
+msgid "Navbar Dropdown Mega Menu Title"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1196
+msgid "Footer"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1197
+msgid "<p class=\"description\">Customize Footer.</p>"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1211
+msgid "Footer Area Columns"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1212
+msgid "Please select the number of columns you would like for your footer."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1228
+msgid "Do you want use Mailchimp newsletter form in footer."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1237
+msgid "Do you want show featured in footer."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1250
+msgid "Choose Footer Featured Style."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1256
+msgid "Footer Featured Column 1"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1257
+msgid "Footer featured column 1 text."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1264
+msgid "Footer Featured Column 2"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1265
+msgid "Footer featured column 2 text."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1272
+msgid "Footer Featured Column 3"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1273
+msgid "Footer featured column 3 text."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1279
+msgid "Footer Info"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1315
+msgid "Footer Color Scheme"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1320
+msgid "Custom Footer Color Scheme"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1328
+msgid "Footer Widget Area Background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1329
+msgid "Footer Widget Area Color"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1330
+msgid "Footer Widget Area Link"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1331
+msgid "Footer Widget Area Link Hover"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1332
+msgid "Footer Copyright Background"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1333
+msgid "Footer Copyright Color"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1334
+msgid "Footer Copyright Link"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1335
+msgid "Footer Copyright Link Hover"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1342
+msgid "Blog"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1343
+msgid "<p class=\"description\">Customize Blog.</p>"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1348
+msgid "List Blog Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1353
+msgid "Main Blog Layout"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1354
+msgid "Select main blog layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1365
+msgid "Archive Layout"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1366
+msgid "Select Archive layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1377
+#: sitesao-core/includes/visual-composer.php:1296
+#: sitesao-core/includes/visual-composer.php:2407
+#: sitesao-core/includes/visual-composer.php:2989
+#: sitesao-core/includes/visual-composer.php:3165
+#: sitesao-core/includes/visual-composer.php:3179
+#: sitesao-core/includes/widget.php:222
+msgid "Style"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1378
+msgid "How your blog posts will display."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1381
+#: sitesao-core/includes/visual-composer.php:2619
+msgid "Masonry"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1389
+msgid "Blogs Columns"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1390
+msgid "Select blogs columns."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1401
+#: sitesao-core/includes/admin/theme-options.php:1831
+#: sitesao-core/includes/visual-composer.php:2755
+msgid "Pagination"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1404
+#: sitesao-core/includes/admin/theme-options.php:1834
+#: sitesao-core/includes/visual-composer.php:2758
+msgid "Page Number"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1405
+#: sitesao-core/includes/admin/theme-options.php:1835
+#: sitesao-core/includes/visual-composer.php:2759
+msgid "Load More Button"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1406
+#: sitesao-core/includes/admin/theme-options.php:1836
+#: sitesao-core/includes/visual-composer.php:2760
+msgid "Infinite Scrolling"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1407
+#: sitesao-core/includes/admin/theme-options.php:1692
+#: sitesao-core/includes/post-type-slider.php:273
+#: sitesao-core/includes/post-type-slider.php:341
+#: sitesao-core/includes/visual-composer.php:1206
+#: sitesao-core/includes/visual-composer.php:1239
+#: sitesao-core/includes/visual-composer.php:1278
+#: sitesao-core/includes/visual-composer.php:1366
+#: sitesao-core/includes/visual-composer.php:2545
+#: sitesao-core/includes/visual-composer.php:2673
+#: sitesao-core/includes/visual-composer.php:2747
+#: sitesao-core/includes/visual-composer.php:2761
+msgid "No"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1410
+#: sitesao-core/includes/admin/theme-options.php:1839
+#: sitesao-core/includes/visual-composer.php:2762
+msgid "Choose pagination type."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1414
+#: sitesao-core/includes/admin/theme-options.php:1843
+#: sitesao-core/includes/visual-composer.php:2765
+msgid "Load More Button Text"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1417
+#: sitesao-core/includes/admin/theme-options.php:1846
+#: sitesao-core/includes/visual-composer.php:2768
+msgid "Load More"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1425
+msgid "Show/Hide Title"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1426
+msgid "In Archive Blog. Show/Hide the post title below the featured"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1432
+#: sitesao-core/includes/visual-composer.php:2670
+msgid "Link Title To Post"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1433
+msgid ""
+"In Archive Blog. Choose if the title should be a link to the single post "
+"page."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1442
+msgid "Show Featured Image"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1443
+msgid "In Archive Blog. Show/Hide the post featured Image"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1449
+msgid "Excerpt Length"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1451
+msgid "In Archive Blog. Enter the number words excerpt"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1459
+#: sitesao-core/includes/admin/theme-options.php:1548
+msgid "Date Meta"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1460
+msgid "In Archive Blog. Show/Hide the date meta"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1468
+#: sitesao-core/includes/admin/theme-options.php:1557
+msgid "Comment Meta"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1469
+msgid "In Archive Blog. Show/Hide the comment meta"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1475
+#: sitesao-core/includes/admin/theme-options.php:1564
+msgid "Show/Hide Category"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1476
+msgid "In Archive Blog. Show/Hide the category meta"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1485
+#: sitesao-core/includes/admin/theme-options.php:1573
+msgid "Author Meta"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1486
+msgid "In Archive Blog. Show/Hide the author meta"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1495
+msgid "Tags"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1496
+msgid "In Archive Blog. If enabled it will show tag."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1506
+msgid "Show/Hide Readmore"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1507
+msgid "In Archive Blog. Show/Hide the post readmore"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1513
+msgid "Single Page Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1521
+msgid "Page Comment"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1522
+msgid "Show/hide comment form in single page ?"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1528
+msgid "Single Blog Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1533
+msgid "Single Blog Layout"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1534
+msgid ""
+"Select single content and sidebar alignment. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1549
+msgid "In Single Blog. Show/Hide the date meta"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1558
+msgid "In Single Blog. Show/Hide the comment meta"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1565
+msgid "In Single Blog. Show/Hide the category"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1574
+msgid "In Single Blog. Show/Hide the author meta"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1582
+msgid "Show/Hide Tag"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1583
+msgid "In Single Blog. If enabled it will show tag."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1592
+msgid "Show Author Bio"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1593
+msgid "Display the author bio at the bottom of post on single post page ?"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1601
+msgid "Show Next/Prev Post Link On Single Post Page"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1602
+msgid ""
+"Using this will add a link at the bottom of every post page that leads to "
+"the next/prev post."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1610
+msgid "Show Related Post On Single Post Page"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1611
+msgid "Display related post the bottom of posts?"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1619
+#: sitesao-core/includes/admin/theme-options.php:1905
+msgid "Show Sharing Button"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1620
+msgid "Activate this to enable social sharing buttons on single post page."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1627
+#: sitesao-core/includes/admin/theme-options.php:1915
+#: sitesao-core/includes/functions.php:696
+msgid "Share on Facebook"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1634
+#: sitesao-core/includes/admin/theme-options.php:1922
+#: sitesao-core/includes/functions.php:701
+msgid "Share on Twitter"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1641
+#: sitesao-core/includes/admin/theme-options.php:1929
+msgid "Share on Google+"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1648
+#: sitesao-core/includes/admin/theme-options.php:1936
+#: sitesao-core/includes/functions.php:711
+msgid "Share on Pinterest"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1655
+#: sitesao-core/includes/admin/theme-options.php:1943
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1664
+msgid "Woocommerce"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1665
+msgid "<p class=\"description\">Customize Woocommerce.</p>"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1672
+msgid "Cart In header"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1673
+msgid "This will show cat in header."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1679
+msgid "Minicart Style"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1680
+msgid "Minicart Style."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1683
+msgid "Side"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1684
+msgid "Mini"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1691
+#: sitesao-core/includes/post-type-slider.php:272
+#: sitesao-core/includes/post-type-slider.php:340
+#: sitesao-core/includes/visual-composer.php:1206
+#: sitesao-core/includes/visual-composer.php:1239
+#: sitesao-core/includes/visual-composer.php:1278
+#: sitesao-core/includes/visual-composer.php:1366
+#: sitesao-core/includes/visual-composer.php:2747
+msgid "Yes"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1693
+msgid "Product Image Lazy Loading"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1694
+msgid "Lazy load product catalog images when scrolling down the page."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1702
+msgid "Mobile Cart Icon"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1703
+msgid ""
+"This will show on mobile menu a shop icon with the number of cart items."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1709
+msgid "List Product Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1714
+msgid "Shop Layout"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1715
+msgid "Select shop layout."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1726
+msgid "Product Category Layout"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1727
+msgid "Select product category layout."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1738
+msgid "Product Tag Layout"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1739
+msgid "Select product tag layout."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1750
+msgid "Product Brand Layout"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1751
+msgid "Select product brand layout."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1762
+msgid "Product lookbook Layout"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1763
+msgid "Select product lookbook layout."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1774
+msgid "Default View Mode"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1775
+msgid "Select default view mode"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1778
+#: sitesao-core/includes/visual-composer.php:1300
+#: sitesao-core/includes/visual-composer.php:2775
+#: sitesao-core/includes/woocommerce.php:263
+msgid "Grid"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1784
+msgid "Grid Product Style"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1787
+#: sitesao-core/includes/visual-composer.php:1231
+#: sitesao-core/includes/visual-composer.php:2993
+#: sitesao-core/includes/visual-composer.php:3183
+msgid "Style 1"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1788
+#: sitesao-core/includes/visual-composer.php:1231
+#: sitesao-core/includes/visual-composer.php:2994
+#: sitesao-core/includes/visual-composer.php:3184
+msgid "Style 2"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1789
+#: sitesao-core/includes/visual-composer.php:1231
+#: sitesao-core/includes/visual-composer.php:3185
+msgid "Style 3"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1793
+msgid "Choose grid product style."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1797
+msgid "List Products per Rows"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1807
+msgid "Choose Products per Rows."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1812
+msgid "User Shop Ajax Filter"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1813
+msgid "Show/hide shop ajax filter in shop or Product Taxonomy archive page."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1816
+msgid "Only Shop"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1817
+msgid "Only Product Taxonomy archive Page"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1818
+msgid "Shop and Category Page"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1825
+msgid "User border in product"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1826
+msgid "Show/hide border in product."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1852
+msgid "Number of Products per Page"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1853
+msgid "Enter the products of posts to display per page."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1858
+msgid "Single Product Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1863
+msgid "Single Product Layout"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1864
+msgid "Select single product layout."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1875
+msgid "Single Product style"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1876
+msgid "Select Single Product style."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1880
+msgid "Scroll"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1881
+msgid "Classic"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1887
+msgid "Single Product Popup Type"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1888
+msgid "Select Single Product Popup Type."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1891
+#: sitesao-core/includes/visual-composer.php:2595
+msgid "Popup"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1892
+msgid "Zoom"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1898
+msgid "Show Single Product Meta"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1899
+msgid "Activate this to enable product meta."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1906
+msgid "Activate this to enable social sharing buttons."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1949
+msgid "Show Custom Tab in single product"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1957
+msgid "Custom Tab Titlte"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1962
+msgid "Show Instagram in single product"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1970
+msgid "Instagram Titlte"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1977
+msgid "Instagram User"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1984
+msgid "Social API"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1985
+msgid "<p class=\"description\">Social API"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1990
+msgid "Facebook Login Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1996
+msgid "Use Facebook login"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:1997
+msgid "Enable or disable Login/Register with Facebook"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2003
+msgid "Facebook App ID"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2004
+#, php-format
+msgid ""
+"Use Facebook login you need to enter your Facebook App ID. If you don't have "
+"one, you can create it from: <a target=\"_blank\" href=\"%s\">Here</a>"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2009
+msgid "MailChimp Settings"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2014
+msgid "MailChimp API Key"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2015
+#, php-format
+msgid ""
+"Enter your API Key.<a target=\"_blank\" href=\"%s\">Get your API key</a>"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2021
+msgid "MailChimp List"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2022
+msgid ""
+"After you add your MailChimp API Key above and save it this list will be "
+"populated."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2027
+msgid "Enable Double Opt-In"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2028
+#, php-format
+msgid "Learn more about <a target=\"_blank\" href=\"%s\">Double Opt-in</a>."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2033
+msgid "Send Welcome Email"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2034
+#, php-format
+msgid ""
+"If your Double Opt-in is false and this is true, MailChimp will send your "
+"lists Welcome Email if this subscribe succeeds - this will not fire if "
+"MailChimp ends up updating an existing subscriber. If Double Opt-in is true, "
+"this has no effect. Learn more about <a target=\"_blank\" href=\"%s"
+"\">Welcome Emails</a>."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2039
+msgid "MailChimp Group Name"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2040
+#, php-format
+msgid ""
+"Optional: Enter the name of the group. Learn more about <a target=\"_blank\" "
+"href=\"%s\">Groups</a>"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2045
+msgid "MailChimp Group"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2046
+msgid "Optional: Comma delimited list of interest groups to add the email to."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2051
+msgid "MailChimp Replace Interests"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2052
+msgid ""
+"Whether MailChimp will replace the interest groups with the groups provided "
+"or add the provided groups to the member interest groups."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2062
+msgid "Social Profile"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2063
+msgid ""
+"<p class=\"description\">Enter in your profile media locations here."
+"<br><strong>Remember to include the \"http://\" in all URLs!</strong></p>"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2068
+msgid "Facebook URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2073
+msgid "Twitter URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2078
+msgid "Google+ URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2083
+msgid "Pinterest URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2088
+msgid "LinkedIn URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2093
+msgid "RSS URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2098
+msgid "Instagram URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2103
+msgid "GitHub URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2108
+msgid "Behance URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2113
+msgid "Stack Exchange URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2118
+msgid "Tumblr URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2123
+msgid "SoundCloud URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2128
+msgid "Dribbble URL"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2134
+msgid "Import and Export"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2139
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2144
+msgid ""
+"Here you can download your current option settings.You can use it to restore "
+"your settings on this site (or any other site)."
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2150
+msgid "Custom Code"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2155
+msgid "Custom Style"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2156
+msgid "Place you custom style here"
+msgstr ""
+
+#: sitesao-core/includes/admin/theme-options.php:2176
+msgid "You want reset all options ?"
+msgstr ""
+
+#: sitesao-core/includes/breadcrumb.php:14
+msgid "Home"
+msgstr ""
+
+#: sitesao-core/includes/breadcrumb.php:113
+#, php-format
+msgid "Weekly Archive for: \"%s\""
+msgstr ""
+
+#: sitesao-core/includes/breadcrumb.php:115
+#, php-format
+msgid "Daily Archive for: \"%s\""
+msgstr ""
+
+#: sitesao-core/includes/breadcrumb.php:117
+#, php-format
+msgid "Monthly Archive for: \"%s\""
+msgstr ""
+
+#: sitesao-core/includes/breadcrumb.php:119
+#, php-format
+msgid "Yearly Archive for: \"%s\""
+msgstr ""
+
+#: sitesao-core/includes/breadcrumb.php:123
+#, php-format
+msgid "Author Archive for: \"%s\""
+msgstr ""
+
+#: sitesao-core/includes/breadcrumb.php:128
+#: sitesao-core/includes/functions.php:976
+msgid "Search"
+msgstr ""
+
+#: sitesao-core/includes/breadcrumb.php:132
+msgid "Page Not Found"
+msgstr ""
+
+#: sitesao-core/includes/breadcrumb.php:177
+msgid "Split"
+msgstr ""
+
+#: sitesao-core/includes/breadcrumb.php:180
+msgid "Merge"
+msgstr ""
+
+#: sitesao-core/includes/breadcrumb.php:183
+#: sitesao-core/includes/breadcrumb.php:197
+#: sitesao-core/includes/breadcrumb.php:217
+#: sitesao-core/includes/functions.php:949
+#: sitesao-core/includes/post-type-slider.php:741
+msgid "Edit"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:36
+msgid "Authenication required."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:47
+msgid "Please connect your facebook account."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:60
+msgid "Registration is not open at this time. Please come back later."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:63
+msgid ""
+"Registration using Facebook is not currently allowed. Please use our "
+"Register page"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:77
+msgid ""
+"Your facebook account is not verified. You have to verify your account "
+"before proceed login or registering on this site."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:82
+msgid ""
+"Please click again to login with Facebook and allow the application to use "
+"your email address"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:86
+msgid ""
+"We didn't find your name. Please complete your facebook account before "
+"proceeding."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:124
+#: sitesao-core/includes/controller.php:142
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:150
+msgid "Your session is expired or you submitted an invalid form."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:170
+msgid "Registration complete."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:177
+msgid "Not allow register in site."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:190
+msgid "Please enter a username."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:192
+msgid ""
+"This username is invalid because it uses illegal characters. Please enter a "
+"valid username."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:195
+msgid "This username is already registered. Please choose another one."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:200
+msgid "Please type your email address."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:202
+msgid "The email address isn't correct."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:205
+msgid "This email is already registered, please choose another one."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:213
+msgid "Password must be 6 character long."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:215
+msgid "Not see password confirmation field."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:217
+msgid "Passwords do not match."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:236
+msgid "Couldn't register you... please contact the site administrator"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:264
+#, php-format
+msgid "Welcome to [%1$s]"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:267
+#, php-format
+msgid ""
+"Hi %1$s,<br/><br/>\n"
+"You've just successfully registered an account on %2$s.<br/>\n"
+"Start reading now! %3$s\n"
+"<br/><br/>\n"
+"Best regards,<br/>\n"
+"%4$s"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:282
+#: sitesao-core/includes/controller.php:288
+#, php-format
+msgid ""
+"You are already logged in. Please <a href=\"#\" onclick=\"%s\">refresh</a> "
+"page"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:301
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:305
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+"sitesao"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:324
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:363
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:399
+msgid "Could not save password reset key to database."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:404
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:406
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:407
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:408
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:420
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:442
+msgid "Failure!"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:443
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: sitesao-core/includes/controller.php:447
+msgid "Email successfully sent!"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:472
+#: sitesao-core/includes/controller.php:474
+msgid "Verify Nonce Failed"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:478
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:480
+msgid "Invalid Email"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:529
+msgid "<strong>Well done!</strong> Subscribe to our Newsletter successful!"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:531
+msgid "Can not subscribe our Newsletter"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:559
+msgid "No results matched!"
+msgstr ""
+
+#: sitesao-core/includes/controller.php:615
+msgid "View all results"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:40
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: sitesao-core/includes/functions.php:43
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: sitesao-core/includes/functions.php:50
+#: sitesao-core/includes/functions.php:61
+#: sitesao-core/includes/functions.php:65
+#: sitesao-core/includes/functions.php:134
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: sitesao-core/includes/functions.php:106
+msgid "Instagram Image"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:591
+msgid "Facebook"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:595
+msgid "Twitter"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:599
+msgid "Google+"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:603
+msgid "Pinterest"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:607
+msgid "LinkedIn"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:611
+msgid "RSS"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:615
+#: sitesao-core/includes/visual-composer.php:619
+msgid "Instagram"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:619
+msgid "GitHub"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:623
+msgid "Behance"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:627
+msgid "StackExchange"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:631
+msgid "Tumblr"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:635
+msgid "SoundCloud"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:639
+msgid "Dribbble"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:706
+msgid "Share on Google +"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:716
+msgid "Share on Linked In"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:890
+msgid "Related News"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:912
+msgid "Read More"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:941
+#: sitesao-core/includes/visual-composer.php:3026
+msgid "Author"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:946
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:954
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: sitesao-core/includes/functions.php:962
+msgid "Reply"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:975
+#: sitesao-core/includes/functions.php:1965
+msgid "Search..."
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1006
+msgid "Name *"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1009
+msgid "Email *"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1011
+#: sitesao-core/includes/functions.php:1012
+msgid "Website"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1016
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1017
+msgid "Leave a reply"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1018
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1019
+msgid "Click here to cancel the reply"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1020
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:276
+msgid "Submit"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1022
+#: sitesao-core/includes/functions.php:1634
+#: sitesao-core/includes/functions.php:1637
+msgid "Comment"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1023
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1037
+msgid "words"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1092
+#: sitesao-core/includes/functions.php:1103
+msgid "%title"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1097
+msgid "Previous article"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1108
+msgid "Next article"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1146
+msgid "Archive for date:"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1150
+msgid "Archive for month:"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1154
+msgid "Archive for year:"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1163
+msgid "search results for"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1167
+msgid "search result for"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1174
+msgid "Search results for"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1178
+msgid "To search the site please enter a valid term"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1206
+msgid "404 - Page not found"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1214
+msgid "Page"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1226
+msgid "My Portfolio"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1608
+#, php-format
+msgid "Posts by: %s"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1633
+#, php-format
+msgid "Leave a comment on: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1636
+#, php-format
+msgid "View a comment on: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1639
+#, php-format
+msgid "View all comments on: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1640
+msgid "Comments"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1703
+#, php-format
+msgid "%d/%d"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:1972
+#: sitesao-core/includes/visual-composer.php:936
+msgid "Product"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:2007
+msgid "Popular"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:2025
+#, php-format
+msgid "%s Comment"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:2035
+msgid "Recent"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:2085
+msgid "Not Subscribe to Mailchimp!"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:2087
+msgid "Subscribe to Mailchimp Successful!"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:2094 sitesao-core/includes/hook.php:367
+msgid "Subscribe"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:2095
+msgid "Enter your email..."
+msgstr ""
+
+#: sitesao-core/includes/functions.php:2097
+msgid "sign up"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:2981
+msgid "Welcome to"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:2982
+msgid "Vicky Restaurant"
+msgstr ""
+
+#: sitesao-core/includes/functions.php:2983
+msgid "A premium Restaurant WordPress theme"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:66
+msgid "Google+ Profile URL"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:67
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:68
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:69
+msgid "LinkedIn Profile URL"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:70
+msgid "Pinterest Profile URL"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:128 sitesao-core/includes/hook.php:131
+msgid "Theme options"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:290 sitesao-core/includes/hook.php:441
+msgid "or"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:335
+msgid "Sign in with Facebook"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:362
+msgid "Your email"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:387
+msgid "Login"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:399 sitesao-core/includes/hook.php:400
+#: sitesao-core/includes/hook.php:444 sitesao-core/includes/hook.php:445
+msgid "Username"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:403 sitesao-core/includes/hook.php:404
+#: sitesao-core/includes/hook.php:452 sitesao-core/includes/hook.php:453
+msgid "Password"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:408
+msgid "Remember Me"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:411
+msgid "Lost your password?"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:419
+msgid "Not a Member yet?"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:421
+msgid "Sign in"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:434
+msgid "Register account"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:456 sitesao-core/includes/hook.php:457
+msgid "Retype password"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:463 sitesao-core/includes/hook.php:490
+msgid "Already have an account?"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:464
+msgid "Register"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:477
+msgid "Forgot Password"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:483
+msgid "Username or E-mail:"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:484
+msgid "Username or E-mail"
+msgstr ""
+
+#: sitesao-core/includes/hook.php:491
+msgid "Reset Password"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:23
+msgid "100"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:24
+msgid "200"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:25
+msgid "200 Italic"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:26
+msgid "300"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:27
+msgid "300 Italic"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:28
+msgid "Regular"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:29
+msgid "Italic"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:30
+msgid "600"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:31
+msgid "600 Italic"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:32
+msgid "700"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:33
+msgid "700 Italic"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:34
+msgid "800"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:35
+msgid "800 Italic"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:36
+msgid "900"
+msgstr ""
+
+#: sitesao-core/includes/lib/google-fonts.php:37
+msgid "900 Italic"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:35
+msgid "Sidebar Generator"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:162
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:193
+#: sitesao-core/includes/visual-composer.php:3387
+#: sitesao-core/includes/visual-composer.php:3688
+msgid "Remove"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:163
+msgid "You've made changes, don't forget to save."
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:164
+msgid "Changes were saved successfully."
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:165
+msgid "An unexpected error ocurred."
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:166
+msgid "The sidebar was successfully created."
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:167
+msgid "The sidebar already exists. Please change the name."
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:168
+msgid "Please enter a name for this sidebar."
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:169
+msgid "Are you sure? If you remove this sidebar it can't be restored."
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:170
+msgid "Sidebar Removed"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:171
+msgid "Data imported successfully."
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:188
+msgid "Add new"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:189
+msgid "Save Changes"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:190
+msgid "Sidebar Name:"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:191
+msgid "ID:"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:192
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:304
+msgid "Shortcode:"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:213
+msgid "Sidebars"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:216
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:303
+msgid "How to use?"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:284
+msgid "Copy text from textarea:"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:293
+msgid "Paste exported data in textarea:"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:305
+msgid ""
+"Paste the shortcode anywhere you want, in posts, pages etc. If the input "
+"accept shortcodes, then the sidebar will be displayed."
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:307
+msgid "Function:"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:308
+msgid ""
+"You can use the built-in function, but for this you should modify theme "
+"files and make sure to check if the function exists before use it."
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:314
+msgid "WP Native function:"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:315
+msgid ""
+"You can use the built-in function <em>smk_sidebar</em>, but anyways I "
+"recommend using WP native function to avoid conflicts."
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:321
+msgid "For more info visit the following links:"
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:374
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:378
+msgid "Data is not valid."
+msgstr ""
+
+#: sitesao-core/includes/lib/smk-sidebar-generator/smk-sidebar-generator.php:384
+msgid "Please enter data."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/parsers.php:42
+#: sitesao-core/includes/lib/wordpress-importer/parsers.php:72
+#: sitesao-core/includes/lib/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/parsers.php:84
+#: sitesao-core/includes/lib/wordpress-importer/parsers.php:89
+#: sitesao-core/includes/lib/wordpress-importer/parsers.php:279
+#: sitesao-core/includes/lib/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:124
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:133
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:184
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:188
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:197
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:125
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:168
+msgid "All done."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:168
+msgid "Have fun!"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:169
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:189
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:205
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:230
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:256
+msgid "Assign Authors"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:257
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:259
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:269
+msgid "Import Attachments"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:272
+msgid "Download and import file attachments"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:289
+msgid "Import author:"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:300
+msgid "or create new user with login name:"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:303
+msgid "as a new user:"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:311
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:313
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:314
+msgid "- Select -"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:364
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:415
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:455
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:501
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:642
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:549
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:608
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:773
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:780
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:843
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:856
+msgid "Invalid file type"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:900
+msgid "Remote server did not respond"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:906
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:913
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:918
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:924
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:1023
+msgid "Import WordPress"
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:1030
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:1045
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: sitesao-core/includes/lib/wordpress-importer/wordpress-importer.php:1046
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:254
+#: sitesao-core/includes/post-type-slider.php:315
+msgid "Slider Layout"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:257
+#: sitesao-core/includes/post-type-slider.php:319
+msgid "Full Screen"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:261
+#: sitesao-core/includes/post-type-slider.php:324
+msgid "Slider Width"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:263
+#: sitesao-core/includes/post-type-slider.php:327
+msgid "Enter 100% to full width"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:266
+#: sitesao-core/includes/post-type-slider.php:331
+msgid "Slider Height"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:270
+#: sitesao-core/includes/post-type-slider.php:337
+msgid "Auto Run"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:277
+#: sitesao-core/includes/post-type-slider.php:346
+msgid "Duration"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:435
+#: sitesao-core/includes/post-type-slider.php:578
+msgid "Caption"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:436
+#: sitesao-core/includes/post-type-slider.php:766
+#: sitesao-core/includes/visual-composer.php:645
+#: sitesao-core/includes/visual-composer.php:1300
+#: sitesao-core/includes/visual-composer.php:3272
+msgid "Slider"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:470
+#: sitesao-core/includes/post-type-slider.php:480
+msgid "No image added"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:493
+msgid "Slide Settings"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:500
+msgid "Background Type"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:501
+msgid "Please select the background type for your slide."
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:506
+msgid "Video"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:511
+msgid "Slide Background Image"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:512
+msgid "Click the \"Upload\" button to begin uploading your image"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:535
+msgid "Preview Image"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:536
+msgid ""
+"Image should be at least 680px wide. Click the \"Upload\" button to begin "
+"uploading your image"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:544
+msgid "Caption Align"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:545
+msgid "Caption align"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:556
+msgid "Top Small Heading"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:557
+msgid "Please enter in the top small heading for your slide"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:562
+msgid "Small Heading Color"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:567
+msgid "Heading"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:568
+msgid "Please enter in the heading for your slide"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:573
+msgid "Heading Color"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:579
+msgid "Please enter in the caption for your slide"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:584
+msgid "Caption Color"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:590
+msgid "Link Type"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:591
+msgid "Please select the link type for your slide."
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:595
+msgid "Button Link"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:596
+msgid "Link"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:602
+msgid "Please enter URL"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:607
+msgid "Button #1 Text"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:608
+msgid "Please enter text for button #1"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:613
+msgid "Button #1 Link"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:614
+msgid "Please enter link for button #1 (remember to include \"http://\")"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:620
+msgid "Button #1 Style"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:621
+#: sitesao-core/includes/post-type-slider.php:632
+msgid "Please select style for button #1"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:625
+#: sitesao-core/includes/post-type-slider.php:664
+msgid "Solid Background"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:626
+#: sitesao-core/includes/post-type-slider.php:665
+#: sitesao-core/includes/widget.php:227
+msgid "Outlined"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:631
+msgid "Button #1 Color"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:636
+#: sitesao-core/includes/post-type-slider.php:675
+#: sitesao-core/includes/visual-composer.php:793
+#: sitesao-core/includes/visual-composer.php:2479
+msgid "Primary"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:637
+#: sitesao-core/includes/post-type-slider.php:676
+#: sitesao-core/includes/visual-composer.php:794
+#: sitesao-core/includes/visual-composer.php:2480
+msgid "Success"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:638
+#: sitesao-core/includes/post-type-slider.php:677
+#: sitesao-core/includes/visual-composer.php:795
+#: sitesao-core/includes/visual-composer.php:2481
+msgid "Info"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:639
+#: sitesao-core/includes/post-type-slider.php:678
+#: sitesao-core/includes/visual-composer.php:796
+#: sitesao-core/includes/visual-composer.php:2482
+msgid "Warning"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:640
+#: sitesao-core/includes/post-type-slider.php:679
+#: sitesao-core/includes/visual-composer.php:797
+#: sitesao-core/includes/visual-composer.php:2483
+msgid "Danger"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:641
+#: sitesao-core/includes/post-type-slider.php:680
+#: sitesao-core/includes/visual-composer.php:2484
+#: sitesao-core/includes/visual-composer.php:3168
+#: sitesao-core/includes/visual-composer.php:3213
+msgid "White"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:646
+msgid "Button #2 Text"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:647
+msgid "Please enter text for button #2"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:652
+msgid "Button #2 Link"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:653
+msgid "Please enter link for button #2 (remember to include \"http://\")"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:659
+msgid "Button #2 Style"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:660
+#: sitesao-core/includes/post-type-slider.php:671
+msgid "Please select style for button #2"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:670
+msgid "Button #2 Color"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:736
+#: sitesao-core/includes/post-type-slider.php:738
+msgid "DHSlides"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:737
+#: sitesao-core/includes/post-type-slider.php:751
+msgid "DHSlide"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:739
+msgid "Add New"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:740
+msgid "Add New Slide"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:742
+msgid "Edit DHSlide"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:743
+msgid "New DHSlide"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:744
+#: sitesao-core/includes/post-type-slider.php:745
+msgid "View DHSlide"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:746
+msgid "Search DHSlides"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:747
+msgid "No DHSlides found"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:748
+msgid "No DHSlides found in trash"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:749
+msgid "Parent DHSlide"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:765
+#: sitesao-core/includes/post-type-slider.php:773
+msgid "Sliders"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:767
+msgid "Search Sliders"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:768
+msgid "All Sliders"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:769
+msgid "Edit Slider"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:770
+msgid "Update Slider"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:771
+msgid "Add New Slider"
+msgstr ""
+
+#: sitesao-core/includes/post-type-slider.php:772
+msgid "New Slider"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:4
+msgid "Add Item"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:5
+msgid "Item"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:6
+msgid "Move"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:509
+#: sitesao-core/includes/visual-composer.php:541
+msgid "Id"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:511
+msgid "Slug"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:533
+msgid "Sku"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:557
+#: sitesao-core/includes/visual-composer.php:2386
+msgid "Button"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:558
+msgid "Eye catching button."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:559
+#: sitesao-core/includes/visual-composer.php:569
+#: sitesao-core/includes/visual-composer.php:579
+#: sitesao-core/includes/visual-composer.php:589
+#: sitesao-core/includes/visual-composer.php:598
+#: sitesao-core/includes/visual-composer.php:608
+#: sitesao-core/includes/visual-composer.php:618
+#: sitesao-core/includes/visual-composer.php:635
+#: sitesao-core/includes/visual-composer.php:653
+#: sitesao-core/includes/visual-composer.php:677
+#: sitesao-core/includes/visual-composer.php:687
+#: sitesao-core/includes/visual-composer.php:713
+#: sitesao-core/includes/visual-composer.php:720
+#: sitesao-core/includes/visual-composer.php:733
+#: sitesao-core/includes/visual-composer.php:743
+#: sitesao-core/includes/visual-composer.php:753
+msgid "Sitesao"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:567
+msgid "Menu Anchor"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:568
+msgid "Add a menu anchor points."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:577
+msgid "Post"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:578
+msgid "Display post."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:587
+msgid "Post Zigzag"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:588
+msgid "Display post with 2 styles."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:599
+#: sitesao-core/includes/widget.php:628
+msgid "Mailchimp Subscribe"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:600
+#: sitesao-core/includes/widget.php:626
+msgid "Widget Mailchimp Subscribe."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:609
+msgid "Box Feature"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:610
+msgid "Box Feature."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:620
+msgid "Instagram."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:636
+msgid "DH Slider"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:637
+msgid "Display DH Slider."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:648
+msgid "Select a slider."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:654
+msgid "Carousel Content"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:655
+msgid "Animated carousel with carousel"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:669
+#: sitesao-core/includes/visual-composer.php:702
+msgid "Item 1"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:670
+#: sitesao-core/includes/visual-composer.php:703
+msgid "Item 2"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:671
+#: sitesao-core/includes/visual-composer.php:704
+msgid "Item 3"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:675
+msgid "Carousel Item"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:686
+msgid "Testimonial"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:688
+msgid "Animated Testimonial with slider"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:708
+msgid "Testimonial Item"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:719
+msgid "Video Player"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:728
+msgid "Counter"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:729
+msgid "Display Counter."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:738
+msgid "Coundown"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:739
+msgid "Display Countdown."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:748
+msgid "Client"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:749
+msgid "Display list clients."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:765
+msgid "Product Slider"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:766
+msgid "Animated products with carousel."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:770
+#: sitesao-core/includes/visual-composer.php:938
+#: sitesao-core/includes/visual-composer.php:954
+#: sitesao-core/includes/visual-composer.php:981
+#: sitesao-core/includes/visual-composer.php:997
+#: sitesao-core/includes/visual-composer.php:1073
+#: sitesao-core/includes/visual-composer.php:1146
+#: sitesao-core/includes/visual-composer.php:1211
+#: sitesao-core/includes/visual-composer.php:1284
+#: sitesao-core/includes/visual-composer.php:1307
+#: sitesao-core/includes/visual-composer.php:1372
+#: sitesao-core/includes/visual-composer.php:1388
+#: sitesao-core/includes/visual-composer.php:1404
+#: sitesao-core/includes/visual-composer.php:1421
+#: sitesao-core/includes/visual-composer.php:1468
+#: sitesao-core/includes/visual-composer.php:1530
+#: sitesao-core/includes/visual-composer.php:1579
+#: sitesao-core/includes/visual-composer.php:1628
+#: sitesao-core/includes/visual-composer.php:1653
+#: sitesao-core/includes/visual-composer.php:1702
+#: sitesao-core/includes/visual-composer.php:1751
+#: sitesao-core/includes/visual-composer.php:1811
+#: sitesao-core/includes/visual-composer.php:1849
+#: sitesao-core/includes/visual-composer.php:1859
+#: sitesao-core/includes/visual-composer.php:1869
+#: sitesao-core/includes/visual-composer.php:1880
+#: sitesao-core/includes/visual-composer.php:1890
+msgid "WooCommerce"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:779
+#: sitesao-core/includes/visual-composer.php:2865
+msgid "Carousel Title"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:782
+#: sitesao-core/includes/visual-composer.php:2859
+#: sitesao-core/includes/visual-composer.php:2868
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:787
+msgid "Title color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:801
+#: sitesao-core/includes/visual-composer.php:2872
+#: sitesao-core/includes/visual-composer.php:2997
+msgid "Transition"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:813
+#: sitesao-core/includes/visual-composer.php:2884
+#: sitesao-core/includes/visual-composer.php:3009
+msgid "Indicates which effect to use for the transition."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:827
+#: sitesao-core/includes/visual-composer.php:2894
+msgid "Transition Scroll Speed (ms)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:837
+#: sitesao-core/includes/visual-composer.php:2903
+msgid "Easing"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:874
+#: sitesao-core/includes/visual-composer.php:2940
+msgid ""
+"Select the animation easing you would like for slide transitions <a href="
+"\"http://jqueryui.com/resources/demos/effect/easing.html\" target=\"_blank"
+"\"> Click here </a> to see examples of these."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:879
+#: sitesao-core/includes/visual-composer.php:2944
+msgid "Item no Padding ?"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:881
+#: sitesao-core/includes/visual-composer.php:2946
+msgid "Item No Padding"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:882
+#: sitesao-core/includes/visual-composer.php:888
+#: sitesao-core/includes/visual-composer.php:894
+#: sitesao-core/includes/visual-composer.php:900
+#: sitesao-core/includes/visual-composer.php:1056
+#: sitesao-core/includes/visual-composer.php:1062
+#: sitesao-core/includes/visual-composer.php:1068
+#: sitesao-core/includes/visual-composer.php:1929
+#: sitesao-core/includes/visual-composer.php:2077
+#: sitesao-core/includes/visual-composer.php:2083
+#: sitesao-core/includes/visual-composer.php:2090
+#: sitesao-core/includes/visual-composer.php:2096
+#: sitesao-core/includes/visual-composer.php:2217
+#: sitesao-core/includes/visual-composer.php:2223
+#: sitesao-core/includes/visual-composer.php:2666
+#: sitesao-core/includes/visual-composer.php:2673
+#: sitesao-core/includes/visual-composer.php:2681
+#: sitesao-core/includes/visual-composer.php:2687
+#: sitesao-core/includes/visual-composer.php:2703
+#: sitesao-core/includes/visual-composer.php:2709
+#: sitesao-core/includes/visual-composer.php:2716
+#: sitesao-core/includes/visual-composer.php:2722
+#: sitesao-core/includes/visual-composer.php:2728
+#: sitesao-core/includes/visual-composer.php:2737
+#: sitesao-core/includes/visual-composer.php:2808
+#: sitesao-core/includes/visual-composer.php:2814
+#: sitesao-core/includes/visual-composer.php:2820
+#: sitesao-core/includes/visual-composer.php:2826
+#: sitesao-core/includes/visual-composer.php:2832
+#: sitesao-core/includes/visual-composer.php:2838
+#: sitesao-core/includes/visual-composer.php:2947
+#: sitesao-core/includes/visual-composer.php:2952
+#: sitesao-core/includes/visual-composer.php:2957
+#: sitesao-core/includes/visual-composer.php:2962
+#: sitesao-core/includes/visual-composer.php:2975
+#: sitesao-core/includes/visual-composer.php:3055
+#: sitesao-core/includes/visual-composer.php:3206
+#: sitesao-core/includes/visual-composer.php:3280
+msgid "Yes,please"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:886
+#: sitesao-core/includes/visual-composer.php:2950
+msgid "Autoplay ?"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:892
+#: sitesao-core/includes/visual-composer.php:2955
+#: sitesao-core/includes/visual-composer.php:3277
+msgid "Hide Slide Pagination ?"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:898
+#: sitesao-core/includes/visual-composer.php:2960
+msgid "Hide Previous/Next Control ?"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:904
+msgid "Previous/Next Control Position"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:910
+msgid "Center with Title"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:911
+msgid "Right with Title"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:929
+#: sitesao-core/includes/visual-composer.php:3347
+msgid "(Optional) Extra class name"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:932
+#: sitesao-core/includes/visual-composer.php:1936
+#: sitesao-core/includes/visual-composer.php:1962
+#: sitesao-core/includes/visual-composer.php:2017
+#: sitesao-core/includes/visual-composer.php:2044
+#: sitesao-core/includes/visual-composer.php:2103
+#: sitesao-core/includes/visual-composer.php:2131
+#: sitesao-core/includes/visual-composer.php:2158
+#: sitesao-core/includes/visual-composer.php:2230
+#: sitesao-core/includes/visual-composer.php:2263
+#: sitesao-core/includes/visual-composer.php:2296
+#: sitesao-core/includes/visual-composer.php:2329
+#: sitesao-core/includes/visual-composer.php:3351
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:941
+msgid "Display a single product."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:946
+#: sitesao-core/includes/visual-composer.php:962
+#: sitesao-core/includes/visual-composer.php:989
+#: sitesao-core/includes/visual-composer.php:1380
+#: sitesao-core/includes/visual-composer.php:1396
+#: sitesao-core/includes/visual-composer.php:1412
+msgid "Select product"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:952
+msgid "Special Product"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:957
+msgid "Display a single Special product."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:969
+msgid "Product Image"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:973
+msgid ""
+"Select image from media library. If blank will use default Product Image"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:979
+msgid "Product Page"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:984
+msgid "Show a single product page."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:995
+msgid "Product Masonry"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1000
+msgid "List products with Masonry layout."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1005
+#: sitesao-core/includes/visual-composer.php:1081
+#: sitesao-core/includes/visual-composer.php:1154
+#: sitesao-core/includes/visual-composer.php:1219
+#: sitesao-core/includes/visual-composer.php:2652
+#: sitesao-core/includes/visual-composer.php:2849
+#: sitesao-core/includes/widget.php:536
+msgid "Categories"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1012
+#: sitesao-core/includes/visual-composer.php:1088
+#: sitesao-core/includes/visual-composer.php:1498
+#: sitesao-core/includes/visual-composer.php:1538
+#: sitesao-core/includes/visual-composer.php:1587
+#: sitesao-core/includes/visual-composer.php:1636
+#: sitesao-core/includes/visual-composer.php:1661
+#: sitesao-core/includes/visual-composer.php:1710
+#: sitesao-core/includes/visual-composer.php:1771
+#: sitesao-core/includes/visual-composer.php:1819
+msgid "Product Per Page"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1019
+#: sitesao-core/includes/visual-composer.php:1097
+#: sitesao-core/includes/visual-composer.php:1170
+#: sitesao-core/includes/visual-composer.php:1330
+#: sitesao-core/includes/visual-composer.php:1435
+#: sitesao-core/includes/visual-composer.php:1545
+#: sitesao-core/includes/visual-composer.php:1594
+#: sitesao-core/includes/visual-composer.php:1643
+#: sitesao-core/includes/visual-composer.php:1668
+#: sitesao-core/includes/visual-composer.php:1717
+#: sitesao-core/includes/visual-composer.php:1778
+#: sitesao-core/includes/visual-composer.php:1826
+#: sitesao-core/includes/visual-composer.php:2625
+#: sitesao-core/includes/visual-composer.php:2779
+#: sitesao-core/includes/visual-composer.php:2983
+msgid "Columns"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1030
+#: sitesao-core/includes/visual-composer.php:2191
+msgid "All Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1031
+#: sitesao-core/includes/visual-composer.php:1700
+#: sitesao-core/includes/visual-composer.php:2192
+msgid "Featured Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1032
+#: sitesao-core/includes/visual-composer.php:2193
+msgid "On-sale Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1037
+#: sitesao-core/includes/visual-composer.php:2069
+#: sitesao-core/includes/visual-composer.php:2199
+#: sitesao-core/includes/visual-composer.php:2642
+#: sitesao-core/includes/visual-composer.php:2797
+#: sitesao-core/includes/widget.php:526
+msgid "Order by"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1040
+#: sitesao-core/includes/visual-composer.php:2201
+msgid "Date"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1041
+#: sitesao-core/includes/visual-composer.php:1117
+#: sitesao-core/includes/visual-composer.php:1188
+#: sitesao-core/includes/visual-composer.php:1348
+#: sitesao-core/includes/visual-composer.php:1453
+#: sitesao-core/includes/visual-composer.php:1515
+#: sitesao-core/includes/visual-composer.php:1563
+#: sitesao-core/includes/visual-composer.php:1612
+#: sitesao-core/includes/visual-composer.php:1686
+#: sitesao-core/includes/visual-composer.php:1735
+#: sitesao-core/includes/visual-composer.php:1796
+#: sitesao-core/includes/visual-composer.php:1844
+#: sitesao-core/includes/visual-composer.php:2202
+msgid "Price"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1042
+#: sitesao-core/includes/visual-composer.php:1113
+#: sitesao-core/includes/visual-composer.php:1184
+#: sitesao-core/includes/visual-composer.php:1344
+#: sitesao-core/includes/visual-composer.php:1449
+#: sitesao-core/includes/visual-composer.php:1511
+#: sitesao-core/includes/visual-composer.php:1559
+#: sitesao-core/includes/visual-composer.php:1608
+#: sitesao-core/includes/visual-composer.php:1682
+#: sitesao-core/includes/visual-composer.php:1731
+#: sitesao-core/includes/visual-composer.php:1792
+#: sitesao-core/includes/visual-composer.php:1840
+#: sitesao-core/includes/visual-composer.php:2203
+msgid "Random"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1043
+#: sitesao-core/includes/visual-composer.php:2204
+msgid "Sales"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1050
+#: sitesao-core/includes/visual-composer.php:2211
+msgid "ASC"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1050
+#: sitesao-core/includes/visual-composer.php:2211
+msgid "DESC"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1054
+msgid "Hide All Filter Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1060
+#: sitesao-core/includes/visual-composer.php:2215
+msgid "Hide free products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1066
+#: sitesao-core/includes/visual-composer.php:2221
+msgid "Show hidden products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1071
+msgid "Product Category"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1076
+msgid "List products in a category shortcode."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1106
+#: sitesao-core/includes/visual-composer.php:1178
+#: sitesao-core/includes/visual-composer.php:1252
+#: sitesao-core/includes/visual-composer.php:1338
+#: sitesao-core/includes/visual-composer.php:1443
+#: sitesao-core/includes/visual-composer.php:1505
+#: sitesao-core/includes/visual-composer.php:1553
+#: sitesao-core/includes/visual-composer.php:1602
+#: sitesao-core/includes/visual-composer.php:1676
+#: sitesao-core/includes/visual-composer.php:1725
+#: sitesao-core/includes/visual-composer.php:1786
+#: sitesao-core/includes/visual-composer.php:1834
+msgid "Products Ordering"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1111
+#: sitesao-core/includes/visual-composer.php:1182
+#: sitesao-core/includes/visual-composer.php:1342
+#: sitesao-core/includes/visual-composer.php:1447
+#: sitesao-core/includes/visual-composer.php:1509
+#: sitesao-core/includes/visual-composer.php:1557
+#: sitesao-core/includes/visual-composer.php:1606
+#: sitesao-core/includes/visual-composer.php:1680
+#: sitesao-core/includes/visual-composer.php:1729
+#: sitesao-core/includes/visual-composer.php:1790
+#: sitesao-core/includes/visual-composer.php:1838
+msgid "Publish Date"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1112
+#: sitesao-core/includes/visual-composer.php:1183
+#: sitesao-core/includes/visual-composer.php:1343
+#: sitesao-core/includes/visual-composer.php:1448
+#: sitesao-core/includes/visual-composer.php:1510
+#: sitesao-core/includes/visual-composer.php:1558
+#: sitesao-core/includes/visual-composer.php:1607
+#: sitesao-core/includes/visual-composer.php:1681
+#: sitesao-core/includes/visual-composer.php:1730
+#: sitesao-core/includes/visual-composer.php:1791
+#: sitesao-core/includes/visual-composer.php:1839
+msgid "Modified Date"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1114
+#: sitesao-core/includes/visual-composer.php:1185
+#: sitesao-core/includes/visual-composer.php:1345
+#: sitesao-core/includes/visual-composer.php:1450
+#: sitesao-core/includes/visual-composer.php:1512
+#: sitesao-core/includes/visual-composer.php:1560
+#: sitesao-core/includes/visual-composer.php:1609
+#: sitesao-core/includes/visual-composer.php:1683
+#: sitesao-core/includes/visual-composer.php:1732
+#: sitesao-core/includes/visual-composer.php:1793
+#: sitesao-core/includes/visual-composer.php:1841
+msgid "Alphabetic"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1115
+#: sitesao-core/includes/visual-composer.php:1186
+#: sitesao-core/includes/visual-composer.php:1346
+#: sitesao-core/includes/visual-composer.php:1451
+#: sitesao-core/includes/visual-composer.php:1513
+#: sitesao-core/includes/visual-composer.php:1561
+#: sitesao-core/includes/visual-composer.php:1610
+#: sitesao-core/includes/visual-composer.php:1684
+#: sitesao-core/includes/visual-composer.php:1733
+#: sitesao-core/includes/visual-composer.php:1794
+#: sitesao-core/includes/visual-composer.php:1842
+msgid "Popularity"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1116
+#: sitesao-core/includes/visual-composer.php:1187
+#: sitesao-core/includes/visual-composer.php:1347
+#: sitesao-core/includes/visual-composer.php:1452
+#: sitesao-core/includes/visual-composer.php:1514
+#: sitesao-core/includes/visual-composer.php:1562
+#: sitesao-core/includes/visual-composer.php:1611
+#: sitesao-core/includes/visual-composer.php:1685
+#: sitesao-core/includes/visual-composer.php:1734
+#: sitesao-core/includes/visual-composer.php:1795
+#: sitesao-core/includes/visual-composer.php:1843
+msgid "Rate"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1124
+#: sitesao-core/includes/visual-composer.php:1194
+#: sitesao-core/includes/visual-composer.php:1266
+#: sitesao-core/includes/visual-composer.php:1354
+#: sitesao-core/includes/visual-composer.php:1459
+#: sitesao-core/includes/visual-composer.php:1521
+#: sitesao-core/includes/visual-composer.php:1569
+#: sitesao-core/includes/visual-composer.php:1618
+#: sitesao-core/includes/visual-composer.php:1692
+#: sitesao-core/includes/visual-composer.php:1741
+#: sitesao-core/includes/visual-composer.php:1802
+msgid "Ascending or Descending"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1127
+#: sitesao-core/includes/visual-composer.php:1197
+#: sitesao-core/includes/visual-composer.php:1269
+#: sitesao-core/includes/visual-composer.php:1357
+#: sitesao-core/includes/visual-composer.php:1462
+#: sitesao-core/includes/visual-composer.php:1524
+#: sitesao-core/includes/visual-composer.php:1572
+#: sitesao-core/includes/visual-composer.php:1621
+#: sitesao-core/includes/visual-composer.php:1695
+#: sitesao-core/includes/visual-composer.php:1744
+#: sitesao-core/includes/visual-composer.php:1805
+msgid "Ascending"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1128
+#: sitesao-core/includes/visual-composer.php:1198
+#: sitesao-core/includes/visual-composer.php:1270
+#: sitesao-core/includes/visual-composer.php:1358
+#: sitesao-core/includes/visual-composer.php:1463
+#: sitesao-core/includes/visual-composer.php:1525
+#: sitesao-core/includes/visual-composer.php:1573
+#: sitesao-core/includes/visual-composer.php:1622
+#: sitesao-core/includes/visual-composer.php:1696
+#: sitesao-core/includes/visual-composer.php:1745
+#: sitesao-core/includes/visual-composer.php:1806
+msgid "Descending"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1135
+#: sitesao-core/includes/visual-composer.php:2008
+#: sitesao-core/includes/widget.php:703
+msgid "Query type"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1139
+msgid "IN"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1140
+#: sitesao-core/includes/visual-composer.php:2010
+#: sitesao-core/includes/widget.php:705
+msgid "AND"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1141
+msgid "NOT IN"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1144
+#: sitesao-core/includes/visual-composer.php:2059
+msgid "Product Categories"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1149
+msgid "List all (or limited) product categories."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1161
+#: sitesao-core/includes/visual-composer.php:1243
+#: sitesao-core/includes/visual-composer.php:1321
+#: sitesao-core/includes/visual-composer.php:3047
+msgid "Number"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1165
+#: sitesao-core/includes/visual-composer.php:1247
+msgid ""
+"You can specify the number of category to show (Leave blank to display all "
+"categories)."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1204
+#: sitesao-core/includes/visual-composer.php:1276
+#: sitesao-core/includes/visual-composer.php:1364
+msgid "Hide Empty"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1209
+msgid "Product Categories Grid"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1214
+msgid "Display categories with grid layout."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1228
+msgid "Grid Style"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1237
+msgid "Grid Gutter"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1256
+#: sitesao-core/includes/visual-composer.php:2071
+msgid "Category Order"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1258
+msgid "Term ID"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1259
+msgid "Taxonomy Count"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1260
+msgid "ID"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1282
+#: sitesao-core/lookbook/lookbook.php:44 sitesao-core/lookbook/lookbook.php:46
+msgid "Product Lookbooks"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1287
+msgid "List all products by lookbooks."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1291
+#: sitesao-core/lookbook/lookbook.php:48
+msgid "Lookbooks"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1310
+msgid "List all (or limited) product brands."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1325
+msgid ""
+"You can specify the number of brand to show (Leave blank to display all "
+"brands)."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1370
+msgid "Add To Cart"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1375
+msgid "Display a single product price + cart button."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1386
+#: sitesao-core/includes/visual-composer.php:1402
+msgid "Add To Cart URL"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1391
+msgid "Show URL on the add to cart button."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1407
+msgid "Get the add to cart URL for a product."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1419
+#: sitesao-core/includes/visual-composer.php:2173
+msgid "Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1424
+msgid "List multiple products shortcode."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1429
+#: sitesao-core/includes/visual-composer.php:1492
+msgid "Select products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1466
+msgid "Products Grid"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1471
+msgid "List multiple products grid shortcode."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1477
+msgid "Text Description"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1480
+msgid ""
+"<p>I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo.</p>"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1485
+msgid "Image Description"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1488
+msgid "Select image from media library."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1528
+msgid "Recent Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1533
+msgid "Recent Products shortcode."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1577
+msgid "Sale Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1582
+msgid "List all products on sale."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1626
+msgid "Best Selling Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1631
+msgid "List best selling products on sale."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1651
+#: sitesao-core/includes/visual-composer.php:2311
+msgid "Top Rated Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1656
+msgid "List top rated products on sale."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1705
+msgid "Output featured products."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1749
+msgid "Product Attribute"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1754
+msgid "List products with an attribute shortcode."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1759
+#: sitesao-core/includes/visual-composer.php:1995
+#: sitesao-core/includes/widget.php:697
+msgid "Attribute"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1765
+#: sitesao-core/includes/woocommerce.php:268
+msgid "Filter"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1809
+msgid "Related products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1814
+msgid "Output the related products."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1847
+msgid "Shop Messages"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1853
+msgid "Show messages."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1857
+msgid "Order Tracking"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1863
+msgid "Order tracking page shortcode."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1867
+msgid "Cart"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1873
+msgid "Cart page shortcode."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1878
+#: sitesao-core/includes/woocommerce.php:520
+#: sitesao-core/includes/woocommerce.php:523
+msgid "Checkout"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1884
+msgid "Checkout page shortcode."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1888
+msgid "My Account"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1893
+msgid "My account shortcode."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1898
+msgid "Number of orders"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1903
+msgid ""
+"You can specify the number of orders to show (use -1 to display all orders)."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1909
+msgid "WC Cart"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1911
+#: sitesao-core/includes/visual-composer.php:1942
+#: sitesao-core/includes/visual-composer.php:1977
+#: sitesao-core/includes/visual-composer.php:2024
+#: sitesao-core/includes/visual-composer.php:2051
+#: sitesao-core/includes/visual-composer.php:2111
+#: sitesao-core/includes/visual-composer.php:2138
+#: sitesao-core/includes/visual-composer.php:2165
+#: sitesao-core/includes/visual-composer.php:2237
+#: sitesao-core/includes/visual-composer.php:2270
+#: sitesao-core/includes/visual-composer.php:2303
+msgid "Woocommerce Widgets"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1914
+msgid "Woocommerce Widget Cart."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1919
+#: sitesao-core/includes/visual-composer.php:1951
+#: sitesao-core/includes/visual-composer.php:1986
+#: sitesao-core/includes/visual-composer.php:2033
+#: sitesao-core/includes/visual-composer.php:2060
+#: sitesao-core/includes/visual-composer.php:2120
+#: sitesao-core/includes/visual-composer.php:2147
+#: sitesao-core/includes/visual-composer.php:2174
+#: sitesao-core/includes/visual-composer.php:2246
+#: sitesao-core/includes/visual-composer.php:2279
+#: sitesao-core/includes/visual-composer.php:2312
+msgid "Widget title"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1922
+#: sitesao-core/includes/visual-composer.php:1954
+#: sitesao-core/includes/visual-composer.php:1989
+#: sitesao-core/includes/visual-composer.php:2036
+#: sitesao-core/includes/visual-composer.php:2063
+#: sitesao-core/includes/visual-composer.php:2123
+#: sitesao-core/includes/visual-composer.php:2150
+#: sitesao-core/includes/visual-composer.php:2177
+#: sitesao-core/includes/visual-composer.php:2249
+#: sitesao-core/includes/visual-composer.php:2282
+#: sitesao-core/includes/visual-composer.php:2315
+msgid ""
+"What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1927
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1933
+#: sitesao-core/includes/visual-composer.php:1959
+#: sitesao-core/includes/visual-composer.php:2014
+#: sitesao-core/includes/visual-composer.php:2041
+#: sitesao-core/includes/visual-composer.php:2100
+#: sitesao-core/includes/visual-composer.php:2128
+#: sitesao-core/includes/visual-composer.php:2155
+#: sitesao-core/includes/visual-composer.php:2227
+#: sitesao-core/includes/visual-composer.php:2260
+#: sitesao-core/includes/visual-composer.php:2293
+#: sitesao-core/includes/visual-composer.php:2326
+msgid "Extra class name"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1940
+msgid "WC Layered Nav Filters"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1945
+msgid "Woocommerce Widget Layered Nav Filters."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1950
+msgid "Active Filters"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1975
+msgid "WC Layered Nav"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1980
+msgid "Woocommerce Widget Layered Nav."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:1985
+#: sitesao-core/includes/widget.php:691 sitesao-core/includes/widget.php:1053
+#: sitesao-core/includes/widget.php:1141
+msgid "Filter by"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2002
+#: sitesao-core/includes/visual-composer.php:3269
+msgid "Display type"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2010
+#: sitesao-core/includes/widget.php:706
+msgid "OR"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2022
+msgid "WC Price Filter"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2027
+msgid "Woocommerce Widget Price Filter."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2032
+msgid "Filter by price"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2049
+msgid "WC Product Categories"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2054
+msgid "Woocommerce Widget Product Categories."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2094
+msgid "Only show children of the current category"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2109
+msgid "WC Product Search"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2114
+msgid "Woocommerce Widget Product Search."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2119
+msgid "Search Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2136
+msgid "WC Product Tags"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2141
+msgid "Woocommerce Widget Product Tags."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2146
+msgid "Product Tags"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2163
+msgid "WC Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2168
+msgid "Woocommerce Widget Products."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2183
+#: sitesao-core/includes/visual-composer.php:2255
+#: sitesao-core/includes/visual-composer.php:2288
+#: sitesao-core/includes/visual-composer.php:2321
+msgid "Number of products to show"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2235
+msgid "WC Recent Reviews"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2240
+msgid "Woocommerce Widget Recent Reviews."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2245
+msgid "Recent Reviews"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2268
+msgid "WC Recently Viewed"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2273
+msgid "Woocommerce Widget Recently Viewed."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2278
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2301
+msgid "WC Top Rated Products"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2306
+msgid "Woocommerce Widget Top Rated Products."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2338
+#: sitesao-core/includes/visual-composer.php:2351
+msgid "Row Type"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2344
+#: sitesao-core/includes/visual-composer.php:2357
+msgid "Full Width"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2345
+#: sitesao-core/includes/visual-composer.php:2358
+msgid "In Container"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2364
+msgid "Instagram Username"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2370
+msgid "Number of Images to Show"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2375
+msgid "Check for new images on every (hours)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2387
+msgid "Text on the button."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2390
+msgid "URL (Link)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2392
+msgid "Button link."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2395
+#: sitesao-core/includes/visual-composer.php:3226
+msgid "Target"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2399
+#: sitesao-core/includes/visual-composer.php:3230
+msgid "Same window"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2400
+#: sitesao-core/includes/visual-composer.php:3231
+msgid "New window"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2411
+msgid "Button style."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2414
+msgid "Size"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2419
+msgid "Large"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2420
+msgid "Small"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2421
+msgid "Extra small"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2422
+msgid "Custom size"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2423
+msgid "Button size."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2426
+msgid "Font Size (px)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2434
+msgid "Border Width (px)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2442
+msgid "Padding Top (px)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2450
+#: sitesao-core/includes/visual-composer.php:2466
+msgid "Padding Right (px)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2458
+msgid "Padding Bottom (px)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2474
+#: sitesao-core/includes/visual-composer.php:2978
+msgid "Color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2485
+#: sitesao-core/includes/visual-composer.php:3168
+#: sitesao-core/includes/visual-composer.php:3213
+msgid "Black"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2487
+msgid "Button color."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2490
+msgid "Background Color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2493
+msgid "Select background color for button."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2496
+msgid "Border Color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2499
+msgid "Select border color for button."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2502
+msgid "Text Color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2505
+msgid "Select text color for button."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2508
+msgid "Hover Background Color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2511
+msgid "Select background color for button when hover."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2514
+msgid "Hover Border Color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2517
+msgid "Select border color for button when hover."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2520
+msgid "Hover Text Color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2523
+msgid "Select text color for button when hover."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2526
+msgid "Button Full Width"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2528
+msgid "Yes, please"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2529
+msgid "Button full width of a parent"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2532
+msgid "Alignment"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2539
+msgid "Button alignment (Not use for Button full width)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2542
+msgid "Show Tooltip/Popover"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2548
+msgid "Display a tooltip or popover with descriptive text."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2560
+msgid "Choose the display position."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2563
+msgid "Popover Title"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2568
+msgid "Tip/Popover Content"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2573
+msgid "Tip/Popover trigger"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2578
+msgid "Choose action to trigger the tooltip."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2582
+msgid "Name Of Menu Anchor"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2586
+msgid "This name will be the id you will have to use in your one page menu."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2591
+msgid "Video Type"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2595
+msgid "Iniline"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2601
+msgid "Video Background."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2608
+msgid ""
+"Used when you select Video format. Enter a Youtube, Vimeo, Soundcloud, etc "
+"URL. See supported services at <a href=\"http://codex.wordpress.org/Embeds\" "
+"target=\"_blank\">http://codex.wordpress.org/Embeds</a>."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2613
+msgid "Layout"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2622
+msgid "Select the layout for the blog shortcode."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2629
+#: sitesao-core/includes/visual-composer.php:2783
+msgid "2"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2630
+#: sitesao-core/includes/visual-composer.php:2784
+msgid "3"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2631
+#: sitesao-core/includes/visual-composer.php:2785
+msgid "4"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2633
+msgid "Select whether to display the layout in 2, 3 or 4 column."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2636
+#: sitesao-core/includes/visual-composer.php:2791
+msgid "Posts Per Page"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2639
+#: sitesao-core/includes/visual-composer.php:2794
+msgid "Select number of posts per page.Set \"-1\" to display all"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2646
+#: sitesao-core/includes/visual-composer.php:2800
+msgid "Recent First"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2647
+#: sitesao-core/includes/visual-composer.php:2801
+msgid "Older First"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2648
+#: sitesao-core/includes/visual-composer.php:2802
+msgid "Title Alphabet"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2649
+#: sitesao-core/includes/visual-composer.php:2803
+msgid "Title Reversed Alphabet"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2655
+#: sitesao-core/includes/visual-composer.php:2852
+#: sitesao-core/includes/widget.php:537
+msgid "Select a category or leave blank for all"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2658
+msgid "Exclude Categories"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2660
+msgid "Select a category to exclude"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2664
+msgid "Hide Post Title"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2667
+msgid "Hide the post title below the featured"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2675
+msgid "Choose if the title should be a link to the single post page."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2679
+msgid "Hide Thumbnail"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2682
+msgid "Hide the post featured"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2685
+#: sitesao-core/includes/visual-composer.php:2836
+msgid "Hide Excerpt"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2691
+#: sitesao-core/includes/visual-composer.php:2839
+msgid "Hide excerpt"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2694
+#: sitesao-core/includes/visual-composer.php:2842
+msgid "Number of words in Excerpt"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2698
+#: sitesao-core/includes/visual-composer.php:2846
+msgid "The number of words"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2701
+#: sitesao-core/includes/visual-composer.php:2812
+msgid "Hide Date"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2704
+#: sitesao-core/includes/visual-composer.php:2815
+#: sitesao-core/includes/widget.php:543
+msgid "Hide date in post meta info"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2707
+msgid "Hide Timeline Month"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2711
+msgid "Hide timeline month"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2714
+#: sitesao-core/includes/visual-composer.php:2824
+msgid "Hide Comment"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2717
+#: sitesao-core/includes/visual-composer.php:2827
+#: sitesao-core/includes/widget.php:548
+msgid "Hide comment in post meta info"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2720
+#: sitesao-core/includes/visual-composer.php:2830
+msgid "Hide Category"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2723
+msgid "Hide category in post meta info"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2726
+#: sitesao-core/includes/visual-composer.php:2818
+msgid "Hide Author"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2732
+#: sitesao-core/includes/visual-composer.php:2821
+msgid "Hide author in post meta info"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2735
+msgid "Hide Read More Link"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2741
+msgid "Choose to hide the link"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2744
+msgid "Show Tags"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2751
+msgid "Choose to show the tags"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2772
+msgid "Layout Style"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2776
+msgid "Select style to display the latest posts."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2787
+msgid "Select whether to display the layout in 1, 2, 3 or 4 column."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2806
+msgid "Hide Pagination"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2809
+msgid "Hide pagination of slider"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2833
+msgid "Hide Category in post meta info"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2887
+msgid "The number of visible items"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2969
+#: sitesao-core/includes/visual-composer.php:3015
+msgid "Item title."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2973
+msgid "Background Transparent?"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2980
+msgid "Custom color."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2986
+msgid "1 Column"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:2986
+msgid "2 Columns"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3022
+msgid ""
+"I am testimonial. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3028
+msgid "Testimonial author."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3031
+msgid "Company"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3033
+msgid "Author company."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3036
+msgid "Avatar"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3038
+msgid "Avatar author."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3042
+msgid "Counter Speed"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3049
+msgid "Enter the number."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3052
+msgid "Format number displayed ?"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3058
+msgid "Thousand Separator"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3062
+msgid "This sets the thousand separator of displayed number."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3065
+msgid "Decimal Separator"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3069
+msgid "This sets the decimal separator of displayed number."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3072
+msgid "Number of Decimals"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3077
+msgid "This sets the number of decimal points shown in displayed number."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3082
+msgid "Custom Number Color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3085
+#: sitesao-core/includes/visual-composer.php:3106
+msgid "Select color for number."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3088
+msgid "Custom Number Font Size (px)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3096
+msgid "Units"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3099
+msgid ""
+"Enter measurement units (if needed) Eg. %, px, points, etc. Graph value and "
+"unit will be appended to the graph title."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3103
+msgid "Custom Units Color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3109
+msgid "Custom Units Font Size (px)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3117
+msgid "Icon"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3121
+msgid "Button icon."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3124
+msgid "Custom Icon Color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3127
+msgid "Select color for icon."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3130
+msgid "Custom Icon Size (px)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3139
+msgid "Icon Postiton"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3150
+msgid "Custom Title Color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3153
+msgid "Select color for title."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3156
+msgid "Custom Title Font Size (px)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3169
+msgid "Select style."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3172
+msgid "Countdown end"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3174
+msgid "Please select day to end."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3186
+msgid "Style 4"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3187
+msgid "Style 5"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3190
+msgid "Content Position"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3200
+msgid "Full Box"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3203
+msgid "Full Box with Primary Soild Background ?"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3209
+msgid "Text color"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3216
+msgid "Image Background"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3218
+msgid "Image Background."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3221
+msgid "Image URL (Link)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3223
+msgid "Image Link."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3235
+msgid "Button Text"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3239
+msgid "Button link text"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3246
+msgid "Box Title"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3249
+msgid "Sub Title"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3252
+msgid "Box Sub Title"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3256
+msgid "Images"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3259
+msgid "Select images from media library."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3262
+msgid "Custom links"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3265
+msgid ""
+"Enter links for each image here. Divide links with linebreaks (Enter) . "
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3273
+msgid "Image grid"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3274
+msgid "Select display type."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3283
+msgid "The number of visible items on a slide or on a grid row"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3288
+msgid "Image style"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3292
+msgid "Grayscale and Color on hover"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3293
+msgid "Select image style."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3372
+msgid "Content (<em>Add Arbitrary text or HTML.</em>)"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3397
+msgid "Add"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3483
+msgid "Select Attibute"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3510
+msgid "Select Attibute Filter"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3546
+msgid "Select brands"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3571
+msgid "Select lookbooks"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3597
+msgid "Select categories"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3623
+msgid "Search for a product..."
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3639
+#: sitesao-core/includes/woocommerce.php:812
+#, php-format
+msgid "%s &ndash; %s"
+msgstr ""
+
+#: sitesao-core/includes/visual-composer.php:3701
+msgid "Pricing Table element only support display 5 item"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:187
+msgid "Display Social Icon."
+msgstr ""
+
+#: sitesao-core/includes/widget.php:202
+msgid "Select socials"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:225
+msgid "Square"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:226
+msgid "Round"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:271
+msgid "Display recent tweets"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:283
+msgid "Please fill all widget settings!"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:295
+msgid "Couldn't find twitteroauth.php!"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:309
+msgid ""
+"You'll need to regenerate it <a href=\"https://dev.twitter.com/apps\" target="
+"\"_blank\">here</a>!"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:388
+#, php-format
+msgid "%s seconds ago"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:390
+msgid "about 1 minute ago"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:392
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:394
+msgid "about 1 hour ago"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:396
+#, php-format
+msgid "%s hours ago"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:398
+msgid "yesterday"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:400
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:402
+msgid "over a year ago"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:425
+msgid "Consumer Key"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:429
+msgid "Consumer Secret"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:433
+msgid "Access Token"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:437
+msgid "Access Token Secret"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:441
+msgid "Cache Tweets in every"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:442
+msgid "hours"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:445
+msgid "Twitter Username"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:449
+msgid "Tweets to display"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:463
+msgid "Exclude replies"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:497
+msgid "Widget post with thumbnail."
+msgstr ""
+
+#: sitesao-core/includes/widget.php:499
+msgid "Post Thumbnail"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:521
+msgid "Number of posts to show"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:528
+msgid "Latest"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:529
+msgid "Most Commented"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:601
+msgid "% Comments"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:603
+msgid "0 Comments"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:605
+msgid "1 Comment"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:658
+msgid ""
+"Shows a custom attribute in a widget when viewing product categories width "
+"Swatches and Photo ."
+msgstr ""
+
+#: sitesao-core/includes/widget.php:660
+msgid "DH Woocommerce Swatches Layered Nav"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:950
+msgid "Remove Filter"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1030
+msgid "Display WooCommerce Product sorting list."
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1032
+msgid "DH WooCommerce Product Sorting"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1076
+msgid "Default sorting"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1077
+msgid "Sort by popularity"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1078
+msgid "Sort by average rating"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1079
+msgid "Sort by newness"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1080
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1081
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1118
+msgid ""
+"Shows a price filter list in a widget which lets you narrow down the list of "
+"shown products when viewing product categories."
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1120
+msgid "DH WooCommerce Price Filter"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1149
+msgid "Price range size"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1157
+msgid "Max price ranges"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1162
+msgid "Hide empty price ranges"
+msgstr ""
+
+#: sitesao-core/includes/widget.php:1303 sitesao-core/includes/widget.php:1306
+msgid "All"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:323
+#, php-format
+msgid "Reviews <span>%d</span>"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:381
+msgid "% items"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:383
+msgid "0 items"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:385
+msgid "1 item"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:433
+#: sitesao-core/includes/woocommerce.php:519
+#: sitesao-core/includes/woocommerce.php:522
+msgid "View Cart"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:458
+msgid "Shopping Cart"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:480
+msgid "My Cart"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:490
+#, php-format
+msgid "in the <a href=\"%1$s\">shopping cart</a>"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:507
+msgid "Remove this item"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:513
+msgid "Cart Subtotal"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:528
+msgid "Your shopping bag is empty."
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:538
+msgid "Go to the shop"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:588
+msgid "Quick view"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:660
+msgid "Watch Video"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:837
+#: sitesao-core/includes/woocommerce.php:941
+msgid "Short Description"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:842
+#: sitesao-core/includes/woocommerce.php:950
+msgid "Heading Background"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:903
+#: sitesao-core/includes/woocommerce.php:1013
+msgid "Heading Title"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:907
+#: sitesao-core/includes/woocommerce.php:1017
+msgid "Heading Sub Title"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:911
+#: sitesao-core/includes/woocommerce.php:1021
+msgid "Heading Button Text"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce.php:915
+#: sitesao-core/includes/woocommerce.php:1025
+msgid "Heading Sub Link"
+msgstr ""
+
+#: sitesao-core/includes/woocommerce_product_variable.php:49
+msgid "Disable Variation Gallery ?"
+msgstr ""
+
+#: sitesao-core/lookbook/includes/admin.php:17
+msgid ""
+"Product lookbooks for your store can be managed here. To change the order of "
+"lookbooks on the front-end you can drag and drop to sort them. To see more "
+"lookbooks listed click the \"screen options\" link at the top of the page."
+msgstr ""
+
+#: sitesao-core/lookbook/includes/admin.php:29
+#: sitesao-core/lookbook/includes/admin.php:111
+msgid "Small title"
+msgstr ""
+
+#: sitesao-core/lookbook/includes/admin.php:267
+msgid "Product lookbook base"
+msgstr ""
+
+#: sitesao-core/lookbook/includes/admin.php:305
+msgid "product-lookbook"
+msgstr ""
+
+#: sitesao-core/lookbook/lookbook.php:37
+msgid "product-lookbok"
+msgstr ""
+
+#: sitesao-core/lookbook/lookbook.php:47
+msgid "Product Lookbook"
+msgstr ""
+
+#: sitesao-core/lookbook/lookbook.php:49
+msgid "Search Product Lookbooks"
+msgstr ""
+
+#: sitesao-core/lookbook/lookbook.php:50
+msgid "All Product Lookbooks"
+msgstr ""
+
+#: sitesao-core/lookbook/lookbook.php:51
+msgid "Parent Product Lookbook"
+msgstr ""
+
+#: sitesao-core/lookbook/lookbook.php:52
+msgid "Parent Product Lookbook:"
+msgstr ""
+
+#: sitesao-core/lookbook/lookbook.php:53
+msgid "Edit Product Lookbook"
+msgstr ""
+
+#: sitesao-core/lookbook/lookbook.php:54
+msgid "Update Product Lookbook"
+msgstr ""
+
+#: sitesao-core/lookbook/lookbook.php:55
+msgid "Add New Product Lookbook"
+msgstr ""
+
+#: sitesao-core/lookbook/lookbook.php:56
+msgid "New Product Lookbook Name"
+msgstr ""

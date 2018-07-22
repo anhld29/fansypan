@@ -3147,7 +3147,6 @@ p.demo_store {
 				font-size: 1.1em;
 				font-family: "Crimson Text",serif;
 			    font-style: italic;
-			    color: @brand-primary-secondary;
 			    -webkit-font-smoothing: antialiased;
   				-moz-osx-font-smoothing: grayscale;
 			}
@@ -3160,6 +3159,9 @@ p.demo_store {
 				background:none;
 				text-decoration: none;
 				//color: @brand-primary;
+				.amount{
+			    	color: @brand-primary-secondary;
+				}
 
 			}
 			dl {
@@ -5477,4 +5479,10 @@ li.unveil-image {
 	&:hover{
 		background:#8dc63f;
 	}
+}
+.quick_buy_container {
+  margin: 1em auto 3em;
+}
+.single_add_to_quick_cart_button{
+  .button-variant(@btn-primary-color; @brand-primary-secondary; @brand-primary-secondary);	
 }

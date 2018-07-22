@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: fansypan.com\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-27 01:58+0000\n"
-"PO-Revision-Date: 2018-07-18 16:35+0000\n"
+"PO-Revision-Date: 2018-07-22 16:44+0000\n"
 "Last-Translator: admin_fansypan <anhld29@gmail.com>\n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
@@ -89,12 +89,12 @@ msgstr ""
 
 #: woocommerce/checkout/form-shipping.php:61
 msgid "Additional Information"
-msgstr ""
+msgstr "Thông tin thêm"
 
 #: vc_templates/dh_portfolio.php:133 vc_templates/dh_portfolio.php:147
 #: vc_templates/dh_wc_product_mansory.php:96
 msgid "All"
-msgstr ""
+msgstr "Tất cả"
 
 #: includes/plugins/tgmpa_register.php:80
 #, php-format
@@ -103,7 +103,7 @@ msgstr ""
 
 #: functions.php:194
 msgid "All posts displayed"
-msgstr ""
+msgstr "Tất cả bài viết đã được hiển thị"
 
 #: woocommerce.php:26
 msgid "All products loaded"
@@ -119,7 +119,7 @@ msgstr "Áp dụng"
 
 #: woocommerce/global/breadcrumb.php:212
 msgid "Author:"
-msgstr ""
+msgstr "Tác giả:"
 
 #: woocommerce/cart/cart.php:72
 msgid "Available on backorder"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: woocommerce/single-product-reviews.php:85
 msgid "Average"
-msgstr ""
+msgstr "Trung bình"
 
 #: woocommerce/single-product/rating.php:30
 #, php-format
@@ -148,7 +148,7 @@ msgstr[1] ""
 
 #: woocommerce/checkout/form-billing.php:19
 msgid "Billing &amp; Shipping"
-msgstr ""
+msgstr "Thanh toán &amp;  vận chuyển"
 
 #: woocommerce/checkout/form-billing.php:23
 msgid "Billing Details"
@@ -160,11 +160,11 @@ msgstr "Tính phí vận chuyển"
 
 #: woocommerce/cart/shipping-calculator.php:82
 msgid "City"
-msgstr ""
+msgstr "Thành phố"
 
 #: woocommerce/single-product/add-to-cart/variable.php:39
 msgid "Clear selection"
-msgstr ""
+msgstr "Xóa lựa chọn"
 
 #: woocommerce/checkout/form-coupon.php:18
 msgid "Click here to enter your code"
@@ -176,7 +176,7 @@ msgstr "Click vào đây để đăng nhập"
 
 #: header/center.php:271 header/classic.php:248 header/toggle-offcanvas.php:115
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 #: comments.php:10
 msgid "Comments"
@@ -228,11 +228,11 @@ msgstr ""
 
 #: woocommerce/myaccount/form-login.php:87
 msgid "Email address"
-msgstr ""
+msgstr "Địa chỉ email"
 
 #: woocommerce/myaccount/form-lost-password.php:28
 msgid "Enter a new password below."
-msgstr ""
+msgstr "Nhập mật khẩu mới bên dưới."
 
 #: woocommerce/global/breadcrumb.php:161
 msgid "Error 404"
@@ -245,7 +245,7 @@ msgstr ""
 
 #: vc_templates/dh_portfolio.php:143
 msgid "Filters"
-msgstr ""
+msgstr "Bộ lọc"
 
 #: functions.php:250
 msgid "Footer Sidebar #"
@@ -257,7 +257,7 @@ msgstr ""
 
 #: woocommerce/single-product-reviews.php:84
 msgid "Good"
-msgstr ""
+msgstr "Tốt"
 
 #: functions.php:136
 msgctxt "Google font: on or off"
@@ -388,7 +388,7 @@ msgstr "Tài khoản của tôi"
 
 #: header.php:119 header/toggle-offcanvas.php:71
 msgid "My Wishlist"
-msgstr ""
+msgstr "Sản phẩm yêu thích"
 
 #: vc_templates/dh_portfolio.php:139 woocommerce/single-product-reviews.php:65
 msgid "Name"
@@ -400,7 +400,7 @@ msgstr ""
 
 #: footer.php:24
 msgid "NEWSLETTER"
-msgstr ""
+msgstr "Bản tin"
 
 #: searchform.php:2 searchform.php:4 searchform.php:5
 msgid "Nhập tên hoặc mã sản phẩm để tìm kiếm ...."
@@ -420,7 +420,7 @@ msgstr ""
 
 #: content-none.php:3
 msgid "Nothing Found"
-msgstr ""
+msgstr "Không tìm thấy"
 
 #: comments.php:10
 msgid "One Comment"
@@ -447,7 +447,7 @@ msgstr ""
 #: vc_templates/dh_wc_product_mansory.php:168
 #: woocommerce/content-product.php:65
 msgid "Out of stock"
-msgstr ""
+msgstr "Hết hàng"
 
 #: single.php:33
 msgid "Pages:"
@@ -484,21 +484,26 @@ msgstr "Vui lòng thử mua lại của bạn hoặc truy cập trang tài kho�
 
 #: woocommerce/checkout/thankyou.php:25
 msgid "Please attempt your purchase again."
-msgstr ""
+msgstr "Vui lòng thử mua hàng của bạn một lần nữa."
 
 #: woocommerce/cart/cart-shipping.php:68
 msgid ""
 "Please continue to the checkout and enter your full address to see if there "
 "are any available shipping methods."
 msgstr ""
+"Vui lòng tiếp tục thanh toán và nhập địa chỉ đầy đủ của bạn để xem có bất kỳ "
+"phương thức giao hàng nào có sẵn hay không."
 
 #: woocommerce/checkout/payment.php:30
 msgid "Please fill in your details above to see available payment methods."
 msgstr ""
+"Vui lòng điền thông tin của bạn ở trên để xem các phương thức thanh toán có "
+"sẵn."
 
 #: woocommerce/cart/cart-shipping.php:72
 msgid "Please fill in your details to see available shipping methods."
 msgstr ""
+"Vui lòng điền thông tin của bạn để xem các phương thức giao hàng hiện có."
 
 #: woocommerce/cart/cart-shipping.php:64
 msgid "Please use the shipping calculator to see available shipping methods."
@@ -551,7 +556,7 @@ msgstr "Số lượng"
 
 #: woocommerce/single-product-reviews.php:82
 msgid "Rate&hellip;"
-msgstr ""
+msgstr "Tỷ lệ&hellip;"
 
 #: woocommerce/loop/rating.php:20 woocommerce/single-product/rating.php:27
 #, php-format
@@ -560,7 +565,7 @@ msgstr ""
 
 #: woocommerce/myaccount/form-lost-password.php:35
 msgid "Re-enter new password"
-msgstr ""
+msgstr "Nhập lại mật khẩu mới"
 
 #: index.php:152 search.php:152 vc_templates/dh_post.php:216
 msgid "Read More"
@@ -573,11 +578,11 @@ msgstr "Xem thêm"
 #: woocommerce/myaccount/form-login.php:26
 #: woocommerce/myaccount/form-login.php:109
 msgid "Register"
-msgstr ""
+msgstr "Đăng ký"
 
 #: woocommerce/global/form-login.php:41 woocommerce/myaccount/form-login.php:59
 msgid "Remember me"
-msgstr ""
+msgstr "Nhớ đăng nhập"
 
 #: woocommerce/cart/cart.php:46
 msgid "Remove this item"
@@ -585,7 +590,7 @@ msgstr ""
 
 #: woocommerce/myaccount/form-lost-password.php:50
 msgid "Reset Password"
-msgstr ""
+msgstr "Lấy lại mật khẩu"
 
 #: woocommerce-swatches/single-product/variable.php:32
 msgid "Reset selection"
@@ -597,7 +602,7 @@ msgstr ""
 
 #: woocommerce/checkout/form-login.php:18
 msgid "Returning customer?"
-msgstr ""
+msgstr "Phản hồi khách hàng?"
 
 #: woocommerce/single-product-reviews.php:26
 msgid "Reviews"
@@ -647,7 +652,7 @@ msgstr ""
 #: vc_templates/product_categories_grid.php:142
 #: vc_templates/product_categories_grid.php:144
 msgid "Shop Now"
-msgstr ""
+msgstr "Mua ngay"
 
 #: functions.php:222
 msgid "Shop Sidebar"
@@ -655,7 +660,7 @@ msgstr ""
 
 #: woocommerce/loop/orderby.php:47
 msgid "Show:"
-msgstr ""
+msgstr "Hiển thị:"
 
 #: woocommerce/checkout/payment.php:43
 msgid ""
@@ -853,20 +858,20 @@ msgstr "Cập nhật tổng"
 
 #: woocommerce/checkout/payment.php:43
 msgid "Update totals"
-msgstr ""
+msgstr "Cập nhật tổng"
 
 #: woocommerce/myaccount/form-login.php:80
 msgid "Username"
-msgstr ""
+msgstr "Tên đăng nhập"
 
 #: woocommerce/global/form-login.php:26
 #: woocommerce/myaccount/form-lost-password.php:24
 msgid "Username or email"
-msgstr ""
+msgstr "Tên đăng nhập hoặc Email"
 
 #: woocommerce/myaccount/form-login.php:46
 msgid "Username or email address"
-msgstr ""
+msgstr "Tên đăng nhập hoặc Địa chỉ email"
 
 #: woocommerce/single-product-reviews.php:87
 msgid "Very Poor"
@@ -874,7 +879,7 @@ msgstr ""
 
 #: vc_templates/dh_box_feature.php:69
 msgid "View More"
-msgstr ""
+msgstr "Xem thêm"
 
 #: woocommerce/single-product/related.php:20
 #: woocommerce/single-product/related.php:63
@@ -908,7 +913,7 @@ msgstr "Đơn hàng của bạn"
 
 #: woocommerce/single-product-reviews.php:81
 msgid "Your Rating"
-msgstr ""
+msgstr "Tỷ giá của bạn"
 
 #: woocommerce/single-product-reviews.php:91
 msgid "Your Review"

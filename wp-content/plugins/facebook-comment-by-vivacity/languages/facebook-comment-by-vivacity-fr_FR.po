@@ -1,0 +1,396 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Comments by Vivacity 1.0.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-03 10:38+0530\n"
+"PO-Revision-Date: 2015-03-03 10:38+0530\n"
+"Last-Translator: Pranjali Phulwari <support@vivacityinfotech.com>\n"
+"Language-Team: Team Vivacity <support@vivacityinfotech.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../user-file.php:319
+#: ../user-file.php:355
+#: ../user-file.php:410
+#: ../user-file.php:465
+msgid "Facebook Comments Plugin Powered by"
+msgstr "Facebook Commentaires Plugin Propulsé par"
+
+#: ../user-file.php:325
+#: ../user-file.php:360
+#: ../user-file.php:416
+#: ../user-file.php:471
+msgid "Please Enter Your Facebook App ID. Required for FB Comments."
+msgstr "S'il vous plaît Entrez votre application Facebook ID. Requis pour FB Commentaires."
+
+#: ../user-file.php:325
+#: ../user-file.php:360
+#: ../user-file.php:416
+#: ../user-file.php:471
+msgid "Click here for FB Comments Settings page"
+msgstr "Cliquez ici pour la page FB Commentaires Paramètres"
+
+#: ../fb-comments.php:39
+msgid "Settings"
+msgstr "paramètres"
+
+#: ../admin-file.php:64
+msgid "FB Comments"
+msgstr "FB Commentaires"
+
+#: ../admin-file.php:73
+msgid "fbcomment"
+msgstr "fbcomment"
+
+#: ../admin-file.php:75
+msgid "Please Enter Your Facebook App ID. Required for Fb comments."
+msgstr "S'il vous plaît Entrez votre application Facebook ID. Requis pour commentaires Fb."
+
+#: ../admin-file.php:76
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: ../admin-file.php:95
+msgid "FB Comments Plugin"
+msgstr "FB Commentaires Plugin"
+
+#: ../admin-file.php:95
+msgid "by"
+msgstr "par"
+
+#: ../admin-file.php:149
+msgid "Set Up Your Facebook App ID"
+msgstr "Configurer votre application Facebook ID"
+
+#: ../admin-file.php:156
+#: ../admin-file.php:159
+msgid "Create an App"
+msgstr "Créer une App"
+
+#: ../admin-file.php:159
+msgid "To get App Id click on"
+msgstr "Pour obtenir App Id cliquez sur"
+
+#: ../admin-file.php:162
+msgid "Enter App Id into below textbox."
+msgstr "Entrez App Id en zone de texte ci-dessous."
+
+#: ../admin-file.php:164
+msgid "APP ID"
+msgstr "APP ID"
+
+#: ../admin-file.php:172
+msgid "Facebook App Setting"
+msgstr "Facebook App Cadre"
+
+#: ../admin-file.php:177
+msgid "To edit your App ID click on below link:"
+msgstr "Pour modifier votre ID App cliquez sur lien ci-dessous:"
+
+#: ../admin-file.php:178
+msgid "Your App Setup"
+msgstr "Votre installation App"
+
+#: ../admin-file.php:179
+msgid "choose your App and click"
+msgstr "choisissez votre application et cliquez sur"
+
+#: ../admin-file.php:179
+msgid "Edit Settings"
+msgstr "Modifier les paramètres"
+
+#: ../admin-file.php:179
+msgid "Please Enter"
+msgstr "S'il vous plaît entrer"
+
+#: ../admin-file.php:179
+msgid "in both \"App Domains\" and \"Site URL\""
+msgstr "à la fois App Domaines et URL du site "
+
+#: ../admin-file.php:183
+#: ../admin-file.php:185
+msgid "Create a New App"
+msgstr "Créer une nouvelle application"
+
+#: ../admin-file.php:185
+msgid "If you want to set up a new App Id click"
+msgstr "Si vous voulez mettre en place une nouvelle application Id clic"
+
+#: ../admin-file.php:193
+msgid "Main Settings"
+msgstr "Paramètres principaux"
+
+#: ../admin-file.php:200
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: ../admin-file.php:205
+msgid "Notification Email Id"
+msgstr "Courriel de notification Id"
+
+#: ../admin-file.php:209
+msgid "Enable XFBML"
+msgstr "Activer XFBML"
+
+#: ../admin-file.php:211
+msgid "only disable this if you already have XFBML enabled elsewhere"
+msgstr "ne désactiver cette option si vous avez déjà activé XFBML ailleurs"
+
+#: ../admin-file.php:215
+msgid "Use Facebook NameServer"
+msgstr "Utilisez Facebook NameServer"
+
+#: ../admin-file.php:217
+msgid "only enable this if Facebook Comments do not appear"
+msgstr "seulement activer cette si Facebook Commentaires n'apparaissent pas"
+
+#: ../admin-file.php:221
+msgid "Use Open Graph NameServer"
+msgstr "Utilisez Open Graph NameServer"
+
+#: ../admin-file.php:223
+msgid "only enable this if Facebook comments are not appearing, not all information is being passed to Facebook or if you have not enabled Open Graph elsewhere within WordPress"
+msgstr "seulement activer cette si les commentaires Facebook n'apparaissent pas, pas toutes les informations sont transmises à Facebook ou si vous n'avez pas activé Open Graph ailleurs dans WordPress"
+
+#: ../admin-file.php:227
+msgid "Use HTML5"
+msgstr "Utilisez HTML5"
+
+#: ../admin-file.php:231
+msgid "Show plugin site url"
+msgstr "Place Afficher plugin url"
+
+#: ../admin-file.php:233
+msgid "only enable this if you want to show plugin site"
+msgstr "seulement activer cette si vous voulez montrer le site du plugin"
+
+#: ../admin-file.php:240
+msgid "Display Settings"
+msgstr "Paramètres d'affichage"
+
+#: ../admin-file.php:245
+msgid "Posts"
+msgstr "messages"
+
+#: ../admin-file.php:249
+msgid "Pages"
+msgstr "pages"
+
+#: ../admin-file.php:253
+msgid "Home"
+msgstr "maison"
+
+#: ../admin-file.php:258
+msgid "Archive"
+msgstr "archives"
+
+#: ../admin-file.php:265
+msgid "Post types"
+msgstr "types de poste"
+
+#: ../admin-file.php:298
+msgid "Colour Scheme"
+msgstr "Modèle de couleurs"
+
+#: ../admin-file.php:302
+msgid "Light"
+msgstr "lumière"
+
+#: ../admin-file.php:304
+msgid "Dark"
+msgstr "sombre"
+
+#: ../admin-file.php:309
+msgid "Number of Comments"
+msgstr "Nombre de commentaires"
+
+#: ../admin-file.php:311
+msgid "Default no of comments is"
+msgstr "Par défaut pas de commentaires est"
+
+#: ../admin-file.php:315
+msgid "Width"
+msgstr "largeur"
+
+#: ../admin-file.php:317
+msgid "For Responsive Look use 100% as width"
+msgstr "Pour une utilisation Rechercher sensible à 100% que la largeur"
+
+#: ../admin-file.php:318
+msgid "Default comment box width is"
+msgstr "Largeur par défaut de la boîte est commentaire"
+
+#: ../admin-file.php:322
+msgid "Title"
+msgstr "titre"
+
+#: ../admin-file.php:325
+msgid "Css class name for title"
+msgstr "Nom de classe CSS pour le titre"
+
+#: ../admin-file.php:329
+msgid "Show Comment Count"
+msgstr "Afficher Commentaire comte"
+
+#: ../admin-file.php:334
+msgid "Comment text"
+msgstr "texte du commentaire"
+
+#: ../admin-file.php:336
+msgid "Css class name for Comment text"
+msgstr "Nom de classe CSS pour Texte du commentaire"
+
+#: ../admin-file.php:340
+msgid "Exclude Using Page/Post IDs"
+msgstr "Exclure l'aide page / Poster ID"
+
+#: ../admin-file.php:341
+msgid "For exclude FB comment box, please insert page/post ids separate them with commas, like 5, 21"
+msgstr "Pour FB boîte de commentaire exclure, se il vous plaît insérer la page / post ids les séparer par des virgules, comme 5, 21"
+
+#: ../admin-file.php:350
+msgid "Moderation Settings"
+msgstr "Paramètres de modération"
+
+#: ../admin-file.php:355
+msgid "Moderation Area"
+msgstr "modération Région"
+
+#: ../admin-file.php:357
+msgid "If you are a moderator, you will see notifications within facebook.com. If you don't want to have moderator status, click on \"Moderation Area\" and use this link to left."
+msgstr "Si vous êtes modérateur, vous verrez les notifications dans facebook.com. Si vous ne voulez pas avoir le statut de modérateur, cliquez sur modération zone et utiliser ce lien à gauche."
+
+#: ../admin-file.php:361
+msgid "Moderators"
+msgstr "modérateurs"
+
+#: ../admin-file.php:362
+msgid "All admins to the App ID can moderate comments,By default. To add moderators, enter each Facebook User ID by a comma without spaces. To find your Facebook User ID"
+msgstr "Tous les administrateurs à l'ID App peuvent modérer les commentaires, par défaut. Pour ajouter modérateurs, entrez chaque Facebook ID utilisateur par une virgule sans espaces. Pour trouver votre Facebook ID utilisateur"
+
+#: ../admin-file.php:362
+msgid "click here"
+msgstr "cliquez ici"
+
+#: ../admin-file.php:362
+msgid "where you will see your own. To view someone else's, replace \"me\" with their username in the input provided"
+msgstr "où vous pourrez voir votre propre. Pour voir quelqu'un d'autre, remplacez moi avec leur nom d'utilisateur dans l'entrée prévue"
+
+#: ../admin-file.php:369
+msgid "Hide/Show default wp comments"
+msgstr "Masquer / Afficher des commentaires wp par défaut"
+
+#: ../admin-file.php:378
+msgid "Hide WordPress Default Comments System From Website"
+msgstr "Cachez WordPress par défaut Commentaires Système De Site Web"
+
+#: ../admin-file.php:387
+msgid "Hide WordPress Default Comments System On Certain Post Types"
+msgstr "Cachez WordPress par défaut du système de commentaires sur certains types de poste"
+
+#: ../admin-file.php:394
+msgid "Hide WordPress Default Comments System On Posts"
+msgstr "Cachez WordPress par défaut système des commentaires sur les messages"
+
+#: ../admin-file.php:401
+msgid "Hide WordPress Default Comments System On Pages"
+msgstr "Cachez WordPress par défaut du système de commentaires sur les pages"
+
+#: ../admin-file.php:410
+msgid "Language Settings"
+msgstr "Paramètres de langue"
+
+#: ../admin-file.php:415
+msgid "Select Language"
+msgstr "Sélectionnez la langue"
+
+#: ../admin-file.php:544
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: ../admin-file.php:554
+msgid "Shortcode For Templates"
+msgstr "Shortcode des Templates"
+
+#: ../admin-file.php:560
+msgid "You can also insert FB Comment Box manually in any page or post or"
+msgstr "Vous pouvez également insérer FB Commentaire Box manuellement dans n'importe quelle page ou la poste ou"
+
+#: ../admin-file.php:560
+msgid "template"
+msgstr "modèle"
+
+#: ../admin-file.php:560
+msgid "by simply using the shortcode"
+msgstr "en utilisant simplement le numéro abrégé"
+
+#: ../admin-file.php:561
+msgid "You can insert"
+msgstr "Vous pouvez insérer"
+
+#: ../admin-file.php:561
+msgid "code into your templates for use this shortcode"
+msgstr "coder dans vos modèles à utiliser ce shortcode"
+
+#: ../admin-file.php:564
+msgid "You can also use below options to override the the settings used above."
+msgstr "Vous pouvez également utiliser ci-dessous options pour modifier les paramètres utilisés ci-dessus."
+
+#: ../admin-file.php:567
+msgid "leave blank for current URL"
+msgstr "blanc de congé pour l'URL actuelle"
+
+#: ../admin-file.php:569
+msgid "minimum must be"
+msgstr "minimum doit être"
+
+#: ../admin-file.php:571
+msgid "number of comments"
+msgstr "nombre de commentaires"
+
+#: ../admin-file.php:573
+msgid "comment count on/off"
+msgstr "commentaire compter marche / arrêt"
+
+#: ../admin-file.php:575
+msgid "color scheme: light/dark"
+msgstr "couleurs: clair / foncé"
+
+#: ../admin-file.php:577
+msgid "enter"
+msgstr "entrer"
+
+#: ../admin-file.php:577
+msgid "to link to the plugin"
+msgstr "lien vers le plugin"
+
+#: ../admin-file.php:580
+msgid "For Example"
+msgstr "pour l'exemple"
+
+#: ../admin-file.php:588
+msgid "Download Free Plugins"
+msgstr "Télécharger Plugins gratuit"
+
+#: ../admin-file.php:592
+msgid "has following plugins for you"
+msgstr "a la suite de plugins pour vous"
+
+#: ../admin-file.php:610
+#: ../admin-file.php:613
+msgid "Donate Here"
+msgstr "Faire un don ici"
+
+#: ../admin-file.php:612
+msgid "If you want to donate , please click on below image."
+msgstr "Si vous souhaitez faire un don, s'il vous plaît cliquer sur l'image ci-dessous."
+

@@ -1,0 +1,397 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Comment by Vivacity 1.0.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-03 10:04+0530\n"
+"PO-Revision-Date: 2015-03-03 10:13+0530\n"
+"Last-Translator: Pranjali Phulwari <support@vivacityinfotech.com>\n"
+"Language-Team: Team Vivacity <support@vivacityinfotech.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: facebook-comment-by-vivacity/user-file.php:319
+#: facebook-comment-by-vivacity/user-file.php:355
+#: facebook-comment-by-vivacity/user-file.php:410
+#: facebook-comment-by-vivacity/user-file.php:465
+msgid "Facebook Comments Plugin Powered by"
+msgstr "Facebook Komentari plugin Powered by"
+
+#: facebook-comment-by-vivacity/user-file.php:325
+#: facebook-comment-by-vivacity/user-file.php:360
+#: facebook-comment-by-vivacity/user-file.php:416
+#: facebook-comment-by-vivacity/user-file.php:471
+msgid "Please Enter Your Facebook App ID. Required for FB Comments."
+msgstr "Unesite vaš Facebook App ID. Potrebno za FB Comments."
+
+#: facebook-comment-by-vivacity/user-file.php:325
+#: facebook-comment-by-vivacity/user-file.php:360
+#: facebook-comment-by-vivacity/user-file.php:416
+#: facebook-comment-by-vivacity/user-file.php:471
+msgid "Click here for FB Comments Settings page"
+msgstr "Kliko ovde za FB komentari postavje stranicu "
+
+#: facebook-comment-by-vivacity/fb-comments.php:39
+msgid "Settings"
+msgstr "Postavke"
+
+#: facebook-comment-by-vivacity/admin-file.php:64
+msgid "FB Comments"
+msgstr "FB komentari"
+
+#: facebook-comment-by-vivacity/admin-file.php:73
+msgid "fbcomment"
+msgstr "fbkomentar"
+
+#: facebook-comment-by-vivacity/admin-file.php:75
+msgid "Please Enter Your Facebook App ID. Required for Fb comments."
+msgstr "Unesite vaš Facebook App ID. Potrebno za Fb komentare."
+
+#: facebook-comment-by-vivacity/admin-file.php:76
+msgid "Click here"
+msgstr "kLIKNITE OVDE"
+
+#: facebook-comment-by-vivacity/admin-file.php:95
+msgid "FB Comments Plugin"
+msgstr "FB komentari Plugin"
+
+#: facebook-comment-by-vivacity/admin-file.php:95
+msgid "by"
+msgstr "od strane"
+
+#: facebook-comment-by-vivacity/admin-file.php:149
+msgid "Set Up Your Facebook App ID"
+msgstr "Podesite vaš Facebook App ID"
+
+#: facebook-comment-by-vivacity/admin-file.php:156
+#: facebook-comment-by-vivacity/admin-file.php:159
+msgid "Create an App"
+msgstr "Stvorite App"
+
+#: facebook-comment-by-vivacity/admin-file.php:159
+msgid "To get App Id click on"
+msgstr "Da biste dobili App Id kliknite na"
+
+#: facebook-comment-by-vivacity/admin-file.php:162
+msgid "Enter App Id into below textbox."
+msgstr "Unesite App Id u tekst ispod"
+
+#: facebook-comment-by-vivacity/admin-file.php:164
+msgid "APP ID"
+msgstr "APP ID"
+
+#: facebook-comment-by-vivacity/admin-file.php:172
+msgid "Facebook App Setting"
+msgstr "Facebook App postavka"
+
+#: facebook-comment-by-vivacity/admin-file.php:177
+msgid "To edit your App ID click on below link:"
+msgstr "Da biste editovali App ID kliknite na link ispod:"
+
+#: facebook-comment-by-vivacity/admin-file.php:178
+msgid "Your App Setup"
+msgstr "Vaš pristup app"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "choose your App and click"
+msgstr "izaberite vašu App i kliknite"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "Edit Settings"
+msgstr "Edituj postavke"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "Please Enter"
+msgstr "Unesite"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "in both \"App Domains\" and \"Site URL\""
+msgstr "u oba  \"App Domains\" i \"Site URL\""
+
+#: facebook-comment-by-vivacity/admin-file.php:183
+#: facebook-comment-by-vivacity/admin-file.php:185
+msgid "Create a New App"
+msgstr "Kreirajte novu app"
+
+#: facebook-comment-by-vivacity/admin-file.php:185
+msgid "If you want to set up a new App Id click"
+msgstr "Ako želite da podesite novi App Id klik"
+
+#: facebook-comment-by-vivacity/admin-file.php:193
+msgid "Main Settings"
+msgstr "Glavne postavke"
+
+#: facebook-comment-by-vivacity/admin-file.php:200
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: facebook-comment-by-vivacity/admin-file.php:205
+msgid "Notification Email Id"
+msgstr "Obavijest mail Id"
+
+#: facebook-comment-by-vivacity/admin-file.php:209
+msgid "Enable XFBML"
+msgstr "Omogući XFBML"
+
+#: facebook-comment-by-vivacity/admin-file.php:211
+msgid "only disable this if you already have XFBML enabled elsewhere"
+msgstr "onemogući samo ako već imate XFBML omogućeno negde drugde"
+
+#: facebook-comment-by-vivacity/admin-file.php:215
+msgid "Use Facebook NameServer"
+msgstr "Koristite Facebook NameServer"
+
+#: facebook-comment-by-vivacity/admin-file.php:217
+msgid "only enable this if Facebook Comments do not appear"
+msgstr "omogućiti samo ako se Facebook komentari ne pojave"
+
+#: facebook-comment-by-vivacity/admin-file.php:221
+msgid "Use Open Graph NameServer"
+msgstr "Koristit Open Graph NameServer"
+
+#: facebook-comment-by-vivacity/admin-file.php:223
+msgid "only enable this if Facebook comments are not appearing, not all information is being passed to Facebook or if you have not enabled Open Graph elsewhere within WordPress"
+msgstr "omogućiti samo ako se Facebook komentari ne pojavljuju,sve info se ne prenose na Facebook ili niste omogućili Open Graph negde drugde unutar WordPress-a"
+
+#: facebook-comment-by-vivacity/admin-file.php:227
+msgid "Use HTML5"
+msgstr "Koristi  HTML5"
+
+#: facebook-comment-by-vivacity/admin-file.php:231
+msgid "Show plugin site url"
+msgstr "Prikazati url sajta plugina"
+
+#: facebook-comment-by-vivacity/admin-file.php:233
+msgid "only enable this if you want to show plugin site"
+msgstr "omogućiti samo ako želite da se prikaže sajt plugina"
+
+#: facebook-comment-by-vivacity/admin-file.php:240
+msgid "Display Settings"
+msgstr "Prikazati postavke"
+
+#: facebook-comment-by-vivacity/admin-file.php:245
+msgid "Posts"
+msgstr "Postovi"
+
+#: facebook-comment-by-vivacity/admin-file.php:249
+msgid "Pages"
+msgstr "Stranice"
+
+#: facebook-comment-by-vivacity/admin-file.php:253
+msgid "Home"
+msgstr "Početna stranica"
+
+#: facebook-comment-by-vivacity/admin-file.php:258
+msgid "Archive"
+msgstr "Arhiva"
+
+#: facebook-comment-by-vivacity/admin-file.php:265
+msgid "Post types"
+msgstr "post vrste"
+
+#: facebook-comment-by-vivacity/admin-file.php:298
+msgid "Colour Scheme"
+msgstr "Boja šeme"
+
+#: facebook-comment-by-vivacity/admin-file.php:302
+msgid "Light"
+msgstr "Svetlo"
+
+#: facebook-comment-by-vivacity/admin-file.php:304
+msgid "Dark"
+msgstr "Tamno"
+
+#: facebook-comment-by-vivacity/admin-file.php:309
+msgid "Number of Comments"
+msgstr "Broj komentara"
+
+#: facebook-comment-by-vivacity/admin-file.php:311
+msgid "Default no of comments is"
+msgstr "Default broj komentara je"
+
+#: facebook-comment-by-vivacity/admin-file.php:315
+msgid "Width"
+msgstr "Širina"
+
+#: facebook-comment-by-vivacity/admin-file.php:317
+msgid "For Responsive Look use 100% as width"
+msgstr "Za korištenje Odgovarajući Look 100% kao širina"
+
+#: facebook-comment-by-vivacity/admin-file.php:318
+msgid "Default comment box width is"
+msgstr "Default širina kvadrata z akomentare je"
+
+#: facebook-comment-by-vivacity/admin-file.php:322
+msgid "Title"
+msgstr "Naslov"
+
+#: facebook-comment-by-vivacity/admin-file.php:325
+msgid "Css class name for title"
+msgstr "Css ime klase za titulu"
+
+#: facebook-comment-by-vivacity/admin-file.php:329
+msgid "Show Comment Count"
+msgstr "Prikazati broač komentara"
+
+#: facebook-comment-by-vivacity/admin-file.php:334
+msgid "Comment text"
+msgstr "Tekst komentara"
+
+#: facebook-comment-by-vivacity/admin-file.php:336
+msgid "Css class name for Comment text"
+msgstr "Css ime klase za komentar teksta"
+
+#: facebook-comment-by-vivacity/admin-file.php:340
+msgid "Exclude Using Page/Post IDs"
+msgstr "Isključi Koristeći Page / Post ovima"
+
+#: admin-file.php:341
+msgid "For exclude FB comment box, please insert page/post ids separate them with commas, like 5, 21"
+msgstr "Za isključuje FB komentar kutiju, molimo Vas da ubacite stranice / post ids odvojite ih zarezima, kao što su 5, 21"
+
+#: facebook-comment-by-vivacity/admin-file.php:350
+msgid "Moderation Settings"
+msgstr "Moderacija postavki"
+
+#: facebook-comment-by-vivacity/admin-file.php:355
+msgid "Moderation Area"
+msgstr "Područje moderacije"
+
+#: facebook-comment-by-vivacity/admin-file.php:357
+msgid "If you are a moderator, you will see notifications within facebook.com. If you don't want to have moderator status, click on \"Moderation Area\" and use this link to left."
+msgstr "Ako set moderator, videćete notifikacije unutar  facebook.com. ko nemate status moderatora, kliknite na \"Moderation Area\" i koristite link levo. "
+
+#: facebook-comment-by-vivacity/admin-file.php:361
+msgid "Moderators"
+msgstr "Moderatori"
+
+#: facebook-comment-by-vivacity/admin-file.php:362
+msgid "All admins to the App ID can moderate comments,By default. To add moderators, enter each Facebook User ID by a comma without spaces. To find your Facebook User ID"
+msgstr "Svi admini u App ID mogu da srede komentare po defaultu. Da biste dodali moderatore unesite za svaki Facebook User ID zarez bez razmak. Da biste našli Facebook User ID"
+
+#: facebook-comment-by-vivacity/admin-file.php:362
+msgid "click here"
+msgstr "kliknite ovde"
+
+#: facebook-comment-by-vivacity/admin-file.php:362
+msgid "where you will see your own. To view someone else's, replace \"me\" with their username in the input provided"
+msgstr "gde ćete videti vaše. Da biste videli nečiji drugi zamenite \"ja\" sa korisničkim imnom u inputu"
+
+#: facebook-comment-by-vivacity/admin-file.php:369
+msgid "Hide/Show default wp comments"
+msgstr "Sakrij/Prikaži default wp komentare"
+
+#: facebook-comment-by-vivacity/admin-file.php:378
+msgid "Hide WordPress Default Comments System From Website"
+msgstr "Sakriti WordPress Default Comments System sa sajta"
+
+#: facebook-comment-by-vivacity/admin-file.php:387
+msgid "Hide WordPress Default Comments System On Certain Post Types"
+msgstr "Sakriti WordPress Default Comments System na odredjenim tipovima posta"
+
+#: facebook-comment-by-vivacity/admin-file.php:394
+msgid "Hide WordPress Default Comments System On Posts"
+msgstr "Sakriti WordPress Default Comments System na postovima"
+
+#: facebook-comment-by-vivacity/admin-file.php:401
+msgid "Hide WordPress Default Comments System On Pages"
+msgstr "sakri ti WordPress Default Comments System na stranicama"
+
+#: facebook-comment-by-vivacity/admin-file.php:410
+msgid "Language Settings"
+msgstr "Postavke jezika"
+
+#: facebook-comment-by-vivacity/admin-file.php:415
+msgid "Select Language"
+msgstr "Izaberite jezik"
+
+#: facebook-comment-by-vivacity/admin-file.php:544
+msgid "Save Changes"
+msgstr "Sačuvati promene"
+
+#: facebook-comment-by-vivacity/admin-file.php:554
+msgid "Shortcode For Templates"
+msgstr "Shortcode za Templates"
+
+#: facebook-comment-by-vivacity/admin-file.php:560
+msgid "You can also insert FB Comment Box manually in any page or post or"
+msgstr "Možete da unesete FB Comment Box ručno u bilo koju stranicu ili post"
+
+#: facebook-comment-by-vivacity/admin-file.php:560
+msgid "template"
+msgstr "template"
+
+#: facebook-comment-by-vivacity/admin-file.php:560
+msgid "by simply using the shortcode"
+msgstr "jednostavno korišćenjem shortcode"
+
+#: facebook-comment-by-vivacity/admin-file.php:561
+msgid "You can insert"
+msgstr "Možete da unesete"
+
+#: facebook-comment-by-vivacity/admin-file.php:561
+msgid "code into your templates for use this shortcode"
+msgstr "kod u vaše template da biste koristili ovaj shortcode"
+
+#: facebook-comment-by-vivacity/admin-file.php:564
+msgid "You can also use below options to override the the settings used above."
+msgstr "Možete takodje da koristite opcije da prepišete postavke korišćene iznad."
+
+#: facebook-comment-by-vivacity/admin-file.php:567
+msgid "leave blank for current URL"
+msgstr "ostaviti prazno za trenutni URL"
+
+#: facebook-comment-by-vivacity/admin-file.php:569
+msgid "minimum must be"
+msgstr "minimum mora biti"
+
+#: facebook-comment-by-vivacity/admin-file.php:571
+msgid "number of comments"
+msgstr "beoj komentara"
+
+#: facebook-comment-by-vivacity/admin-file.php:573
+msgid "comment count on/off"
+msgstr "brojanje komentara upaljeno/ugašeno"
+
+#: facebook-comment-by-vivacity/admin-file.php:575
+msgid "color scheme: light/dark"
+msgstr "boja teme: svetlo/tamno"
+
+#: facebook-comment-by-vivacity/admin-file.php:577
+msgid "enter"
+msgstr "uneti"
+
+#: facebook-comment-by-vivacity/admin-file.php:577
+msgid "to link to the plugin"
+msgstr "link za plugin"
+
+#: facebook-comment-by-vivacity/admin-file.php:580
+msgid "For Example"
+msgstr "npr"
+
+#: facebook-comment-by-vivacity/admin-file.php:588
+msgid "Download Free Plugins"
+msgstr "Download Free Plugins"
+
+#: facebook-comment-by-vivacity/admin-file.php:592
+msgid "has following plugins for you"
+msgstr "ima sljedeće plugin za vas"
+
+#: facebook-comment-by-vivacity/admin-file.php:610
+#: facebook-comment-by-vivacity/admin-file.php:613
+msgid "Donate Here"
+msgstr "Donirajte Here"
+
+#: facebook-comment-by-vivacity/admin-file.php:612
+msgid "If you want to donate , please click on below image."
+msgstr "Ako želite donirati, kliknite na sliku ispod."
+
+#~ msgid "Vivacity Infotech Pvt. Ltd."
+#~ msgstr "Vivacity Infotech Pvt. Ltd."
+
+#~ msgid "Message Id"
+#~ msgstr "Id poruke"

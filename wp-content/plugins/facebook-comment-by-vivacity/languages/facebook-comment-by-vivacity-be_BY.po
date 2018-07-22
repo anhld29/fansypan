@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Comment by Vivacity 1.0.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-10 12:45+0300\n"
+"PO-Revision-Date: 2016-06-10 13:43+0300\n"
+"Language-Team: Team Vivacity <support@vivacityinfotech.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: be_BY\n"
+"X-Poedit-SearchPath-0: /opt/lampp/htdocs/wordpress-4.1/wp-content/plugins/"
+"facebook-comment-by-vivacity\n"
+
+#: facebook-comment-by-vivacity/user-file.php:319
+#: facebook-comment-by-vivacity/user-file.php:355
+#: facebook-comment-by-vivacity/user-file.php:410
+#: facebook-comment-by-vivacity/user-file.php:465
+msgid "Facebook Comments Plugin Powered by"
+msgstr "Плагін Facebook каменратыі  працуе на "
+
+#: facebook-comment-by-vivacity/user-file.php:325
+#: facebook-comment-by-vivacity/user-file.php:360
+#: facebook-comment-by-vivacity/user-file.php:416
+#: facebook-comment-by-vivacity/user-file.php:471
+msgid "Please Enter Your Facebook App ID. Required for FB Comments."
+msgstr ""
+"Калі ласка, увядзіце свой ідэнтыфікатар Facebook App. Патрабуецца для FB "
+"каментарыяў."
+
+#: facebook-comment-by-vivacity/user-file.php:325
+#: facebook-comment-by-vivacity/user-file.php:360
+#: facebook-comment-by-vivacity/user-file.php:416
+#: facebook-comment-by-vivacity/user-file.php:471
+msgid "Click here for FB Comments Settings page"
+msgstr "Націсніце тут для налады старонкі  FB каментары."
+
+#: facebook-comment-by-vivacity/fb-comments.php:39
+msgid "Settings"
+msgstr "Налады."
+
+#: facebook-comment-by-vivacity/admin-file.php:64
+msgid "FB Comments"
+msgstr "FB каментары"
+
+#: facebook-comment-by-vivacity/admin-file.php:73
+msgid "fbcomment"
+msgstr "fbкаментар"
+
+#: facebook-comment-by-vivacity/admin-file.php:75
+msgid "Please Enter Your Facebook App ID. Required for Fb comments."
+msgstr ""
+"Калі ласка, увядзіце свой ідэнтыфікатар Facebook App. Патрабуецца для Fb "
+"каментароў."
+
+#: facebook-comment-by-vivacity/admin-file.php:76
+msgid "Click here"
+msgstr "Клікніце тут"
+
+#: facebook-comment-by-vivacity/admin-file.php:95
+msgid "FB Comments Plugin"
+msgstr "Плагін FB каментары"
+
+#: facebook-comment-by-vivacity/admin-file.php:95
+msgid "by"
+msgstr "па"
+
+#: facebook-comment-by-vivacity/admin-file.php:149
+msgid "Set Up Your Facebook App ID"
+msgstr "Стварыць свой Facebook App ID"
+
+#: facebook-comment-by-vivacity/admin-file.php:156
+#: facebook-comment-by-vivacity/admin-file.php:159
+msgid "Create an App"
+msgstr "Стварэнне App"
+
+#: facebook-comment-by-vivacity/admin-file.php:159
+msgid "To get App Id click on"
+msgstr "Каб атрымаць ідэнтыфікатар App націсніце на"
+
+#: facebook-comment-by-vivacity/admin-file.php:162
+msgid "Enter App Id into below textbox."
+msgstr "Калі ласка, увядзіце ідэнтыфікатар App у тэкставым полі ніжэй."
+
+#: facebook-comment-by-vivacity/admin-file.php:164
+msgid "APP ID"
+msgstr "APP ID"
+
+#: facebook-comment-by-vivacity/admin-file.php:172
+msgid "Facebook App Setting"
+msgstr "Налады  Facebook App"
+
+#: facebook-comment-by-vivacity/admin-file.php:177
+msgid "To edit your App ID click on below link:"
+msgstr "Каб змяніць App ID, націсніце на спасылку ніжэй:"
+
+#: facebook-comment-by-vivacity/admin-file.php:178
+msgid "Your App Setup"
+msgstr "Ваша праграма ўстаноўкі App"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "choose your App and click"
+msgstr "выбяры свой App і націсні"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "Edit Settings"
+msgstr "Змяніць налады"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "Please Enter"
+msgstr "Калі ласка, увядзіце"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "in both \"App Domains\" and \"Site URL\""
+msgstr "у абодвух \"Дамены App \" і \"URL сайта\""
+
+#: facebook-comment-by-vivacity/admin-file.php:183
+#: facebook-comment-by-vivacity/admin-file.php:185
+msgid "Create a New App"
+msgstr "Стварэнне новага App"
+
+#: facebook-comment-by-vivacity/admin-file.php:185
+msgid "If you want to set up a new App Id click"
+msgstr "Калі вы хочаце стварыць новы App Id націсніце"
+
+#: facebook-comment-by-vivacity/admin-file.php:193
+msgid "Main Settings"
+msgstr "Асноўныя параметры"
+
+#: facebook-comment-by-vivacity/admin-file.php:200
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: facebook-comment-by-vivacity/admin-file.php:205
+msgid "Notification Email Id"
+msgstr "Апавяшчэнне Email Id"
+
+#: facebook-comment-by-vivacity/admin-file.php:209
+msgid "Enable XFBML"
+msgstr "Уключыць XFBML"
+
+#: facebook-comment-by-vivacity/admin-file.php:211
+msgid "only disable this if you already have XFBML enabled elsewhere"
+msgstr ""
+"толькі адключыць гэтую функцыю, калі вы ўжо ўключылі XFBML ў іншым месцы"
+
+#: facebook-comment-by-vivacity/admin-file.php:215
+msgid "Use Facebook NameServer"
+msgstr "Выкарыстоўвайце Facebook Name Server"
+
+#: facebook-comment-by-vivacity/admin-file.php:217
+msgid "only enable this if Facebook Comments do not appear"
+msgstr "толькі ўключыць гэта, калі Facebook Каментары не адлюстроўваюцца"
+
+#: facebook-comment-by-vivacity/admin-file.php:221
+msgid "Use Open Graph NameServer"
+msgstr "Выкарыстанне Open Graph Name Server"
+
+#: facebook-comment-by-vivacity/admin-file.php:223
+msgid ""
+"only enable this if Facebook comments are not appearing, not all information "
+"is being passed to Facebook or if you have not enabled Open Graph elsewhere "
+"within WordPress"
+msgstr ""
+"толькі калі гэта дазволяецца, Facebook каментары не паказваюцца, не ўся "
+"інфармацыя перадаецца ў Facebook ці только калі вы не ўключылі Open Graph ў "
+"іншым месцы ў межах WordPress"
+
+#: facebook-comment-by-vivacity/admin-file.php:227
+msgid "Use HTML5"
+msgstr "Выкарыстанне HTML5"
+
+#: facebook-comment-by-vivacity/admin-file.php:231
+msgid "Show plugin site url"
+msgstr "Паказаць url плагіна сайта"
+
+#: facebook-comment-by-vivacity/admin-file.php:233
+msgid "only enable this if you want to show plugin site"
+msgstr "толькі ўключыўшы гэты параметр, вы зможаце паказаць плагін сайт"
+
+#: facebook-comment-by-vivacity/admin-file.php:240
+msgid "Display Settings"
+msgstr "Налады дысплэя"
+
+#: facebook-comment-by-vivacity/admin-file.php:245
+msgid "Posts"
+msgstr "Пасты"
+
+#: facebook-comment-by-vivacity/admin-file.php:249
+msgid "Pages"
+msgstr "Старонкi"
+
+#: facebook-comment-by-vivacity/admin-file.php:253
+msgid "Home"
+msgstr "Галоўная старонка"
+
+#: facebook-comment-by-vivacity/admin-file.php:258
+msgid "Archive"
+msgstr "Архіў"
+
+#: facebook-comment-by-vivacity/admin-file.php:265
+msgid "Post types"
+msgstr "Тыпы паста"
+
+#: facebook-comment-by-vivacity/admin-file.php:298
+msgid "Colour Scheme"
+msgstr "Колеровая гама"
+
+#: facebook-comment-by-vivacity/admin-file.php:302
+msgid "Light"
+msgstr "Светлы"
+
+#: facebook-comment-by-vivacity/admin-file.php:304
+msgid "Dark"
+msgstr "Цемны"
+
+#: facebook-comment-by-vivacity/admin-file.php:309
+msgid "Number of Comments"
+msgstr "Колькасць каментарыяў"
+
+#: facebook-comment-by-vivacity/admin-file.php:311
+msgid "Default no of comments is"
+msgstr "Каментарыі па змаўчанні адключаны"
+
+#: facebook-comment-by-vivacity/admin-file.php:315
+msgid "Width"
+msgstr "Шырыня"
+
+#: facebook-comment-by-vivacity/admin-file.php:317
+msgid "For Responsive Look use 100% as width"
+msgstr "Для адаптыўнага выгляду выкарыстоўвайце 100% шырыню"
+
+#: facebook-comment-by-vivacity/admin-file.php:318
+msgid "Default comment box width is"
+msgstr "Шырыня акна коментарыяў па змаўчанні"
+
+#: facebook-comment-by-vivacity/admin-file.php:322
+msgid "Title"
+msgstr "Імя"
+
+#: facebook-comment-by-vivacity/admin-file.php:325
+msgid "Css class name for title"
+msgstr "Назва css класа для загалоўка"
+
+#: facebook-comment-by-vivacity/admin-file.php:329
+msgid "Show Comment Count"
+msgstr "Паказваць колькасць каментарыяў"
+
+#: facebook-comment-by-vivacity/admin-file.php:334
+msgid "Comment text"
+msgstr "Тэкст каментарыя"
+
+#: facebook-comment-by-vivacity/admin-file.php:336
+msgid "Css class name for Comment text"
+msgstr "Назва сss класа для тэксту каментарарыя"
+
+#: facebook-comment-by-vivacity/admin-file.php:340
+msgid "Exclude Using Page/Post IDs"
+msgstr "Выключыць выкарыстоўваючы старонку / пост  IDs"
+
+#: admin-file.php:341
+msgid ""
+"For exclude FB comment box, please insert page/post ids separate them with "
+"commas, like 5, 21"
+msgstr ""
+"Для выключэння акна FB  каментара, калі ласка, устаўце старонку / пост ids "
+"праз коску, як 5, 21"
+
+#: facebook-comment-by-vivacity/admin-file.php:350
+msgid "Moderation Settings"
+msgstr "Налады мадэрацыі"
+
+#: facebook-comment-by-vivacity/admin-file.php:355
+msgid "Moderation Area"
+msgstr "Вобласць мадэрацыі"
+
+#: facebook-comment-by-vivacity/admin-file.php:357
+msgid ""
+"If you are a moderator, you will see notifications within facebook.com. If "
+"you don't want to have moderator status, click on \"Moderation Area\" and "
+"use this link to left."
+msgstr ""
+"Калі вы мадэратар, вы ўбачыце паведамлення ў межах facebook.com. Калі вы не "
+"хочаце мець статус мадэратара, націсніце на кнопку \"Мадэрацыя вобласці і "
+"выкарыстоўвайце спасылку злева."
+
+#: facebook-comment-by-vivacity/admin-file.php:361
+msgid "Moderators"
+msgstr "Мадэратары"
+
+#: facebook-comment-by-vivacity/admin-file.php:362
+msgid ""
+"All admins to the App ID can moderate comments,By default. To add "
+"moderators, enter each Facebook User ID by a comma without spaces. To find "
+"your Facebook User ID"
+msgstr ""
+"Усе адміны да App ID могуць мадэраваць каментары, па змаўчанні. Для дадання "
+"мадэратараў, увядзіце кожны Facebook User ID праз коску без прабелаў. Каб "
+"знайсці карыстальніка Facebook ID "
+
+#: facebook-comment-by-vivacity/admin-file.php:362
+msgid "click here"
+msgstr "Націсніце тут"
+
+#: facebook-comment-by-vivacity/admin-file.php:362
+msgid ""
+"where you will see your own. To view someone else's, replace \"me\" with "
+"their username in the input provided"
+msgstr ""
+"дзе вы будзеце бачыць сваё. Для прагляду чужога, замяніць \"мяне\" на іх імя "
+"на ўваходзе"
+
+#: facebook-comment-by-vivacity/admin-file.php:369
+msgid "Hide/Show default wp comments"
+msgstr "Схаваць/Паказаць каментарыі  wp па змаўчанні "
+
+#: facebook-comment-by-vivacity/admin-file.php:378
+msgid "Hide WordPress Default Comments System From Website"
+msgstr "Схаваць сістэму WordPress каментарыяў па змаўчанні з вэб-сайта"
+
+#: facebook-comment-by-vivacity/admin-file.php:387
+msgid "Hide WordPress Default Comments System On Certain Post Types"
+msgstr ""
+"Схаваць сістэму WordPress каментарыяў па змаўчанні на пэўных тыпах поста"
+
+#: facebook-comment-by-vivacity/admin-file.php:394
+msgid "Hide WordPress Default Comments System On Posts"
+msgstr "Схаваць сістэму WordPress каментарыяў па змаўчанні ў пастах"
+
+#: facebook-comment-by-vivacity/admin-file.php:401
+msgid "Hide WordPress Default Comments System On Pages"
+msgstr "Схаваць сістэму WordPress каментарыяў па змаўчанні на старонках"
+
+#: facebook-comment-by-vivacity/admin-file.php:410
+msgid "Language Settings"
+msgstr "Налады мовы"
+
+#: facebook-comment-by-vivacity/admin-file.php:415
+msgid "Select Language"
+msgstr "Выбар мовы"
+
+#: facebook-comment-by-vivacity/admin-file.php:544
+msgid "Save Changes"
+msgstr "Захаваць змены"
+
+#: facebook-comment-by-vivacity/admin-file.php:554
+msgid "Shortcode For Templates"
+msgstr "Скарочаны код Для шаблонаў"
+
+#: facebook-comment-by-vivacity/admin-file.php:560
+msgid "You can also insert FB Comment Box manually in any page or post or"
+msgstr ""
+"Можна таксама ўставіць вакно FB Каментарыя ўручную  на любой старонцы, або ў "
+"пасце ці"
+
+#: facebook-comment-by-vivacity/admin-file.php:560
+msgid "template"
+msgstr "шаблон"
+
+#: facebook-comment-by-vivacity/admin-file.php:560
+msgid "by simply using the shortcode"
+msgstr "проста выкарыстоўваючы шорткод"
+
+#: facebook-comment-by-vivacity/admin-file.php:561
+msgid "You can insert"
+msgstr "Вы можаце ўставіць"
+
+#: facebook-comment-by-vivacity/admin-file.php:561
+msgid "code into your templates for use this shortcode"
+msgstr "код у шаблоны для выкарыстання гэтага шорткод"
+
+#: facebook-comment-by-vivacity/admin-file.php:564
+msgid "You can also use below options to override the the settings used above."
+msgstr ""
+"Вы можаце таксама выкарыстоўваць ніжэй варыянты, каб перавызначыць "
+"параметры, якія выкарыстоўваюцца вышэй."
+
+#: facebook-comment-by-vivacity/admin-file.php:567
+msgid "leave blank for current URL"
+msgstr "пакіньце пустым для бягучага URL"
+
+#: facebook-comment-by-vivacity/admin-file.php:569
+msgid "minimum must be"
+msgstr "павінна быць мінімальнае значэнне "
+
+#: facebook-comment-by-vivacity/admin-file.php:571
+msgid "number of comments"
+msgstr "Колькасць каментарыяў"
+
+#: facebook-comment-by-vivacity/admin-file.php:573
+msgid "comment count on/off"
+msgstr "каментарый разлічваецца вкл / выкл"
+
+#: facebook-comment-by-vivacity/admin-file.php:575
+msgid "color scheme: light/dark"
+msgstr "Колеравая гама: светлы/цемны"
+
+#: facebook-comment-by-vivacity/admin-file.php:577
+msgid "enter"
+msgstr "уваходзіць"
+
+#: facebook-comment-by-vivacity/admin-file.php:577
+msgid "to link to the plugin"
+msgstr "звязаць з плагінам"
+
+#: facebook-comment-by-vivacity/admin-file.php:580
+msgid "For Example"
+msgstr "Напрыклад"
+
+#: facebook-comment-by-vivacity/admin-file.php:588
+msgid "Download Free Plugins"
+msgstr "Спампаваць бясплатныя плагіны"
+
+#: facebook-comment-by-vivacity/admin-file.php:592
+msgid "has following plugins for you"
+msgstr "мае наступныя плагіны для вас"
+
+#: facebook-comment-by-vivacity/admin-file.php:610
+#: facebook-comment-by-vivacity/admin-file.php:613
+msgid "Donate Here"
+msgstr "Ахвяраваць тут "
+
+#: facebook-comment-by-vivacity/admin-file.php:612
+msgid "If you want to donate , please click on below image."
+msgstr "Калі вы хочаце ахвяраваць, калі ласка, націсніце на малюнак ніжэй."

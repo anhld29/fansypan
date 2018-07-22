@@ -1,0 +1,394 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Comment by Vivacity 1.0.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-03 10:04+0530\n"
+"PO-Revision-Date: 2015-03-03 10:34+0530\n"
+"Last-Translator: Pranjali Phulwari <support@vivacityinfotech.com>\n"
+"Language-Team: Team Vivacity <support@vivacityinfotech.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Serbian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+#: facebook-comment-by-vivacity/user-file.php:319
+#: facebook-comment-by-vivacity/user-file.php:355
+#: facebook-comment-by-vivacity/user-file.php:410
+#: facebook-comment-by-vivacity/user-file.php:465
+msgid "Facebook Comments Plugin Powered by"
+msgstr "Фацебоок Коментари Плугин Поверед би"
+
+#: facebook-comment-by-vivacity/user-file.php:325
+#: facebook-comment-by-vivacity/user-file.php:360
+#: facebook-comment-by-vivacity/user-file.php:416
+#: facebook-comment-by-vivacity/user-file.php:471
+msgid "Please Enter Your Facebook App ID. Required for FB Comments."
+msgstr "Молимо унесите Фацебоок Апп ИД. Потребно за ФБ Коментари."
+
+#: facebook-comment-by-vivacity/user-file.php:325
+#: facebook-comment-by-vivacity/user-file.php:360
+#: facebook-comment-by-vivacity/user-file.php:416
+#: facebook-comment-by-vivacity/user-file.php:471
+msgid "Click here for FB Comments Settings page"
+msgstr "Кликните овде за ФБ Коментари Сеттингс"
+
+#: facebook-comment-by-vivacity/fb-comments.php:39
+msgid "Settings"
+msgstr "Подешавања"
+
+#: facebook-comment-by-vivacity/admin-file.php:64
+msgid "FB Comments"
+msgstr "ФБ Коментари"
+
+#: facebook-comment-by-vivacity/admin-file.php:73
+msgid "fbcomment"
+msgstr "фбцоммент"
+
+#: facebook-comment-by-vivacity/admin-file.php:75
+msgid "Please Enter Your Facebook App ID. Required for Fb comments."
+msgstr "Молимо унесите Фацебоок Апп ИД. Потребно за фб коментаре."
+
+#: facebook-comment-by-vivacity/admin-file.php:76
+msgid "Click here"
+msgstr "кликните овде"
+
+#: facebook-comment-by-vivacity/admin-file.php:95
+msgid "FB Comments Plugin"
+msgstr "ФБ Коментари Плугин"
+
+#: facebook-comment-by-vivacity/admin-file.php:95
+msgid "by"
+msgstr "би"
+
+#: facebook-comment-by-vivacity/admin-file.php:149
+msgid "Set Up Your Facebook App ID"
+msgstr "Подесите свој Фацебоок Апп ИД"
+
+#: facebook-comment-by-vivacity/admin-file.php:156
+#: facebook-comment-by-vivacity/admin-file.php:159
+msgid "Create an App"
+msgstr "Направи Апп"
+
+#: facebook-comment-by-vivacity/admin-file.php:159
+msgid "To get App Id click on"
+msgstr "Да бисте добили Апп Ид кликните на"
+
+#: facebook-comment-by-vivacity/admin-file.php:162
+msgid "Enter App Id into below textbox."
+msgstr "Унесите Апп ИД у квадрату испод."
+
+#: facebook-comment-by-vivacity/admin-file.php:164
+msgid "APP ID"
+msgstr "АПП ИД"
+
+#: facebook-comment-by-vivacity/admin-file.php:172
+msgid "Facebook App Setting"
+msgstr "Фацебоок Апп Сеттинг"
+
+#: facebook-comment-by-vivacity/admin-file.php:177
+msgid "To edit your App ID click on below link:"
+msgstr "Да бисте изменили свој Апп ИД кликните на линк испод:"
+
+#: facebook-comment-by-vivacity/admin-file.php:178
+msgid "Your App Setup"
+msgstr "Иоур Апп Сетуп"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "choose your App and click"
+msgstr "изаберите свој Апп и кликните на дугме"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "Edit Settings"
+msgstr "Едит Сеттингс"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "Please Enter"
+msgstr "Молимо Вас да унесете"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "in both \"App Domains\" and \"Site URL\""
+msgstr "у оба \"Апп Домени\" и \"Сите урл\""
+
+#: facebook-comment-by-vivacity/admin-file.php:183
+#: facebook-comment-by-vivacity/admin-file.php:185
+msgid "Create a New App"
+msgstr "Створи нова апликација"
+
+#: facebook-comment-by-vivacity/admin-file.php:185
+msgid "If you want to set up a new App Id click"
+msgstr "Ако желите да подесите нови Апп Ид кликните"
+
+#: facebook-comment-by-vivacity/admin-file.php:193
+msgid "Main Settings"
+msgstr "главни параметри"
+
+#: facebook-comment-by-vivacity/admin-file.php:200
+msgid "Facebook App ID"
+msgstr "Фацебоок Апп ИД"
+
+#: facebook-comment-by-vivacity/admin-file.php:205
+msgid "Notification Email Id"
+msgstr "Обавештење Емаил ИД"
+
+#: facebook-comment-by-vivacity/admin-file.php:209
+msgid "Enable XFBML"
+msgstr "Омогући КСФБМЛ"
+
+#: facebook-comment-by-vivacity/admin-file.php:211
+msgid "only disable this if you already have XFBML enabled elsewhere"
+msgstr "само искључите ово ако већ КСФБМЛ омогућили другом месту"
+
+#: facebook-comment-by-vivacity/admin-file.php:215
+msgid "Use Facebook NameServer"
+msgstr "Користите Фацебоок намесервер"
+
+#: facebook-comment-by-vivacity/admin-file.php:217
+msgid "only enable this if Facebook Comments do not appear"
+msgstr "само омогући ово ако не појављују Фацебоок Коментари"
+
+#: facebook-comment-by-vivacity/admin-file.php:221
+msgid "Use Open Graph NameServer"
+msgstr "Користите Опен Грапх намесервер"
+
+#: facebook-comment-by-vivacity/admin-file.php:223
+msgid "only enable this if Facebook comments are not appearing, not all information is being passed to Facebook or if you have not enabled Open Graph elsewhere within WordPress"
+msgstr "само омогући ово ако Фацебоок коментари не појављују, не све информације се прослеђује Фацебоок или ако нисте омогућили Опен Грапх другде у ВордПресс"
+
+#: facebook-comment-by-vivacity/admin-file.php:227
+msgid "Use HTML5"
+msgstr "Користите ХТМЛ5"
+
+#: facebook-comment-by-vivacity/admin-file.php:231
+msgid "Show plugin site url"
+msgstr "Схов плугин Сите урл"
+
+#: facebook-comment-by-vivacity/admin-file.php:233
+msgid "only enable this if you want to show plugin site"
+msgstr "само омогућавају ово ако желите да прикажете плугин сајт"
+
+#: facebook-comment-by-vivacity/admin-file.php:240
+msgid "Display Settings"
+msgstr "Дисплаи Сеттингс"
+
+#: facebook-comment-by-vivacity/admin-file.php:245
+msgid "Posts"
+msgstr "порука"
+
+#: facebook-comment-by-vivacity/admin-file.php:249
+msgid "Pages"
+msgstr "пагес"
+
+#: facebook-comment-by-vivacity/admin-file.php:253
+msgid "Home"
+msgstr "Насловна"
+
+#: facebook-comment-by-vivacity/admin-file.php:258
+msgid "Archive"
+msgstr "Архива"
+
+#: facebook-comment-by-vivacity/admin-file.php:265
+msgid "Post types"
+msgstr "Пост типови"
+
+#: facebook-comment-by-vivacity/admin-file.php:298
+msgid "Colour Scheme"
+msgstr "Шема боја"
+
+#: facebook-comment-by-vivacity/admin-file.php:302
+msgid "Light"
+msgstr "лигхт"
+
+#: facebook-comment-by-vivacity/admin-file.php:304
+msgid "Dark"
+msgstr "Тамно"
+
+#: facebook-comment-by-vivacity/admin-file.php:309
+msgid "Number of Comments"
+msgstr "Број коментара"
+
+#: facebook-comment-by-vivacity/admin-file.php:311
+msgid "Default no of comments is"
+msgstr "Дефаулт број коментара је"
+
+#: facebook-comment-by-vivacity/admin-file.php:315
+msgid "Width"
+msgstr "Ширина"
+
+#: facebook-comment-by-vivacity/admin-file.php:317
+msgid "For Responsive Look use 100% as width"
+msgstr "За Брзо Види употребу 100% као ширине"
+
+#: facebook-comment-by-vivacity/admin-file.php:318
+msgid "Default comment box width is"
+msgstr "Уобичајено коментар кутија ширина"
+
+#: facebook-comment-by-vivacity/admin-file.php:322
+msgid "Title"
+msgstr "Наслов"
+
+#: facebook-comment-by-vivacity/admin-file.php:325
+msgid "Css class name for title"
+msgstr "ЦСС класа назив за титулу"
+
+#: facebook-comment-by-vivacity/admin-file.php:329
+msgid "Show Comment Count"
+msgstr "Прикажи коментар Цоунт"
+
+#: facebook-comment-by-vivacity/admin-file.php:334
+msgid "Comment text"
+msgstr "Коментар текст"
+
+#: facebook-comment-by-vivacity/admin-file.php:336
+msgid "Css class name for Comment text"
+msgstr "ЦСС класа назив за коментар текста"
+
+#: facebook-comment-by-vivacity/admin-file.php:340
+msgid "Exclude Using Page/Post IDs"
+msgstr "Искључује Коришћење Паге / Пост легитимације"
+
+#: admin-file.php:341
+msgid "For exclude FB comment box, please insert page/post ids separate them with commas, like 5, 21"
+msgstr "За искључује ФБ коментар кутију, молимо Вас да убаците страна / пост ИДС их одвојите зарезима, као 5, 21"
+
+#: facebook-comment-by-vivacity/admin-file.php:350
+msgid "Moderation Settings"
+msgstr "Модератион Сеттингс"
+
+#: facebook-comment-by-vivacity/admin-file.php:355
+msgid "Moderation Area"
+msgstr "умереност Ареа"
+
+#: facebook-comment-by-vivacity/admin-file.php:357
+msgid "If you are a moderator, you will see notifications within facebook.com. If you don't want to have moderator status, click on \"Moderation Area\" and use this link to left."
+msgstr "Ако сте модератора, видећете обавештења у оквиру фацебоок.цом. Ако не желите да имате статус модератора, кликните на  \"умерености Ареа\" и користите овај линк на лево."
+
+#: facebook-comment-by-vivacity/admin-file.php:361
+msgid "Moderators"
+msgstr "Модератори"
+
+#: facebook-comment-by-vivacity/admin-file.php:362
+msgid "All admins to the App ID can moderate comments,By default. To add moderators, enter each Facebook User ID by a comma without spaces. To find your Facebook User ID"
+msgstr "Све администратори на Апп ИД може да модерира коментаре, по дефаулту. Да бисте додали Модератори, унесите сваки Фацебоок Усер ИД зарезом, без размака. Да бисте пронашли свој Фацебоок Усер ИД"
+
+#: facebook-comment-by-vivacity/admin-file.php:362
+msgid "click here"
+msgstr "кликните овде"
+
+#: facebook-comment-by-vivacity/admin-file.php:362
+msgid "where you will see your own. To view someone else's, replace \"me\" with their username in the input provided"
+msgstr "где ћете видети свој. Да бисте видели туђе, замените  \"ме\" са њиховим корисничким именом у улаз пружа"
+
+#: facebook-comment-by-vivacity/admin-file.php:369
+msgid "Hide/Show default wp comments"
+msgstr "Хиде / схов Дефаулт вп коментара"
+
+#: facebook-comment-by-vivacity/admin-file.php:378
+msgid "Hide WordPress Default Comments System From Website"
+msgstr "Сакрити ВордПресс Дефаулт Коментари систем од сајту"
+
+#: facebook-comment-by-vivacity/admin-file.php:387
+msgid "Hide WordPress Default Comments System On Certain Post Types"
+msgstr "Сакрити ВордПресс Дефаулт Коментари система на одређеним Пост типова"
+
+#: facebook-comment-by-vivacity/admin-file.php:394
+msgid "Hide WordPress Default Comments System On Posts"
+msgstr "Сакрити ВордПресс Дефаулт Коментари система на порука"
+
+#: facebook-comment-by-vivacity/admin-file.php:401
+msgid "Hide WordPress Default Comments System On Pages"
+msgstr "Сакрити ВордПресс Дефаулт Коментари систем на страницама"
+
+#: facebook-comment-by-vivacity/admin-file.php:410
+msgid "Language Settings"
+msgstr "језичка подешавања"
+
+#: facebook-comment-by-vivacity/admin-file.php:415
+msgid "Select Language"
+msgstr "селецт лангуаге"
+
+#: facebook-comment-by-vivacity/admin-file.php:544
+msgid "Save Changes"
+msgstr "Сачувај промене"
+
+#: facebook-comment-by-vivacity/admin-file.php:554
+msgid "Shortcode For Templates"
+msgstr "Схортцоде за шаблоне"
+
+#: facebook-comment-by-vivacity/admin-file.php:560
+msgid "You can also insert FB Comment Box manually in any page or post or"
+msgstr "Такође можете убацити ФБ коментар Бок ручно у било које странице или поштом или"
+
+#: facebook-comment-by-vivacity/admin-file.php:560
+msgid "template"
+msgstr "Шаблон"
+
+#: facebook-comment-by-vivacity/admin-file.php:560
+msgid "by simply using the shortcode"
+msgstr "једноставним коришћењем Схортцоде"
+
+#: facebook-comment-by-vivacity/admin-file.php:561
+msgid "You can insert"
+msgstr "Можете да убаците"
+
+#: facebook-comment-by-vivacity/admin-file.php:561
+msgid "code into your templates for use this shortcode"
+msgstr "Шифра у своје шаблоне за коришћење ове Схортцоде"
+
+#: facebook-comment-by-vivacity/admin-file.php:564
+msgid "You can also use below options to override the the settings used above."
+msgstr "Такође можете да користите следеће опције да се премостити поставке које се користе горе."
+
+#: facebook-comment-by-vivacity/admin-file.php:567
+msgid "leave blank for current URL"
+msgstr "оставите празно за текућу УРЛ"
+
+#: facebook-comment-by-vivacity/admin-file.php:569
+msgid "minimum must be"
+msgstr "Минимум мора бити"
+
+#: facebook-comment-by-vivacity/admin-file.php:571
+msgid "number of comments"
+msgstr "број коментара"
+
+#: facebook-comment-by-vivacity/admin-file.php:573
+msgid "comment count on/off"
+msgstr "коментар рачунају он / офф"
+
+#: facebook-comment-by-vivacity/admin-file.php:575
+msgid "color scheme: light/dark"
+msgstr "шема боја: светло / Дарк"
+
+#: facebook-comment-by-vivacity/admin-file.php:577
+msgid "enter"
+msgstr "ентер"
+
+#: facebook-comment-by-vivacity/admin-file.php:577
+msgid "to link to the plugin"
+msgstr "да се повежете на плугин"
+
+#: facebook-comment-by-vivacity/admin-file.php:580
+msgid "For Example"
+msgstr "Фор Екампле"
+
+#: facebook-comment-by-vivacity/admin-file.php:588
+msgid "Download Free Plugins"
+msgstr "Довнлоад Фрее Плугинс"
+
+#: facebook-comment-by-vivacity/admin-file.php:592
+msgid "has following plugins for you"
+msgstr "има следеће додатака за вас"
+
+#: facebook-comment-by-vivacity/admin-file.php:610
+#: facebook-comment-by-vivacity/admin-file.php:613
+msgid "Donate Here"
+msgstr "Донате овде"
+
+#: facebook-comment-by-vivacity/admin-file.php:612
+msgid "If you want to donate , please click on below image."
+msgstr "Ако желите да донирате, кликните на слику испод."
+

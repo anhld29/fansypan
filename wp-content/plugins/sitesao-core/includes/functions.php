@@ -1452,7 +1452,7 @@ function dh_post_featured($post_id='',$post_format='',$is_shortcode = false,$is_
 		$thumb_size = 'dh-thumbnail';
 	}
 	if($layout == 'masonry'){
-		$thumb_size = 'dh-full';
+		$thumb_size = 'dh-thumbnail';
 	}
 	if($is_thumb_square) {
 		$thumb_size = 'dh-thumbnail-square';

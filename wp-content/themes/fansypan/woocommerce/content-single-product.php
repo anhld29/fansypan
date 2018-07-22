@@ -109,8 +109,18 @@ $layout = dh_get_theme_option('woo-product-layout','full-width');
 	</div>
 	<?php 
 	woocommerce_output_product_data_tabs();
-		echo do_shortcode( '[wc_quick_buy_link]' );
 	?>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<?php
+					echo do_shortcode( '[wc_quick_buy_link]' );
+					echo do_shortcode('[vivafbcomment]');
+				?>
+			</div>
+		</div>
+	</div>
+	
 	<div class="<?php dh_container_class()?>">
 	<?php endif;?>
 		<div class="row">

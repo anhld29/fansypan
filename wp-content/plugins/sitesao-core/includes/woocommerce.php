@@ -509,7 +509,7 @@ if ( ! class_exists( 'DH_Woocommerce' ) ) :
 							if(function_exists('wc_get_cart_remove_url'))
 								$remove_url = wc_get_cart_remove_url($cart_item_key);
 							else
-								$remove_url = $woocommerce->cart->wc_get_cart_remove_url( $cart_item_key );
+								$remove_url = $woocommerce->cart->get_remove_url( $cart_item_key );
 							
 							$minicart .= apply_filters( 'woocommerce_cart_item_remove_link',sprintf( '<a href="%s" class="remove" title="%s">&times;</a>', esc_url( $remove_url ), __( 'Remove this item', 'sitesao' ) ), $cart_item_key );
 							$minicart .= '</div>';

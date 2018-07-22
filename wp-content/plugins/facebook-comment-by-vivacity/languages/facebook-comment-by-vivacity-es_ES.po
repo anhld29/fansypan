@@ -1,0 +1,397 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Comment by Vivacity 1.0.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-03 10:04+0530\n"
+"PO-Revision-Date: 2015-03-03 10:30+0530\n"
+"Last-Translator: Pranjali Phulwari <support@vivacityinfotech.com>\n"
+"Language-Team: Team Vivacity <support@vivacityinfotech.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: facebook-comment-by-vivacity/user-file.php:319
+#: facebook-comment-by-vivacity/user-file.php:355
+#: facebook-comment-by-vivacity/user-file.php:410
+#: facebook-comment-by-vivacity/user-file.php:465
+msgid "Facebook Comments Plugin Powered by"
+msgstr "Facebook Comments Plugin Desarrollado por"
+
+#: facebook-comment-by-vivacity/user-file.php:325
+#: facebook-comment-by-vivacity/user-file.php:360
+#: facebook-comment-by-vivacity/user-file.php:416
+#: facebook-comment-by-vivacity/user-file.php:471
+msgid "Please Enter Your Facebook App ID. Required for FB Comments."
+msgstr "Introduzca su ID de la App de Facebook. Requerido para FB Comments."
+
+#: facebook-comment-by-vivacity/user-file.php:325
+#: facebook-comment-by-vivacity/user-file.php:360
+#: facebook-comment-by-vivacity/user-file.php:416
+#: facebook-comment-by-vivacity/user-file.php:471
+msgid "Click here for FB Comments Settings page"
+msgstr "Haga clic aquí para la página de Configuraciones de FB Comments"
+
+#: facebook-comment-by-vivacity/fb-comments.php:39
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: facebook-comment-by-vivacity/admin-file.php:64
+msgid "FB Comments"
+msgstr "FB Comments"
+
+#: facebook-comment-by-vivacity/admin-file.php:73
+msgid "fbcomment"
+msgstr "fbcomment"
+
+#: facebook-comment-by-vivacity/admin-file.php:75
+msgid "Please Enter Your Facebook App ID. Required for Fb comments."
+msgstr "Por Favor Introduzca Su ID De La App De Facebook. Requerido Para FB Comments."
+
+#: facebook-comment-by-vivacity/admin-file.php:76
+msgid "Click here"
+msgstr "Haga clic aquí"
+
+#: facebook-comment-by-vivacity/admin-file.php:95
+msgid "FB Comments Plugin"
+msgstr "Plugin de FB Comments"
+
+#: facebook-comment-by-vivacity/admin-file.php:95
+msgid "by"
+msgstr "por"
+
+#: facebook-comment-by-vivacity/admin-file.php:149
+msgid "Set Up Your Facebook App ID"
+msgstr "Establezca su ID de App de Facebook"
+
+#: facebook-comment-by-vivacity/admin-file.php:156
+#: facebook-comment-by-vivacity/admin-file.php:159
+msgid "Create an App"
+msgstr "Crear una App"
+
+#: facebook-comment-by-vivacity/admin-file.php:159
+msgid "To get App Id click on"
+msgstr "Para obtener el id de la App haga clic en"
+
+#: facebook-comment-by-vivacity/admin-file.php:162
+msgid "Enter App Id into below textbox."
+msgstr "Introduzca el Id de la App en el campo de texto de a continuación."
+
+#: facebook-comment-by-vivacity/admin-file.php:164
+msgid "APP ID"
+msgstr "ID de la App"
+
+#: facebook-comment-by-vivacity/admin-file.php:172
+msgid "Facebook App Setting"
+msgstr "Configuración de la App de Facebook"
+
+#: facebook-comment-by-vivacity/admin-file.php:177
+msgid "To edit your App ID click on below link:"
+msgstr "Para editar el ID de su App, haga clic en el siguiente enlace:"
+
+#: facebook-comment-by-vivacity/admin-file.php:178
+msgid "Your App Setup"
+msgstr "Configuración de su App"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "choose your App and click"
+msgstr "seleccione su App y haga clic"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "Edit Settings"
+msgstr "Modificar las Configuraciones"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "Please Enter"
+msgstr "Por Favor Introduzca"
+
+#: facebook-comment-by-vivacity/admin-file.php:179
+msgid "in both \"App Domains\" and \"Site URL\""
+msgstr "en ambos \"Dominios de la App\" y \"URL del Sitio\""
+
+#: facebook-comment-by-vivacity/admin-file.php:183
+#: facebook-comment-by-vivacity/admin-file.php:185
+msgid "Create a New App"
+msgstr "Crear una Nueva App"
+
+#: facebook-comment-by-vivacity/admin-file.php:185
+msgid "If you want to set up a new App Id click"
+msgstr "Si desea configurar un nuevo clic de Id de la App "
+
+#: facebook-comment-by-vivacity/admin-file.php:193
+msgid "Main Settings"
+msgstr "Configuración principal"
+
+#: facebook-comment-by-vivacity/admin-file.php:200
+msgid "Facebook App ID"
+msgstr "ID de la App de Facebook"
+
+#: facebook-comment-by-vivacity/admin-file.php:205
+msgid "Notification Email Id"
+msgstr "Notificación por correo electrónico Id"
+
+#: facebook-comment-by-vivacity/admin-file.php:209
+msgid "Enable XFBML"
+msgstr "Habilitar XFBML"
+
+#: facebook-comment-by-vivacity/admin-file.php:211
+msgid "only disable this if you already have XFBML enabled elsewhere"
+msgstr "sólo desactivar esta opción si ya ha habilitado XFBML en otros lugares"
+
+#: facebook-comment-by-vivacity/admin-file.php:215
+msgid "Use Facebook NameServer"
+msgstr "Use NameServer de Facebook "
+
+#: facebook-comment-by-vivacity/admin-file.php:217
+msgid "only enable this if Facebook Comments do not appear"
+msgstr "sólo activarla si no aparecen los Comentarios en Facebook "
+
+#: facebook-comment-by-vivacity/admin-file.php:221
+msgid "Use Open Graph NameServer"
+msgstr "Utilizar Open Graph NameServer"
+
+#: facebook-comment-by-vivacity/admin-file.php:223
+msgid "only enable this if Facebook comments are not appearing, not all information is being passed to Facebook or if you have not enabled Open Graph elsewhere within WordPress"
+msgstr "sólo activarla si los comentarios de Facebook no aparecen, si toda la información no está pasando a Facebook, o si no ha habilitado Open Graph en otros lugares dentro de WordPress"
+
+#: facebook-comment-by-vivacity/admin-file.php:227
+msgid "Use HTML5"
+msgstr "Utilizar HTML5"
+
+#: facebook-comment-by-vivacity/admin-file.php:231
+msgid "Show plugin site url"
+msgstr "Mostrar la url del sitio del plugin"
+
+#: facebook-comment-by-vivacity/admin-file.php:233
+msgid "only enable this if you want to show plugin site"
+msgstr "sólo habilite esta opción si desea mostrar el sitio del plugin"
+
+#: facebook-comment-by-vivacity/admin-file.php:240
+msgid "Display Settings"
+msgstr "Mostrar Configuraciones"
+
+#: facebook-comment-by-vivacity/admin-file.php:245
+msgid "Posts"
+msgstr "Posts"
+
+#: facebook-comment-by-vivacity/admin-file.php:249
+msgid "Pages"
+msgstr "Páginas"
+
+#: facebook-comment-by-vivacity/admin-file.php:253
+msgid "Home"
+msgstr "Inicio"
+
+#: facebook-comment-by-vivacity/admin-file.php:258
+msgid "Archive"
+msgstr "archivo"
+
+#: facebook-comment-by-vivacity/admin-file.php:265
+msgid "Post types"
+msgstr "Post tipos"
+
+#: facebook-comment-by-vivacity/admin-file.php:298
+msgid "Colour Scheme"
+msgstr "Esquema de Colores"
+
+#: facebook-comment-by-vivacity/admin-file.php:302
+msgid "Light"
+msgstr "Claro"
+
+#: facebook-comment-by-vivacity/admin-file.php:304
+msgid "Dark"
+msgstr "Ocuro"
+
+#: facebook-comment-by-vivacity/admin-file.php:309
+msgid "Number of Comments"
+msgstr "Número de Comentarios"
+
+#: facebook-comment-by-vivacity/admin-file.php:311
+msgid "Default no of comments is"
+msgstr "Por Defecto no de comentarios es"
+
+#: facebook-comment-by-vivacity/admin-file.php:315
+msgid "Width"
+msgstr "Ancho"
+
+#: facebook-comment-by-vivacity/admin-file.php:317
+msgid "For Responsive Look use 100% as width"
+msgstr "Para uso Look Responsive 100% como la anchura"
+
+#: facebook-comment-by-vivacity/admin-file.php:318
+msgid "Default comment box width is"
+msgstr "Ancho por defecto del box de comentario "
+
+#: facebook-comment-by-vivacity/admin-file.php:322
+msgid "Title"
+msgstr "Título"
+
+#: facebook-comment-by-vivacity/admin-file.php:325
+msgid "Css class name for title"
+msgstr "Css nombre de la clase de título"
+
+#: facebook-comment-by-vivacity/admin-file.php:329
+msgid "Show Comment Count"
+msgstr "Mostrar Cantidad de Comentarios"
+
+#: facebook-comment-by-vivacity/admin-file.php:334
+msgid "Comment text"
+msgstr "Texto del comentario"
+
+#: facebook-comment-by-vivacity/admin-file.php:336
+msgid "Css class name for Comment text"
+msgstr "Css nombre de la clase de texto Comentario"
+
+#: facebook-comment-by-vivacity/admin-file.php:340
+msgid "Exclude Using Page/Post IDs"
+msgstr "Excluir Usando Página / Post IDs"
+
+#: admin-file.php:341
+msgid "For exclude FB comment box, please insert page/post ids separate them with commas, like 5, 21"
+msgstr "Para excluir cuadro FB comentario, por favor, introduzca página / post identificadores separados por comas, como 5, 21"
+
+#: facebook-comment-by-vivacity/admin-file.php:350
+msgid "Moderation Settings"
+msgstr "Configuración de la Moderación"
+
+#: facebook-comment-by-vivacity/admin-file.php:355
+msgid "Moderation Area"
+msgstr "Área de la Moderación"
+
+#: facebook-comment-by-vivacity/admin-file.php:357
+msgid "If you are a moderator, you will see notifications within facebook.com. If you don't want to have moderator status, click on \"Moderation Area\" and use this link to left."
+msgstr "Si usted es un moderador, verá las notificaciones dentro de facebook.com. Si no quiere tener el estado de moderador, haga clic en  \"Área de la Moderación\" y utilice este enlace de la izquierda."
+
+#: facebook-comment-by-vivacity/admin-file.php:361
+msgid "Moderators"
+msgstr "Moderadores"
+
+#: facebook-comment-by-vivacity/admin-file.php:362
+msgid "All admins to the App ID can moderate comments,By default. To add moderators, enter each Facebook User ID by a comma without spaces. To find your Facebook User ID"
+msgstr "Todos los administradores del ID de la App pueden moderar los comentarios, de forma predeterminada. Para agregar moderadores, introduzca cada ID de Facebook de usuario con coma y sin espacios. Para encontrar su ID de usuario de Facebook"
+
+#: facebook-comment-by-vivacity/admin-file.php:362
+msgid "click here"
+msgstr "haga clic aquí"
+
+#: facebook-comment-by-vivacity/admin-file.php:362
+msgid "where you will see your own. To view someone else's, replace \"me\" with their username in the input provided"
+msgstr "donde podrá ver su cuenta. Para ver la de otra persona, reemplace \"me\" con su nombre de usuario en el campo proveido."
+
+#: facebook-comment-by-vivacity/admin-file.php:369
+msgid "Hide/Show default wp comments"
+msgstr "Mostrar/Ocultar comentarios de wp por defecto"
+
+#: facebook-comment-by-vivacity/admin-file.php:378
+msgid "Hide WordPress Default Comments System From Website"
+msgstr "Ocultar el Sistema de Comentarios por Defecto de WordPress desde el Sitio Web"
+
+#: facebook-comment-by-vivacity/admin-file.php:387
+msgid "Hide WordPress Default Comments System On Certain Post Types"
+msgstr "Ocultar el Sistema de Comentarios por Defecto de WordPress en Ciertos Tipos de Post"
+
+#: facebook-comment-by-vivacity/admin-file.php:394
+msgid "Hide WordPress Default Comments System On Posts"
+msgstr "Ocultar el Sistema de Comentarios por Defecto de WordPress en los Posts"
+
+#: facebook-comment-by-vivacity/admin-file.php:401
+msgid "Hide WordPress Default Comments System On Pages"
+msgstr "Ocultar el Sistema de Comentarios por Defecto de WordPress en las Páginas"
+
+#: facebook-comment-by-vivacity/admin-file.php:410
+msgid "Language Settings"
+msgstr "Configuración de idioma"
+
+#: facebook-comment-by-vivacity/admin-file.php:415
+msgid "Select Language"
+msgstr "Selecciona Idioma de la"
+
+#: facebook-comment-by-vivacity/admin-file.php:544
+msgid "Save Changes"
+msgstr "Guardar los Cambios"
+
+#: facebook-comment-by-vivacity/admin-file.php:554
+msgid "Shortcode For Templates"
+msgstr "Código Corto Por Plantillas"
+
+#: facebook-comment-by-vivacity/admin-file.php:560
+msgid "You can also insert FB Comment Box manually in any page or post or"
+msgstr "También puede insertar el Box de FB Comentario manualmente en cualquier página o post o"
+
+#: facebook-comment-by-vivacity/admin-file.php:560
+msgid "template"
+msgstr "plantilla"
+
+#: facebook-comment-by-vivacity/admin-file.php:560
+msgid "by simply using the shortcode"
+msgstr "simplemente usando el código corto"
+
+#: facebook-comment-by-vivacity/admin-file.php:561
+msgid "You can insert"
+msgstr "Usted puede insertar"
+
+#: facebook-comment-by-vivacity/admin-file.php:561
+msgid "code into your templates for use this shortcode"
+msgstr "código en sus plantillas para el uso de este código corto"
+
+#: facebook-comment-by-vivacity/admin-file.php:564
+msgid "You can also use below options to override the the settings used above."
+msgstr "También puede utilizar las opciones de abajo para anular los ajustes utilizados anteriormente."
+
+#: facebook-comment-by-vivacity/admin-file.php:567
+msgid "leave blank for current URL"
+msgstr "dejar en blanco para la URL actual"
+
+#: facebook-comment-by-vivacity/admin-file.php:569
+msgid "minimum must be"
+msgstr "el mínimo debe ser"
+
+#: facebook-comment-by-vivacity/admin-file.php:571
+msgid "number of comments"
+msgstr "número de comentarios"
+
+#: facebook-comment-by-vivacity/admin-file.php:573
+msgid "comment count on/off"
+msgstr "cantidad de comentarios on/off"
+
+#: facebook-comment-by-vivacity/admin-file.php:575
+msgid "color scheme: light/dark"
+msgstr "esquema de color: claro/oscuro"
+
+#: facebook-comment-by-vivacity/admin-file.php:577
+msgid "enter"
+msgstr "entrar"
+
+#: facebook-comment-by-vivacity/admin-file.php:577
+msgid "to link to the plugin"
+msgstr "para enlazar con el plug-in"
+
+#: facebook-comment-by-vivacity/admin-file.php:580
+msgid "For Example"
+msgstr "Por Ejemplo"
+
+#: facebook-comment-by-vivacity/admin-file.php:588
+msgid "Download Free Plugins"
+msgstr "Descargar Gratis Plugins"
+
+#: facebook-comment-by-vivacity/admin-file.php:592
+msgid "has following plugins for you"
+msgstr "tiene siguientes plugins para usted"
+
+#: facebook-comment-by-vivacity/admin-file.php:610
+#: facebook-comment-by-vivacity/admin-file.php:613
+msgid "Donate Here"
+msgstr "donar Aquí"
+
+#: facebook-comment-by-vivacity/admin-file.php:612
+msgid "If you want to donate , please click on below image."
+msgstr "Si usted desea donar, por favor haga clic en la imagen abajo."
+
+#~ msgid "Vivacity Infotech Pvt. Ltd."
+#~ msgstr "Vivacity Infotech Pvt.. Ltd."
+
+#~ msgid "Message Id"
+#~ msgstr "Id del Mensaje"

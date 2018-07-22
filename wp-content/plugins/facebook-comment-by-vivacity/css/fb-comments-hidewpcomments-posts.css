@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/*****************************/
+/* Hide the WordPress commenting form
+/*****************************/
+
+.single #comments , .single .comments-area , .single .comments-title , .single .comment-list , .single #respond, .single #commentform, .single #addcomment, .single .entry-comments {
+	 display: none !important;
+}
+ 

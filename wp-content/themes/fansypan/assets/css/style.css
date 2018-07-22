@@ -7405,11 +7405,7 @@ a[data-toggle="tooltip"]:hover {
 }
 .heading-container .heading-standar .page-breadcrumb {
   float: none;
-<<<<<<< HEAD
   padding: 15px 0;
-=======
-  padding: 13px 0;
->>>>>>> c82e13dd6b0095cd60bcbf722b0812815bce9154
 }
 .heading-container .heading-standar .page-breadcrumb a:hover {
   text-decoration: underline;
@@ -8651,6 +8647,14 @@ Shortcode Post Grid
   .post-grid-wrap ul.list li .hentry-wrap .entry-info .entry-meta {
     display: none;
   }
+}
+.posts-layout-default .entry-featured {
+  width: 30%;
+  float: left;
+}
+.posts-layout-default .entry-info {
+  width: 67%;
+  float: right;
 }
 /*--------------------------------------------------------------
 30.0 - Comment form
